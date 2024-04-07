@@ -1,36 +1,38 @@
 from flask import Flask
+from flask import render_template
 
 app = Flask(__name__)
 
+html_page = 'template_tables.html'
+
 @app.route("/")
 def landing_page():
-	return "<p>landing</p>"
+	return render_template('../website/front_end.html')
 
 @app.route("/sunday")
-def landing_page():
-	return "<p>landing</p>"
-
+def sunday_page():
+	return render_template(html_page) 
 
 @app.route("/monday")
-def landing_page():
-	return "<p>landing</p>"
+def monday_page():
+	return render_template(html_page)
 
 @app.route("/tuesday")
-def landing_page():
-	return "<p>landing</p>"
+def tuesday_page():
+	return render_template(html_page)
 
 @app.route("/wednesday")
-def landing_page():
-	return "<p>landing</p>"
+def wednesday_page():
+	return render_template(html_page)
 
 @app.route("/thursday")
-def landing_page():
-	return "<p>landing</p>"
+def thursday_page():
+	return render_template(html_page)
 
 @app.route("/friday")
-def landing_page():
-	return "<p>landing</p>"
+def friday_page():
+	return render_template(html_page)
 
 @app.route("/saturday")
-def landing_page():
-	return "<p>landing</p>"
+def saturday_page():
+	return render_template(html_page)

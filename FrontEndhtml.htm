@@ -4,8 +4,24 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Food Menu</title>
+</head>
+<body>
+  <header id="original-header">
+    <nav id="nav-buttons">
+      <ul id="original-page">
+        <li><button type="button" id="iggy-market">Iggy's Market</button></li>
+        <li><button type="button" id="boulder">Boulder</button></li>
+        <li><button type="button" id="boulder-2">Boulder 2.0</button></li>
+        <li><button type="button" id="fresh-west">Fresh West</button></li>
+        <li><button type="button" id="choolah">Choolah</button></li>
+        <li><button type="button" id="green-peel">Green Peel</button></li>
+        <li><button type="button" id="iggy-night">Iggy's Night Hound</button></li>
+        <li><button type="button" id="iggy-bravisimo">Iggy's Bravisimo</button></li>
+      </ul>
+    </nav>
+  </header>
   <style>
-    /* Global CSS */
+/* Global CSS */
     body {
       font-family: "Times New Romans", "Times" sans-serif;
       margin: 0;
@@ -29,8 +45,7 @@
       color: black; /* Set text color */
       border: none; /* Remove border */
       padding: 10px 10px; /* Adjust padding for better appearance */ 
-      border-radius: 5px; /* Add border radius for rounded corn
-      ers */
+      border-radius: 5px; /* Add border radius for rounded corners */
       
     }
 
@@ -134,32 +149,19 @@
     }
     .select-food-button {
       position: absolute; /* Change to fixed position */
-      top: 75px; /* Adjust position */
+      top: 160px; /* Adjust position */
       left: 500px;
       right: 500px;
       z-index: 999; /* Ensure it's on top of other elements */
     }
-
-  </style>
-</head>
-<body>
-  <header id="original-header">
-    <nav id="nav-buttons">
-      <ul id="original-page">
-        <li><button type="button" id="iggy-market">Iggy's Market</button></li>
-        <li><button type="button" id="boulder">Boulder</button></li>
-        <li><button type="button" id="boulder-2">Boulder 2.0</button></li>
-        <li><button type="button" id="fresh-west">Fresh West</button></li>
-        <li><button type="button" id="choolah">Choolah</button></li>
-        <li><button type="button" id="green-peel">Green Peel</button></li>
-        <li><button type="button" id="iggy-night">Iggy's Night Hound</button></li>
-        <li><button type="button" id="iggy-bravisimo">Iggy's Bravisimo</button></li>
-      </ul>
-    </nav>
-  </header>
+    h3 {
+      text-align: center;
+      font-size: 1.4em;
+    }
+</style>
   <main>
     <h1>Healthy Hounds</h1>
-    <p>Welcome to a healthy alternative!</p>
+    <p>Welcome to a Healthy Alternative!</p>
     <p>Your recommendation for today is "" from ""!</p>
     <p class="p1">Purpose</p>
     <p class="p2">This program lists the menus at Loyola Maryland University and lists the total macros and carbon emission for each food. Based off all the menus, the program caluclates which option is the healthiest and more environmental friendly!</p>
@@ -170,6 +172,7 @@
   <div id="hello-screen" style="display: none;">
     <div id="hello-content" style="margin-top: 50px;"> <!-- Add inline style -->
       <h2 id="dynamicContent">dynamicContent</h2>
+      <h3 id="restaurantStats">restaurantStats</h3>
       
       <button id="selectFoodItem" class="select-food-button" onclick="selectFoodItem()">Select Food Item</button>
     </div>
@@ -186,10 +189,11 @@
     <p class="p15">Protein: </p>
     <button class="back-button" onclick="goBackToSecondScreen()">Back</button>
   </div>
-
   <script>
-    // Variable to store dynamic content
+// Variable to store dynamic content
     let dynamicContent = ""; // Default content
+    
+    let restaurantStats = "";
 
     // Store original button styles
     const originalButtonStyles = {};
@@ -206,6 +210,12 @@
     function updateScreen(content) {
       // Set the dynamic content
       dynamicContent = content;
+      
+      if (content == "Iggy's Market" || content == "Boulder") {
+      	restaurantStats = "Dine in, Low Wait Time";
+    	 } else {
+      	restaurantStats = "Dine in, Medium Wait Time";
+      }
 
       // Hide the original page
       document.getElementById('original-page').style.display = 'none';
@@ -218,6 +228,8 @@
       
       // Update the content of the paragraph
       document.getElementById('dynamicContent').innerText = dynamicContent;
+      
+      document.getElementById('restaurantStats').innerText = restaurantStats;
 
       // Reset button styles
       resetButtonStyles();

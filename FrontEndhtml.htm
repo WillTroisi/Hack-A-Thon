@@ -4,19 +4,17 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Food Menu</title>
-  
-</head>
-<style>
-
+  <style>
     /* Global CSS */
     body {
-      font-family: sans-serif;
+      font-family: "Times New Romans", "Times" sans-serif;
       margin: 0;
       padding: 0;
+      background-color: #f0f0e0;
     }
 
     header {
-      background-color: #f0f0e0;
+      background-color: #05472a;
       display: flex; /* Make header a flexbox container */
       align-items: center; /* Align navigation items vertically */
       padding: 10px;
@@ -30,8 +28,10 @@
       background-color: #e0e0e0; /* Set background color */
       color: black; /* Set text color */
       border: none; /* Remove border */
-      padding: 5px 10px; /* Adjust padding for better appearance */
-      border-radius: 5px; /* Add border radius for rounded corners */
+      padding: 10px 10px; /* Adjust padding for better appearance */ 
+      border-radius: 5px; /* Add border radius for rounded corn
+      ers */
+      
     }
 
     /* CSS for button hover effect */
@@ -68,31 +68,31 @@
     }
 
     h1 {
-      font-size: 3em;
+      font-size: 4em;
       margin-bottom: 20px;
     }
 
     p {
-      font-size: 1.2em;
+      font-size: 2em;
     }
     
     
     .p1 {
-      font-size: 23px;
       font-weight: bold;
+      font-size: 2em;
     }
 
     .p2 {
-      font-size: 1em;
+      font-size: 1.25em;
     }
 
     .p3 {
-      font-size: 23px;
       font-weight: bold;
+      font-size: 2em;
     }
 
     .p4 {
-      font-size: 1em;
+      font-size: 1.25em;
     }
 
     /* Custom CSS */
@@ -128,7 +128,9 @@
     h2 {
       text-align: center;
       font-size: 3em;
-      
+    }
+    #dynamicContent {
+      text-align: center;
     }
     .select-food-button {
       position: absolute; /* Change to fixed position */
@@ -137,7 +139,9 @@
       right: 500px;
       z-index: 999; /* Ensure it's on top of other elements */
     }
-    </style>
+
+  </style>
+</head>
 <body>
   <header id="original-header">
     <nav id="nav-buttons">
@@ -156,11 +160,11 @@
   <main>
     <h1>Healthy Hounds</h1>
     <p>Welcome to a healthy alternative!</p>
-    <p>Your number one recommendation for today is "" from ""!</p>
+    <p>Your recommendation for today is "" from ""!</p>
     <p class="p1">Purpose</p>
-    <p class="p2">This program gives you the best recommendation for Dining options</p>
+    <p class="p2">This program lists the menus at Loyola Maryland University and lists the total macros and carbon emission for each food. Based off all the menus, the program caluclates which option is the healthiest and more environmental friendly!</p>
     <p class="p3">How it works</p>
-    <p class="p4">This program takes data from its database and updates according to the menus on each day. This data is gathered with a weekly schedule update mechanic with gathers data from the menus throguh an API.</p>
+    <p class="p4">This program takes data from its database and updates according to the menus on each day. This data is gathered with a weekly schedule update mechanic which gathers data on the menus throguh an API.</p>
   </main>
 
   <div id="hello-screen" style="display: none;">
@@ -173,12 +177,17 @@
   </div>
 
   <div id="third-screen">
-    <h2>Third Screen</h2>
-    <p>This is the third screen content.</p>
+    <h2>Carbon Emission and Macros</h2>
+    <p class="p10">Calories: </p>
+    <p class="p11">Protein: </p>
+    <p class="p12">Total Fat: </p>
+    <p class="p13">Added Sugar: </p>
+    <p class="p14">Sodium: </p>
+    <p class="p15">Protein: </p>
     <button class="back-button" onclick="goBackToSecondScreen()">Back</button>
   </div>
+
   <script>
-  
     // Variable to store dynamic content
     let dynamicContent = ""; // Default content
 
@@ -289,8 +298,6 @@ function goBack() {
     document.getElementById('green-peel').addEventListener('click', () => updateScreen("Green Peel"));
     document.getElementById('iggy-night').addEventListener('click', () => updateScreen("Iggy's Night Hound"));
     document.getElementById('iggy-bravisimo').addEventListener('click', () => updateScreen("Iggy's Bravisimo"));
- 
   </script>
-
 </body>
 </html>

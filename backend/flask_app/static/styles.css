@@ -132,10 +132,21 @@ nav li {
 	display: inline-block;
 	background-color: #e0e0e0;
 	text-align: center;
+	display: flex;
+	justify-content: space-evenly;
+	flex-direction: column;
+	flex-wrap: nowrap;
 }
 
 li {
 	list-style: none;
+	text-align: center;
+}
+
+a {
+	display: block;
+	text-align: center;
+	height: 20%;
 }
 
 li button {

@@ -14,21 +14,47 @@
 </head>
 
 <body>
+	<header id="original-header">
+		<nav id="nav-buttons">
+			<ul id="original-page">
+				<li><a href="/">Home</a></li>
+				<li><a href="/monday">Monday</a></li>
+				<li><a href="/tuesday">Tuesday</a></li>
+				<li><a href="/wednesday">Wednesday</a></li>
+				<li><a href="/thursday">Thursday</a></li>
+				<li><a href="/friday">Friday</a></li>
+				<li><a href="/saturday">Saturday</a></li>
+				<li><a href="/sunday">Sunday</a></li>
+			</ul>
+		</nav>
+	</header>
 	<ul>
 		<li>
 			<h1>{{ day }} Recommendations</h1>
 		</li>
+		<br>
+		<br>
 		<li>
-			<p1>1. {{ item1_name }} | {{ item1_carbon_emissions }}, {{ item1_calories }}, {{ item1_protein }}, {{
-				item1_fat }}, {{ item1_carbs }}</p1>
+			<p class="p1">1. {{ item1_name }} | {{ item1_carbon_emissions }} Eco Score, {{ item1_calories }} cals., {{
+				item1_protein }} protein (g), {{
+				item1_fat }} fat (g), {{ item1_carbs }} carb (g)
+			</p>
 		</li>
+		<br>
+		<br>
 		<li>
-			<p1>2. {{ item2_name }} | {{ item2_carbon_emissions }}, {{ item2_calories }}, {{ item2_protein }}, {{
-				item2_fat }}, {{ item2_carbs }}</p1>
+			<p class="p1">2. {{ item2_name }} | {{ item2_carbon_emissions }} Eco Score, {{ item2_calories }} cals., {{
+				item2_protein }} protein (g), {{
+				item2_fat }} fat (g), {{ item2_carbs }} carb (g)
+			</p>
 		</li>
+		<br>
+		<br>
 		<li>
-			<p1>3. {{ item3_name }} | {{ item3_carbon_emissions }}, {{ item3_calories }}, {{ item3_protein }}, {{
-				item3_fat }}, {{ item3_carbs }}</p1>
+			<p class="p1">3. {{ item3_name }} | {{ item3_carbon_emissions }} Eco Score, {{ item3_calories }} cals., {{
+				item3_protein }} protein (g), {{
+				item3_fat }} fat (g), {{ item3_carbs }} carb (g)
+			</p>
 		</li>
 	</ul>
 </body>

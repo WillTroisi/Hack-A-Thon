@@ -107,6 +107,21 @@
 	{
 		"location": "pizza",
 		"time": null,
+		"day": "monday",
+		"calories": 241.0,
+		"protein": 9.02,
+		"fat": 11.28,
+		"carb": 25.56,
+		"total_g": 664.0,
+		"Meal Emissions": 2.9085101689,
+		"meal": "supreme pizza",
+		"Calorie Rating": 50.0,
+		"Emission Rating": 16.6666666667,
+		"Overall Rating": 33.3333333333
+	},
+	{
+		"location": "pizza",
+		"time": null,
 		"day": "tuesday",
 		"calories": 241.0,
 		"protein": 9.02,

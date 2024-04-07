@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Food Menu</title>
-	<link rel="stylesheet" , href="styles.css">
+	<link type="text/css" rel="stylesheet" , href="{{ url_for('static', filename='styles.css') }}">
 	<script src="main.js" defer></script>
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -18,9 +18,14 @@
 	<header id="original-header">
 		<nav id="nav-buttons">
 			<ul id="original-page">
-				<li><button type="button" id="iggy-market">Iggy's Market</button></li>
-				<li><button type="button" id="boulder">Boulder</button></li>
-				<li><button type="button" id="boulder-2">Boulder 2.0</button></li>
+				<li><a href="/">Home</a></li>
+				<li><a href="/monday">Monday</a></li>
+				<li><a href="/tuesday">Tuesday</a></li>
+				<li><a href="/wednesday">Wednesday</a></li>
+				<li><a href="/thursday">Thursday</a></li>
+				<li><a href="/friday">Friday</a></li>
+				<li><a href="/saturday">Saturday</a></li>
+				<li><a href="/sunday">Sunday</a></li>
 			</ul>
 		</nav>
 	</header>

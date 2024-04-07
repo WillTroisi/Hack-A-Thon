@@ -193,41 +193,42 @@
       document.getElementById('third-screen').style.display = 'block';
     }
 
-    // Function to go back to the original page
-    function goBack() {
-      // Show the original page
-      document.getElementById('original-page').style.display = 'block';
-      
-      // Show the main section
-      document.querySelector('main').style.display = 'block';
-      
-      // Hide the hello-screen
-      document.getElementById('hello-screen').style.display = 'none';
+// Function to go back to the original page
+function goBack() {
+  // Show the original page
+  document.getElementById('original-page').style.display = 'block';
+  
+  // Show the main section
+  document.querySelector('main').style.display = 'block';
+  
+  // Hide the hello-screen
+  document.getElementById('hello-screen').style.display = 'none';
 
-      // Reset button styles
-      resetButtonStyles();
+  // Reset button styles
+  resetButtonStyles();
 
-      // Restore original header structure
-      const originalHeader = document.getElementById('original-header');
-      const navButtons = document.createElement('nav');
-      navButtons.id = 'nav-buttons';
-      const originalPage = document.createElement('ul');
-      originalPage.id = 'original-page';
-      const buttons = ['iggy-market', 'boulder', 'boulder-2', 'fresh-west', 'choolah', 'green-peel', 'iggy-night', 'iggy-bravisimo'];
-      buttons.forEach(buttonId => {
-        const button = document.createElement('button');
-        button.type = 'button';
-        button.id = buttonId;
-        button.textContent = buttonId.replace(/-/g, ' '); // Convert button ID to readable text
-        button.addEventListener('click', () => updateScreen(button.textContent + ' Selected'));
-        const li = document.createElement('li');
-        li.appendChild(button);
-        originalPage.appendChild(li);
-      });
-      navButtons.appendChild(originalPage);
-      originalHeader.innerHTML = ''; // Clear existing content
-      originalHeader.appendChild(navButtons);
-    }
+  // Restore original header structure
+  const originalHeader = document.getElementById('original-header');
+  const navButtons = document.createElement('nav');
+  navButtons.id = 'nav-buttons';
+  const originalPage = document.createElement('ul');
+  originalPage.id = 'original-page';
+  const buttonNames = ['Iggy\'s Market', 'Boulder', 'Boulder 2.0', 'Fresh West', 'Choolah', 'Green Peel', 'Iggy\'s Night Hound', 'Iggy\'s Bravisimo'];
+  buttonNames.forEach(buttonName => {
+    const button = document.createElement('button');
+    button.type = 'button';
+    button.textContent = buttonName;
+    button.id = buttonName.replace(/'/g, '').replace(/\s+/g, '-').toLowerCase();
+    button.addEventListener('click', () => updateScreen(button.textContent + ' Selected'));
+    const li = document.createElement('li');
+    li.appendChild(button);
+    originalPage.appendChild(li);
+  });
+  navButtons.appendChild(originalPage);
+  originalHeader.innerHTML = ''; // Clear existing content
+  originalHeader.appendChild(navButtons);
+}
+
 
     // Function to go back to the second screen from third screen
     function goBackToSecondScreen() {

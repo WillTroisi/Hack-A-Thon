@@ -1,4 +1,4 @@
 *.xlsx
 apiexample.json
 .DS_Store
-backend/flask_app/__pycache__/eco_menu.cpython-312.pyc
+backend/flask_app/__pycache__/*

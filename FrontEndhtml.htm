@@ -4,6 +4,19 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Food Menu</title>
+  
+</head>
+<body>
+  <header id="original-header">
+    <nav id="nav-buttons">
+      <ul id="original-page">
+        <li><button type="button" id="iggy-market">Iggy's Market</button></li>
+        <li><button type="button" id="boulder">Boulder</button></li>
+        <li><button type="button" id="boulder-2">Boulder 2.0</button></li>
+      </ul>
+    </nav>
+  </header>
+  <style>
   <style>
     html {
       height: 90%;
@@ -191,17 +204,6 @@
       width: 50%;
     }
   </style>
-</head>
-<body>
-  <header id="original-header">
-    <nav id="nav-buttons">
-      <ul id="original-page">
-        <li><button type="button" id="iggy-market">Iggy's Market</button></li>
-        <li><button type="button" id="boulder">Boulder</button></li>
-        <li><button type="button" id="boulder-2">Boulder 2.0</button></li>
-      </ul>
-    </nav>
-  </header>
   <main>
     <h1>Healthy Hounds</h1>
     <p class ="p16">Welcome to a Healthy Alternative!</p>
@@ -240,8 +242,8 @@
     <p class="p15">Carbs: </p>
     <button class="back-button" onclick="goBackToSecondScreen()">Back</button>
   </div>
-  <script>
-    let dynamicContent = "";
+ <script>
+ let dynamicContent = "";
     let restaurantStats = "";
 
     const originalButtonStyles = {};
@@ -309,24 +311,10 @@
     document.getElementById('boulder-2').addEventListener('click', () => updateScreen("Boulder 2.0"));
 
     function showScreenFromLocalStorage() {
-        const screen = localStorage.getItem('currentScreen');
-        if (screen) {
-            switch (screen) {
-                case 'hello-screen':
-                    updateScreen(dynamicContent);
-                    break;
-                case 'third-screen':
-                    selectFoodItem(document.getElementById('dynamicContentThird').innerText);
-                    break;
-                default:
-                    goBack();
-            }
-        } else {
-            goBack(); // Default to home screen if no screen is stored
-        }
+        goBack(); // Always default to the home screen
     }
 
     window.onload = showScreenFromLocalStorage;
-  </script>
+    </script>
 </body>
 </html>

@@ -4,7 +4,10 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Food Menu</title>
-  <style>
+  
+</head>
+<style>
+
     /* Global CSS */
     body {
       font-family: sans-serif;
@@ -125,6 +128,7 @@
     h2 {
       text-align: center;
       font-size: 3em;
+      
     }
     .select-food-button {
       position: absolute; /* Change to fixed position */
@@ -133,9 +137,7 @@
       right: 500px;
       z-index: 999; /* Ensure it's on top of other elements */
     }
-
-  </style>
-</head>
+    </style>
 <body>
   <header id="original-header">
     <nav id="nav-buttons">
@@ -152,7 +154,8 @@
     </nav>
   </header>
   <main>
-    <h1>Welcome to the Food Menu!</h1>
+    <h1>Healthy Hounds</h1>
+    <p>Welcome to a healthy alternative!</p>
     <p>Your number one recommendation for today is "" from ""!</p>
     <p class="p1">Purpose</p>
     <p class="p2">This program gives you the best recommendation for Dining options</p>
@@ -174,8 +177,8 @@
     <p>This is the third screen content.</p>
     <button class="back-button" onclick="goBackToSecondScreen()">Back</button>
   </div>
-
   <script>
+  
     // Variable to store dynamic content
     let dynamicContent = ""; // Default content
 
@@ -286,6 +289,8 @@ function goBack() {
     document.getElementById('green-peel').addEventListener('click', () => updateScreen("Green Peel"));
     document.getElementById('iggy-night').addEventListener('click', () => updateScreen("Iggy's Night Hound"));
     document.getElementById('iggy-bravisimo').addEventListener('click', () => updateScreen("Iggy's Bravisimo"));
+ 
   </script>
+
 </body>
 </html>

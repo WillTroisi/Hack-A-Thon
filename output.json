@@ -9,6 +9,7 @@
 		"carb": 61.0,
 		"total_g": 425.0,
 		"Meal Emissions": 2.374422533,
+		"meal": "oatmeal",
 		"Calorie Rating": 7.1428571429,
 		"Emission Rating": 19.0476190476,
 		"Overall Rating": 13.0952380952
@@ -23,6 +24,7 @@
 		"carb": 55.9,
 		"total_g": 315.0,
 		"Meal Emissions": 1.29149263,
+		"meal": "waffles",
 		"Calorie Rating": 9.5238095238,
 		"Emission Rating": 50.0,
 		"Overall Rating": 29.7619047619
@@ -37,6 +39,7 @@
 		"carb": 59.2,
 		"total_g": 156.0,
 		"Meal Emissions": 1.8023059062,
+		"meal": "tacos",
 		"Calorie Rating": 4.7619047619,
 		"Emission Rating": 28.5714285714,
 		"Overall Rating": 16.6666666667
@@ -51,6 +54,7 @@
 		"carb": 11.0,
 		"total_g": 260.0,
 		"Meal Emissions": 1.386130115,
+		"meal": "burger",
 		"Calorie Rating": 52.380952381,
 		"Emission Rating": 45.2380952381,
 		"Overall Rating": 48.8095238095
@@ -65,6 +69,7 @@
 		"carb": 15.29,
 		"total_g": 340.1942775,
 		"Meal Emissions": 5.1183401221,
+		"meal": "chicken quesadilla",
 		"Calorie Rating": 64.2857142857,
 		"Emission Rating": 2.380952381,
 		"Overall Rating": 33.3333333333
@@ -79,6 +84,7 @@
 		"carb": 4.0,
 		"total_g": 16.0,
 		"Meal Emissions": 0.0,
+		"meal": "omelets",
 		"Calorie Rating": 59.5238095238,
 		"Emission Rating": 92.8571428571,
 		"Overall Rating": 76.1904761905
@@ -93,6 +99,7 @@
 		"carb": 25.0,
 		"total_g": 165.0,
 		"Meal Emissions": 1.4284833158,
+		"meal": "beef brisket",
 		"Calorie Rating": 47.619047619,
 		"Emission Rating": 42.8571428571,
 		"Overall Rating": 45.2380952381
@@ -107,6 +114,7 @@
 		"carb": 25.56,
 		"total_g": 664.0,
 		"Meal Emissions": 2.9085101689,
+		"meal": "supreme pizza",
 		"Calorie Rating": 50.0,
 		"Emission Rating": 16.6666666667,
 		"Overall Rating": 33.3333333333
@@ -121,6 +129,7 @@
 		"carb": 27.0,
 		"total_g": 170.0,
 		"Meal Emissions": 0.0325711499,
+		"meal": "bacon cheeseburger pizza",
 		"Calorie Rating": 40.4761904762,
 		"Emission Rating": 88.0952380952,
 		"Overall Rating": 64.2857142857
@@ -135,6 +144,7 @@
 		"carb": 2.0,
 		"total_g": 550.0,
 		"Meal Emissions": 0.0254508485,
+		"meal": "pulled pork",
 		"Calorie Rating": 78.5714285714,
 		"Emission Rating": 90.4761904762,
 		"Overall Rating": 84.5238095238
@@ -149,6 +159,7 @@
 		"carb": 20.7843137255,
 		"total_g": 255.145708125,
 		"Meal Emissions": 0.8466244935,
+		"meal": "general tso's tofu",
 		"Calorie Rating": 76.1904761905,
 		"Emission Rating": 76.1904761905,
 		"Overall Rating": 76.1904761905
@@ -163,6 +174,7 @@
 		"carb": 77.0,
 		"total_g": 500.0,
 		"Meal Emissions": 4.100104371,
+		"meal": "basmati rice",
 		"Calorie Rating": 38.0952380952,
 		"Emission Rating": 9.5238095238,
 		"Overall Rating": 23.8095238095
@@ -177,6 +189,7 @@
 		"carb": 49.0,
 		"total_g": 300.0,
 		"Meal Emissions": 0.8779297028,
+		"meal": "dinner roll",
 		"Calorie Rating": 54.7619047619,
 		"Emission Rating": 73.8095238095,
 		"Overall Rating": 64.2857142857
@@ -191,6 +204,7 @@
 		"carb": 67.8571428571,
 		"total_g": 113.4,
 		"Meal Emissions": 1.1931877508,
+		"meal": "garlic mashed potatoes",
 		"Calorie Rating": 19.0476190476,
 		"Emission Rating": 54.7619047619,
 		"Overall Rating": 36.9047619048
@@ -205,6 +219,7 @@
 		"carb": 31.0,
 		"total_g": 1000.0,
 		"Meal Emissions": 1.5719058782,
+		"meal": "home fried potatoes",
 		"Calorie Rating": 61.9047619048,
 		"Emission Rating": 38.0952380952,
 		"Overall Rating": 50.0
@@ -219,6 +234,7 @@
 		"carb": 86.0,
 		"total_g": 400.0,
 		"Meal Emissions": 1.08496728,
+		"meal": "corn",
 		"Calorie Rating": 35.7142857143,
 		"Emission Rating": 71.4285714286,
 		"Overall Rating": 53.5714285714
@@ -233,6 +249,7 @@
 		"carb": 49.0,
 		"total_g": 205.5340426562,
 		"Meal Emissions": 3.668764685,
+		"meal": "macaroni and cheese",
 		"Calorie Rating": 42.8571428571,
 		"Emission Rating": 11.9047619048,
 		"Overall Rating": 27.380952381
@@ -247,6 +264,7 @@
 		"carb": 49.0,
 		"total_g": 205.5340426562,
 		"Meal Emissions": 3.668764685,
+		"meal": "macaroni and  cheese",
 		"Calorie Rating": 42.8571428571,
 		"Emission Rating": 11.9047619048,
 		"Overall Rating": 27.380952381
@@ -261,6 +279,7 @@
 		"carb": 65.0,
 		"total_g": 560.0,
 		"Meal Emissions": 1.1022336156,
+		"meal": "roasted potatoes",
 		"Calorie Rating": 23.8095238095,
 		"Emission Rating": 69.0476190476,
 		"Overall Rating": 46.4285714286
@@ -275,6 +294,7 @@
 		"carb": 79.6,
 		"total_g": 400.0,
 		"Meal Emissions": 1.1207124577,
+		"meal": "gluten free penne",
 		"Calorie Rating": 26.1904761905,
 		"Emission Rating": 64.2857142857,
 		"Overall Rating": 45.2380952381
@@ -289,6 +309,7 @@
 		"carb": 81.3,
 		"total_g": 1000.0,
 		"Meal Emissions": 4.104754136,
+		"meal": "white rice",
 		"Calorie Rating": 33.3333333333,
 		"Emission Rating": 7.1428571429,
 		"Overall Rating": 20.2380952381
@@ -303,6 +324,7 @@
 		"carb": 79.6,
 		"total_g": 400.0,
 		"Meal Emissions": 1.1207124577,
+		"meal": "gluten free pasta",
 		"Calorie Rating": 26.1904761905,
 		"Emission Rating": 64.2857142857,
 		"Overall Rating": 45.2380952381
@@ -317,6 +339,7 @@
 		"carb": 10.1,
 		"total_g": 550.0,
 		"Meal Emissions": 1.8267802822,
+		"meal": "peas and mushrooms",
 		"Calorie Rating": 88.0952380952,
 		"Emission Rating": 26.1904761905,
 		"Overall Rating": 57.1428571429
@@ -331,6 +354,7 @@
 		"carb": 12.2,
 		"total_g": 400.0,
 		"Meal Emissions": 0.7133089047,
+		"meal": "bbq beef brisket",
 		"Calorie Rating": 71.4285714286,
 		"Emission Rating": 80.9523809524,
 		"Overall Rating": 76.1904761905
@@ -345,6 +369,7 @@
 		"carb": 83.8,
 		"total_g": 100.0,
 		"Meal Emissions": 0.0,
+		"meal": "honey baked ham",
 		"Calorie Rating": 16.6666666667,
 		"Emission Rating": 92.8571428571,
 		"Overall Rating": 54.7619047619
@@ -359,6 +384,7 @@
 		"carb": 26.7045454545,
 		"total_g": 1927.7675725,
 		"Meal Emissions": 0.0,
+		"meal": "eggplant parmesan",
 		"Calorie Rating": 69.0476190476,
 		"Emission Rating": 92.8571428571,
 		"Overall Rating": 80.9523809524
@@ -373,6 +399,7 @@
 		"carb": 35.3,
 		"total_g": 250.0,
 		"Meal Emissions": 2.0683352595,
+		"meal": "jasmine rice",
 		"Calorie Rating": 71.4285714286,
 		"Emission Rating": 23.8095238095,
 		"Overall Rating": 47.619047619
@@ -387,6 +414,7 @@
 		"carb": 14.0,
 		"total_g": 400.0,
 		"Meal Emissions": 1.6996439006,
+		"meal": "mashed sweet potatoes",
 		"Calorie Rating": 85.7142857143,
 		"Emission Rating": 35.7142857143,
 		"Overall Rating": 60.7142857143
@@ -401,6 +429,7 @@
 		"carb": 31.0,
 		"total_g": 200.0,
 		"Meal Emissions": 0.7849000654,
+		"meal": "roasted cauliflower",
 		"Calorie Rating": 66.6666666667,
 		"Emission Rating": 78.5714285714,
 		"Overall Rating": 72.619047619
@@ -415,6 +444,7 @@
 		"carb": 42.86,
 		"total_g": 453.59237,
 		"Meal Emissions": 0.6372944782,
+		"meal": "mexican corn",
 		"Calorie Rating": 57.1428571429,
 		"Emission Rating": 83.3333333333,
 		"Overall Rating": 70.2380952381
@@ -429,6 +459,7 @@
 		"carb": 2.3,
 		"total_g": 200.0,
 		"Meal Emissions": 1.1456356335,
+		"meal": "green beans",
 		"Calorie Rating": 97.619047619,
 		"Emission Rating": 59.5238095238,
 		"Overall Rating": 78.5714285714
@@ -443,6 +474,7 @@
 		"carb": 51.0,
 		"total_g": 122.0,
 		"Meal Emissions": 1.7622730785,
+		"meal": "peas",
 		"Calorie Rating": 11.9047619048,
 		"Emission Rating": 30.9523809524,
 		"Overall Rating": 21.4285714286
@@ -457,6 +489,7 @@
 		"carb": 60.5,
 		"total_g": 113.0,
 		"Meal Emissions": 2.3018614064,
+		"meal": "kale",
 		"Calorie Rating": 2.380952381,
 		"Emission Rating": 21.4285714286,
 		"Overall Rating": 11.9047619048
@@ -471,6 +504,7 @@
 		"carb": 7.9,
 		"total_g": 300.0,
 		"Meal Emissions": 1.2263566878,
+		"meal": "beef stew",
 		"Calorie Rating": 95.2380952381,
 		"Emission Rating": 52.380952381,
 		"Overall Rating": 73.8095238095
@@ -485,6 +519,7 @@
 		"carb": 0.5,
 		"total_g": 100.0,
 		"Meal Emissions": 5.0677319779,
+		"meal": "carved turkey breast",
 		"Calorie Rating": 83.3333333333,
 		"Emission Rating": 4.7619047619,
 		"Overall Rating": 44.0476190476
@@ -499,6 +534,7 @@
 		"carb": 67.8,
 		"total_g": 720.0,
 		"Meal Emissions": 0.0492557416,
+		"meal": "sweet potatoe",
 		"Calorie Rating": 30.9523809524,
 		"Emission Rating": 85.7142857143,
 		"Overall Rating": 58.3333333333
@@ -513,6 +549,7 @@
 		"carb": 22.8,
 		"total_g": 250.0,
 		"Meal Emissions": 0.0,
+		"meal": "wild rice",
 		"Calorie Rating": 80.9523809524,
 		"Emission Rating": 92.8571428571,
 		"Overall Rating": 86.9047619048
@@ -527,6 +564,7 @@
 		"carb": 68.0,
 		"total_g": 120.0,
 		"Meal Emissions": 1.5097570536,
+		"meal": "spicy potatoes",
 		"Calorie Rating": 14.2857142857,
 		"Emission Rating": 40.4761904762,
 		"Overall Rating": 27.380952381
@@ -541,6 +579,7 @@
 		"carb": 6.4,
 		"total_g": 550.0,
 		"Meal Emissions": 1.7533735586,
+		"meal": "spaghetti squash",
 		"Calorie Rating": 92.8571428571,
 		"Emission Rating": 33.3333333333,
 		"Overall Rating": 63.0952380952
@@ -555,6 +594,7 @@
 		"carb": 1.6,
 		"total_g": 180.0,
 		"Meal Emissions": 1.1694818108,
+		"meal": "asparagus",
 		"Calorie Rating": 100.0,
 		"Emission Rating": 57.1428571429,
 		"Overall Rating": 78.5714285714
@@ -569,6 +609,7 @@
 		"carb": 62.8,
 		"total_g": 900.0,
 		"Meal Emissions": 1.120933085,
+		"meal": "lima beans",
 		"Calorie Rating": 21.4285714286,
 		"Emission Rating": 61.9047619048,
 		"Overall Rating": 41.6666666667
@@ -583,6 +624,7 @@
 		"carb": 4.29,
 		"total_g": 285.0,
 		"Meal Emissions": 1.3087759782,
+		"meal": "saut\u00e9ed spinach",
 		"Calorie Rating": 90.4761904762,
 		"Emission Rating": 47.619047619,
 		"Overall Rating": 69.0476190476

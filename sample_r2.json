@@ -1,0 +1,3634 @@
+{
+	"_id": "8801043150620",
+	"_keywords": [
+		"and",
+		"be",
+		"beverage",
+		"cereal",
+		"dried",
+		"food",
+		"gourmet",
+		"halal",
+		"instant",
+		"la",
+		"meal",
+		"nongshim",
+		"noodle",
+		"pasta",
+		"plant-based",
+		"potatoe",
+		"product",
+		"ramyun",
+		"rehydrated",
+		"shin",
+		"sociedad",
+		"soup",
+		"spicy",
+		"sudkorea",
+		"their",
+		"to",
+		"vegana",
+		"vegetable",
+		"with"
+	],
+	"added_countries_tags": [],
+	"additives_debug_tags": [],
+	"additives_n": 9,
+	"additives_old_n": 9,
+	"additives_old_tags": [
+		"en:e501",
+		"en:e500",
+		"en:e339",
+		"en:e306",
+		"en:e322",
+		"en:e101",
+		"en:e621",
+		"en:e627",
+		"en:e631"
+	],
+	"additives_original_tags": [
+		"en:e501",
+		"en:e500",
+		"en:e339",
+		"en:e306",
+		"en:e322",
+		"en:e101",
+		"en:e621",
+		"en:e627",
+		"en:e631"
+	],
+	"additives_prev_original_tags": [
+		"en:e501",
+		"en:e339",
+		"en:e500",
+		"en:e306",
+		"en:e322",
+		"en:e330",
+		"en:e101",
+		"en:e631",
+		"en:e627"
+	],
+	"additives_tags": [
+		"en:e101",
+		"en:e306",
+		"en:e322",
+		"en:e339",
+		"en:e500",
+		"en:e501",
+		"en:e621",
+		"en:e627",
+		"en:e631"
+	],
+	"allergens": "en:gluten,en:soybeans",
+	"allergens_from_ingredients": "en:gluten, Sojabohnen, Weizenst\u00e4rke, Soja, Weizenmehl, Soja, Weizengluten",
+	"allergens_from_user": "(de) en:gluten,en:soybeans",
+	"allergens_hierarchy": [
+		"en:gluten",
+		"en:soybeans"
+	],
+	"allergens_lc": "de",
+	"allergens_tags": [
+		"en:gluten",
+		"en:soybeans"
+	],
+	"amino_acids_prev_tags": [],
+	"amino_acids_tags": [],
+	"brands": "Nongshim",
+	"brands_tags": [
+		"nongshim"
+	],
+	"categories": "Alimentos y bebidas de origen vegetal, Alimentos de origen vegetal, Cereales y patatas, Cereales y derivados, Comidas preparadas, Productos deshidratados, Pastas alimenticias, Productos deshidratados para ser rehidratados, Tallarines, Sopas, Fideos instant\u00e1neos, Sopas de fideos instant\u00e1neas",
+	"categories_hierarchy": [
+		"en:plant-based-foods-and-beverages",
+		"en:plant-based-foods",
+		"en:cereals-and-potatoes",
+		"en:cereals-and-their-products",
+		"en:meals",
+		"en:dried-products",
+		"en:pastas",
+		"en:dried-products-to-be-rehydrated",
+		"en:noodles",
+		"en:soups",
+		"en:instant-noodles",
+		"en:instant-noodle-soups"
+	],
+	"categories_lc": "es",
+	"categories_old": "Plant-based foods and beverages, Plant-based foods, Cereals and potatoes, Cereals and their products, Meals, Dried products, Pastas, Dried products to be rehydrated, Noodles, Soups, Instant noodles, Instant noodle soups",
+	"categories_properties": {
+		"agribalyse_food_code:en": "25955",
+		"agribalyse_proxy_food_code:en": "9863",
+		"ciqual_food_code:en": "25955"
+	},
+	"categories_properties_tags": [
+		"all-products",
+		"categories-known",
+		"agribalyse-food-code-25955",
+		"agribalyse-food-code-known",
+		"agribalyse-proxy-food-code-9863",
+		"agribalyse-proxy-food-code-known",
+		"ciqual-food-code-25955",
+		"ciqual-food-code-known",
+		"agribalyse-known",
+		"agribalyse-25955"
+	],
+	"categories_tags": [
+		"en:plant-based-foods-and-beverages",
+		"en:plant-based-foods",
+		"en:cereals-and-potatoes",
+		"en:cereals-and-their-products",
+		"en:meals",
+		"en:dried-products",
+		"en:pastas",
+		"en:dried-products-to-be-rehydrated",
+		"en:noodles",
+		"en:soups",
+		"en:instant-noodles",
+		"en:instant-noodle-soups"
+	],
+	"category_properties": {
+		"ciqual_food_name:en": "Soup, Asian-style with noodles, prepacked, to be reheated"
+	},
+	"checkers_tags": [],
+	"ciqual_food_name_tags": [
+		"soup-asian-style-with-noodles-prepacked-to-be-reheated"
+	],
+	"cities_tags": [],
+	"code": "8801043150620",
+	"codes_tags": [
+		"code-13",
+		"8801043150xxx",
+		"880104315xxxx",
+		"88010431xxxxx",
+		"8801043xxxxxx",
+		"880104xxxxxxx",
+		"88010xxxxxxxx",
+		"8801xxxxxxxxx",
+		"880xxxxxxxxxx",
+		"88xxxxxxxxxxx",
+		"8xxxxxxxxxxxx"
+	],
+	"compared_to_category": "en:instant-noodle-soups",
+	"complete": 0,
+	"completeness": 0.95,
+	"correctors_tags": [
+		"schuelli",
+		"smias",
+		"openfood-ch-import",
+		"tacite-mass-editor",
+		"foodrepo",
+		"yuka.UTRjNURKb2J2ZmNHaDh3aHdEVHE4ZEYrd3NlWUFteVZkKzArSVE9PQ",
+		"inf",
+		"rochus",
+		"scanbot",
+		"prepperapp",
+		"yuka.EOFwNeGvG9MEQcH__7Jl7TO0F7v7EfxXQ2AGog",
+		"swipe-studio",
+		"date-limite-app",
+		"pamputt",
+		"nipser",
+		"openfoodfacts-contributors",
+		"aleene",
+		"packbot",
+		"terrys",
+		"jblond",
+		"yuka.sY2b0xO6T85zoF3NwEKvlmxCUfX8n2vWFyDmwB2K_oeNI83nbI1z3bb9NKg",
+		"yabr",
+		"waistline-app",
+		"benbenben",
+		"theandalusianqueer"
+	],
+	"countries": "Francuska,Njema\u010dka,Ju\u017ena Koreja,\u0160vicarska,Hrvatska",
+	"countries_beforescanbot": "Deutschland,Schweiz",
+	"countries_hierarchy": [
+		"en:croatia",
+		"en:france",
+		"en:germany",
+		"en:south-korea",
+		"en:switzerland"
+	],
+	"countries_lc": "hr",
+	"countries_tags": [
+		"en:croatia",
+		"en:france",
+		"en:germany",
+		"en:south-korea",
+		"en:switzerland"
+	],
+	"created_t": 1463569183,
+	"creator": "openfoodfacts-contributors",
+	"data_quality_bugs_tags": [],
+	"data_quality_errors_tags": [],
+	"data_quality_info_tags": [
+		"en:packaging-data-incomplete",
+		"en:ecoscore-extended-data-not-computed",
+		"en:food-groups-1-known",
+		"en:food-groups-2-known",
+		"en:food-groups-3-unknown"
+	],
+	"data_quality_tags": [
+		"en:packaging-data-incomplete",
+		"en:ecoscore-extended-data-not-computed",
+		"en:food-groups-1-known",
+		"en:food-groups-2-known",
+		"en:food-groups-3-unknown",
+		"en:ingredients-en-ending-comma",
+		"en:ingredients-percent-analysis-not-ok",
+		"en:missing-nutrition-data-prepared-with-category-dried-products-to-be-rehydrated",
+		"en:vegan-label-but-could-not-confirm-for-all-ingredients",
+		"en:vegetarian-label-but-could-not-confirm-for-all-ingredients",
+		"en:ecoscore-production-system-no-label"
+	],
+	"data_quality_warnings_tags": [
+		"en:ingredients-en-ending-comma",
+		"en:ingredients-percent-analysis-not-ok",
+		"en:missing-nutrition-data-prepared-with-category-dried-products-to-be-rehydrated",
+		"en:vegan-label-but-could-not-confirm-for-all-ingredients",
+		"en:vegetarian-label-but-could-not-confirm-for-all-ingredients",
+		"en:ecoscore-production-system-no-label"
+	],
+	"data_sources": "App - yuka, Apps, Database - FoodRepo / openfood.ch, Databases, App - Horizon, App - InFood, App - Open Food Facts, App - Speisekammer, App - smoothie-openfoodfacts, App - Waistline",
+	"data_sources_tags": [
+		"app-yuka",
+		"apps",
+		"database-foodrepo-openfood-ch",
+		"databases",
+		"app-horizon",
+		"app-infood",
+		"app-open-food-facts",
+		"app-speisekammer",
+		"app-smoothie-openfoodfacts",
+		"app-waistline"
+	],
+	"debug_param_sorted_langs": [
+		"en",
+		"de",
+		"fr",
+		"it",
+		"nl"
+	],
+	"ecoscore_data": {
+		"adjustments": {
+			"origins_of_ingredients": {
+				"aggregated_origins": [
+					{
+						"epi_score": "55",
+						"origin": "en:south-korea",
+						"percent": 100,
+						"transportation_score": null
+					}
+				],
+				"epi_score": 55,
+				"epi_value": 1,
+				"origins_from_categories": [
+					"en:unknown"
+				],
+				"origins_from_origins_field": [
+					"en:south-korea"
+				],
+				"transportation_score": 0,
+				"transportation_scores": {
+					"ad": 4,
+					"al": 18,
+					"at": 0,
+					"ax": 0,
+					"ba": 0,
+					"be": 0,
+					"bg": 0,
+					"ch": 0,
+					"cy": 21,
+					"cz": 0,
+					"de": 0,
+					"dk": 0,
+					"dz": 0,
+					"ee": 0,
+					"eg": 18,
+					"es": 9,
+					"fi": 0,
+					"fo": 0,
+					"fr": 0,
+					"gg": 0,
+					"gi": 11,
+					"gr": 22,
+					"hr": 9,
+					"hu": 0,
+					"ie": 2,
+					"il": 18,
+					"im": 0,
+					"is": 0,
+					"it": 1,
+					"je": 0,
+					"lb": 22,
+					"li": 0,
+					"lt": 0,
+					"lu": 0,
+					"lv": 0,
+					"ly": 19,
+					"ma": 0,
+					"mc": 15,
+					"md": 6,
+					"me": 13,
+					"mk": 5,
+					"mt": 19,
+					"nl": 0,
+					"no": 0,
+					"pl": 0,
+					"ps": 25,
+					"pt": 1,
+					"ro": 8,
+					"rs": 0,
+					"se": 0,
+					"si": 11,
+					"sj": 0,
+					"sk": 0,
+					"sm": 0,
+					"sy": 8,
+					"tn": 18,
+					"tr": 0,
+					"ua": 18,
+					"uk": 0,
+					"us": 0,
+					"va": 0,
+					"world": 0,
+					"xk": 4
+				},
+				"transportation_value": 0,
+				"transportation_values": {
+					"ad": 1,
+					"al": 3,
+					"at": 0,
+					"ax": 0,
+					"ba": 0,
+					"be": 0,
+					"bg": 0,
+					"ch": 0,
+					"cy": 3,
+					"cz": 0,
+					"de": 0,
+					"dk": 0,
+					"dz": 0,
+					"ee": 0,
+					"eg": 3,
+					"es": 1,
+					"fi": 0,
+					"fo": 0,
+					"fr": 0,
+					"gg": 0,
+					"gi": 2,
+					"gr": 3,
+					"hr": 1,
+					"hu": 0,
+					"ie": 0,
+					"il": 3,
+					"im": 0,
+					"is": 0,
+					"it": 0,
+					"je": 0,
+					"lb": 3,
+					"li": 0,
+					"lt": 0,
+					"lu": 0,
+					"lv": 0,
+					"ly": 3,
+					"ma": 0,
+					"mc": 2,
+					"md": 1,
+					"me": 2,
+					"mk": 1,
+					"mt": 3,
+					"nl": 0,
+					"no": 0,
+					"pl": 0,
+					"ps": 4,
+					"pt": 0,
+					"ro": 1,
+					"rs": 0,
+					"se": 0,
+					"si": 2,
+					"sj": 0,
+					"sk": 0,
+					"sm": 0,
+					"sy": 1,
+					"tn": 3,
+					"tr": 0,
+					"ua": 3,
+					"uk": 0,
+					"us": 0,
+					"va": 0,
+					"world": 0,
+					"xk": 1
+				},
+				"value": 1,
+				"values": {
+					"ad": 2,
+					"al": 4,
+					"at": 1,
+					"ax": 1,
+					"ba": 1,
+					"be": 1,
+					"bg": 1,
+					"ch": 1,
+					"cy": 4,
+					"cz": 1,
+					"de": 1,
+					"dk": 1,
+					"dz": 1,
+					"ee": 1,
+					"eg": 4,
+					"es": 2,
+					"fi": 1,
+					"fo": 1,
+					"fr": 1,
+					"gg": 1,
+					"gi": 3,
+					"gr": 4,
+					"hr": 2,
+					"hu": 1,
+					"ie": 1,
+					"il": 4,
+					"im": 1,
+					"is": 1,
+					"it": 1,
+					"je": 1,
+					"lb": 4,
+					"li": 1,
+					"lt": 1,
+					"lu": 1,
+					"lv": 1,
+					"ly": 4,
+					"ma": 1,
+					"mc": 3,
+					"md": 2,
+					"me": 3,
+					"mk": 2,
+					"mt": 4,
+					"nl": 1,
+					"no": 1,
+					"pl": 1,
+					"ps": 5,
+					"pt": 1,
+					"ro": 2,
+					"rs": 1,
+					"se": 1,
+					"si": 3,
+					"sj": 1,
+					"sk": 1,
+					"sm": 1,
+					"sy": 2,
+					"tn": 4,
+					"tr": 1,
+					"ua": 4,
+					"uk": 1,
+					"us": 1,
+					"va": 1,
+					"world": 1,
+					"xk": 2
+				}
+			},
+			"packaging": {
+				"non_recyclable_and_non_biodegradable_materials": 1,
+				"packagings": [
+					{
+						"ecoscore_material_score": 0,
+						"ecoscore_shape_ratio": 1,
+						"material": "en:plastic",
+						"non_recyclable_and_non_biodegradable": "maybe",
+						"shape": "en:bag"
+					}
+				],
+				"score": 0,
+				"value": -10
+			},
+			"production_system": {
+				"labels": [],
+				"value": 0,
+				"warning": "no_label"
+			},
+			"threatened_species": {
+				"ingredient": "en:palm-oil",
+				"value": -10
+			}
+		},
+		"agribalyse": {
+			"agribalyse_food_code": "25955",
+			"co2_agriculture": 1.9578861,
+			"co2_consumption": 0.011045523,
+			"co2_distribution": 0.015708527,
+			"co2_packaging": 0.10010411,
+			"co2_processing": 0.60238463,
+			"co2_total": 3.15128922,
+			"co2_transportation": 0.46416033,
+			"code": "25955",
+			"dqr": "2.78",
+			"ef_agriculture": 0.22356847,
+			"ef_consumption": 0.0040545827,
+			"ef_distribution": 0.0045028964,
+			"ef_packaging": 0.0099703815,
+			"ef_processing": 0.094419292,
+			"ef_total": 0.3769376356,
+			"ef_transportation": 0.040422013,
+			"is_beverage": 0,
+			"name_en": "Soup, Asian-style with noodles, prepacked, to be reheated",
+			"name_fr": "Soupe asiatique, avec p\u00e2tes, pr\u00e9emball\u00e9e \u00e0 r\u00e9chauffer",
+			"score": 66,
+			"version": "3.1"
+		},
+		"grade": "c",
+		"grades": {
+			"ad": "c",
+			"al": "c",
+			"at": "c",
+			"ax": "c",
+			"ba": "c",
+			"be": "c",
+			"bg": "c",
+			"ch": "c",
+			"cy": "c",
+			"cz": "c",
+			"de": "c",
+			"dk": "c",
+			"dz": "c",
+			"ee": "c",
+			"eg": "c",
+			"es": "c",
+			"fi": "c",
+			"fo": "c",
+			"fr": "c",
+			"gg": "c",
+			"gi": "c",
+			"gr": "c",
+			"hr": "c",
+			"hu": "c",
+			"ie": "c",
+			"il": "c",
+			"im": "c",
+			"is": "c",
+			"it": "c",
+			"je": "c",
+			"lb": "c",
+			"li": "c",
+			"lt": "c",
+			"lu": "c",
+			"lv": "c",
+			"ly": "c",
+			"ma": "c",
+			"mc": "c",
+			"md": "c",
+			"me": "c",
+			"mk": "c",
+			"mt": "c",
+			"nl": "c",
+			"no": "c",
+			"pl": "c",
+			"ps": "c",
+			"pt": "c",
+			"ro": "c",
+			"rs": "c",
+			"se": "c",
+			"si": "c",
+			"sj": "c",
+			"sk": "c",
+			"sm": "c",
+			"sy": "c",
+			"tn": "c",
+			"tr": "c",
+			"ua": "c",
+			"uk": "c",
+			"us": "c",
+			"va": "c",
+			"world": "c",
+			"xk": "c"
+		},
+		"missing": {
+			"labels": 1
+		},
+		"missing_data_warning": 1,
+		"previous_data": {
+			"agribalyse": {
+				"agribalyse_food_code": "25955",
+				"co2_agriculture": 1.2088522,
+				"co2_consumption": 0.0079267752,
+				"co2_distribution": 0.025340163,
+				"co2_packaging": 0.098786634,
+				"co2_processing": 0.35139939,
+				"co2_total": 1.99135,
+				"co2_transportation": 0.29904481,
+				"code": "25955",
+				"dqr": "2.78",
+				"ef_agriculture": 0.16653609,
+				"ef_consumption": 0.004012423,
+				"ef_distribution": 0.0095369029,
+				"ef_packaging": 0.014974093,
+				"ef_processing": 0.051167182,
+				"ef_total": 0.27051802,
+				"ef_transportation": 0.024291329,
+				"is_beverage": 0,
+				"name_en": "Soup, Asian-style with noodles, prepacked, to be reheated",
+				"name_fr": "Soupe asiatique, avec p\u00e2tes, pr\u00e9emball\u00e9e \u00e0 r\u00e9chauffer",
+				"score": 81
+			},
+			"grade": "b",
+			"score": 62
+		},
+		"score": 47,
+		"scores": {
+			"ad": 48,
+			"al": 50,
+			"at": 47,
+			"ax": 47,
+			"ba": 47,
+			"be": 47,
+			"bg": 47,
+			"ch": 47,
+			"cy": 50,
+			"cz": 47,
+			"de": 47,
+			"dk": 47,
+			"dz": 47,
+			"ee": 47,
+			"eg": 50,
+			"es": 48,
+			"fi": 47,
+			"fo": 47,
+			"fr": 47,
+			"gg": 47,
+			"gi": 49,
+			"gr": 50,
+			"hr": 48,
+			"hu": 47,
+			"ie": 47,
+			"il": 50,
+			"im": 47,
+			"is": 47,
+			"it": 47,
+			"je": 47,
+			"lb": 50,
+			"li": 47,
+			"lt": 47,
+			"lu": 47,
+			"lv": 47,
+			"ly": 50,
+			"ma": 47,
+			"mc": 49,
+			"md": 48,
+			"me": 49,
+			"mk": 48,
+			"mt": 50,
+			"nl": 47,
+			"no": 47,
+			"pl": 47,
+			"ps": 51,
+			"pt": 47,
+			"ro": 48,
+			"rs": 47,
+			"se": 47,
+			"si": 49,
+			"sj": 47,
+			"sk": 47,
+			"sm": 47,
+			"sy": 48,
+			"tn": 50,
+			"tr": 47,
+			"ua": 50,
+			"uk": 47,
+			"us": 47,
+			"va": 47,
+			"world": 47,
+			"xk": 48
+		},
+		"status": "known"
+	},
+	"ecoscore_grade": "c",
+	"ecoscore_score": 47,
+	"ecoscore_tags": [
+		"c"
+	],
+	"editors_tags": [
+		"aleene",
+		"benbenben",
+		"date-limite-app",
+		"foodrepo",
+		"foodvisor",
+		"inf",
+		"jblond",
+		"kiliweb",
+		"nipser",
+		"openfood-ch-import",
+		"openfoodfacts-contributors",
+		"packbot",
+		"pamputt",
+		"prepperapp",
+		"rochus",
+		"scanbot",
+		"schuelli",
+		"smias",
+		"swipe-studio",
+		"tacite-mass-editor",
+		"terrys",
+		"theandalusianqueer",
+		"waistline-app",
+		"yabr",
+		"yuka.EOFwNeGvG9MEQcH__7Jl7TO0F7v7EfxXQ2AGog",
+		"yuka.UTRjNURKb2J2ZmNHaDh3aHdEVHE4ZEYrd3NlWUFteVZkKzArSVE9PQ",
+		"yuka.sY2b0xO6T85zoF3NwEKvlmxCUfX8n2vWFyDmwB2K_oeNI83nbI1z3bb9NKg"
+	],
+	"emb_codes": "",
+	"emb_codes_orig": "",
+	"emb_codes_tags": [],
+	"entry_dates_tags": [
+		"2016-05-18",
+		"2016-05",
+		"2016"
+	],
+	"expiration_date": "17/06/2021",
+	"food_groups": "en:cereals",
+	"food_groups_tags": [
+		"en:cereals-and-potatoes",
+		"en:cereals"
+	],
+	"fruits-vegetables-nuts_100g_estimate": 0,
+	"generic_name": "Spicy instant noodle soup with vegetables",
+	"generic_name_de": "Instant Nudeln",
+	"generic_name_en": "Spicy instant noodle soup with vegetables",
+	"generic_name_fr": "",
+	"generic_name_it": "",
+	"generic_name_nl": "",
+	"id": "8801043150620",
+	"image_front_small_url": "https://images.openfoodfacts.org/images/products/880/104/315/0620/front_en.3.200.jpg",
+	"image_front_thumb_url": "https://images.openfoodfacts.org/images/products/880/104/315/0620/front_en.3.100.jpg",
+	"image_front_url": "https://images.openfoodfacts.org/images/products/880/104/315/0620/front_en.3.400.jpg",
+	"image_ingredients_small_url": "https://images.openfoodfacts.org/images/products/880/104/315/0620/ingredients_en.106.200.jpg",
+	"image_ingredients_thumb_url": "https://images.openfoodfacts.org/images/products/880/104/315/0620/ingredients_en.106.100.jpg",
+	"image_ingredients_url": "https://images.openfoodfacts.org/images/products/880/104/315/0620/ingredients_en.106.400.jpg",
+	"image_nutrition_small_url": "https://images.openfoodfacts.org/images/products/880/104/315/0620/nutrition_en.10.200.jpg",
+	"image_nutrition_thumb_url": "https://images.openfoodfacts.org/images/products/880/104/315/0620/nutrition_en.10.100.jpg",
+	"image_nutrition_url": "https://images.openfoodfacts.org/images/products/880/104/315/0620/nutrition_en.10.400.jpg",
+	"image_small_url": "https://images.openfoodfacts.org/images/products/880/104/315/0620/front_en.3.200.jpg",
+	"image_thumb_url": "https://images.openfoodfacts.org/images/products/880/104/315/0620/front_en.3.100.jpg",
+	"image_url": "https://images.openfoodfacts.org/images/products/880/104/315/0620/front_en.3.400.jpg",
+	"images": {
+		"1": {
+			"sizes": {
+				"100": {
+					"h": 100,
+					"w": 100
+				},
+				"400": {
+					"h": 400,
+					"w": 400
+				},
+				"full": {
+					"h": 473,
+					"w": 473
+				}
+			},
+			"uploaded_t": "1463569185",
+			"uploader": "openfoodfacts-contributors"
+		},
+		"10": {
+			"sizes": {
+				"100": {
+					"h": 100,
+					"w": 75
+				},
+				"400": {
+					"h": 400,
+					"w": 300
+				},
+				"full": {
+					"h": 2666,
+					"w": 2000
+				}
+			},
+			"uploaded_t": "1487504431",
+			"uploader": "smias"
+		},
+		"11": {
+			"sizes": {
+				"100": {
+					"h": 100,
+					"w": 75
+				},
+				"400": {
+					"h": 400,
+					"w": 300
+				},
+				"full": {
+					"h": 2666,
+					"w": 2000
+				}
+			},
+			"uploaded_t": "1487504468",
+			"uploader": "smias"
+		},
+		"12": {
+			"sizes": {
+				"100": {
+					"h": 74,
+					"w": 100
+				},
+				"400": {
+					"h": 297,
+					"w": 400
+				},
+				"full": {
+					"h": 1200,
+					"w": 1616
+				}
+			},
+			"uploaded_t": 1570097207,
+			"uploader": "kiliweb"
+		},
+		"13": {
+			"sizes": {
+				"100": {
+					"h": 100,
+					"w": 82
+				},
+				"400": {
+					"h": 400,
+					"w": 328
+				},
+				"full": {
+					"h": 3300,
+					"w": 2706
+				}
+			},
+			"uploaded_t": 1580553379,
+			"uploader": "rochus"
+		},
+		"14": {
+			"sizes": {
+				"100": {
+					"h": 100,
+					"w": 83
+				},
+				"400": {
+					"h": 400,
+					"w": 330
+				},
+				"full": {
+					"h": 3011,
+					"w": 2486
+				}
+			},
+			"uploaded_t": 1580553388,
+			"uploader": "rochus"
+		},
+		"15": {
+			"sizes": {
+				"100": {
+					"h": 100,
+					"w": 85
+				},
+				"400": {
+					"h": 400,
+					"w": 340
+				},
+				"full": {
+					"h": 3490,
+					"w": 2966
+				}
+			},
+			"uploaded_t": 1580553401,
+			"uploader": "rochus"
+		},
+		"16": {
+			"sizes": {
+				"100": {
+					"h": 100,
+					"w": 78
+				},
+				"400": {
+					"h": 400,
+					"w": 312
+				},
+				"full": {
+					"h": 2883,
+					"w": 2246
+				}
+			},
+			"uploaded_t": 1580553408,
+			"uploader": "rochus"
+		},
+		"17": {
+			"sizes": {
+				"100": {
+					"h": 100,
+					"w": 79
+				},
+				"400": {
+					"h": 400,
+					"w": 317
+				},
+				"full": {
+					"h": 3320,
+					"w": 2633
+				}
+			},
+			"uploaded_t": 1580553417,
+			"uploader": "rochus"
+		},
+		"18": {
+			"sizes": {
+				"100": {
+					"h": 100,
+					"w": 83
+				},
+				"400": {
+					"h": 400,
+					"w": 333
+				},
+				"full": {
+					"h": 3638,
+					"w": 3029
+				}
+			},
+			"uploaded_t": 1580553430,
+			"uploader": "rochus"
+		},
+		"19": {
+			"sizes": {
+				"100": {
+					"h": 100,
+					"w": 75
+				},
+				"400": {
+					"h": 400,
+					"w": 300
+				},
+				"full": {
+					"h": 4000,
+					"w": 3000
+				}
+			},
+			"uploaded_t": 1609860344,
+			"uploader": "openfoodfacts-contributors"
+		},
+		"2": {
+			"sizes": {
+				"100": {
+					"h": 75,
+					"w": 100
+				},
+				"400": {
+					"h": 300,
+					"w": 400
+				},
+				"full": {
+					"h": 1500,
+					"w": 2000
+				}
+			},
+			"uploaded_t": "1464715231",
+			"uploader": "smias"
+		},
+		"20": {
+			"sizes": {
+				"100": {
+					"h": 100,
+					"w": 100
+				},
+				"400": {
+					"h": 400,
+					"w": 400
+				},
+				"full": {
+					"h": 1000,
+					"w": 1000
+				}
+			},
+			"uploaded_t": 1609862175,
+			"uploader": "date-limite-app"
+		},
+		"21": {
+			"sizes": {
+				"100": {
+					"h": 50,
+					"w": 100
+				},
+				"400": {
+					"h": 202,
+					"w": 400
+				},
+				"full": {
+					"h": 1023,
+					"w": 2027
+				}
+			},
+			"uploaded_t": 1626208315,
+			"uploader": "nipser"
+		},
+		"22": {
+			"sizes": {
+				"100": {
+					"h": 64,
+					"w": 100
+				},
+				"400": {
+					"h": 254,
+					"w": 400
+				},
+				"full": {
+					"h": 1341,
+					"w": 2110
+				}
+			},
+			"uploaded_t": 1626208355,
+			"uploader": "nipser"
+		},
+		"23": {
+			"sizes": {
+				"100": {
+					"h": 74,
+					"w": 100
+				},
+				"400": {
+					"h": 297,
+					"w": 400
+				},
+				"full": {
+					"h": 1856,
+					"w": 2500
+				}
+			},
+			"uploaded_t": 1626208658,
+			"uploader": "nipser"
+		},
+		"24": {
+			"sizes": {
+				"100": {
+					"h": 100,
+					"w": 75
+				},
+				"400": {
+					"h": 400,
+					"w": 300
+				},
+				"full": {
+					"h": 3686,
+					"w": 2765
+				}
+			},
+			"uploaded_t": 1671657364,
+			"uploader": "jblond"
+		},
+		"25": {
+			"sizes": {
+				"100": {
+					"h": 100,
+					"w": 78
+				},
+				"400": {
+					"h": 400,
+					"w": 313
+				},
+				"full": {
+					"h": 476,
+					"w": 372
+				}
+			},
+			"uploaded_t": 1674912639,
+			"uploader": "kiliweb"
+		},
+		"26": {
+			"sizes": {
+				"100": {
+					"h": 74,
+					"w": 100
+				},
+				"400": {
+					"h": 297,
+					"w": 400
+				},
+				"full": {
+					"h": 1200,
+					"w": 1616
+				}
+			},
+			"uploaded_t": 1674912641,
+			"uploader": "kiliweb"
+		},
+		"27": {
+			"sizes": {
+				"100": {
+					"h": 60,
+					"w": 100
+				},
+				"400": {
+					"h": 241,
+					"w": 400
+				},
+				"full": {
+					"h": 1162,
+					"w": 1929
+				}
+			},
+			"uploaded_t": 1693769619,
+			"uploader": "inf"
+		},
+		"28": {
+			"sizes": {
+				"100": {
+					"h": 100,
+					"w": 50
+				},
+				"400": {
+					"h": 400,
+					"w": 200
+				},
+				"full": {
+					"h": 1838,
+					"w": 919
+				}
+			},
+			"uploaded_t": 1699207018,
+			"uploader": "inf"
+		},
+		"29": {
+			"sizes": {
+				"100": {
+					"h": 100,
+					"w": 100
+				},
+				"400": {
+					"h": 400,
+					"w": 400
+				},
+				"full": {
+					"h": 400,
+					"w": 400
+				}
+			},
+			"uploaded_t": 1704297765,
+			"uploader": "foodvisor"
+		},
+		"3": {
+			"sizes": {
+				"100": {
+					"h": 100,
+					"w": 75
+				},
+				"400": {
+					"h": 400,
+					"w": 300
+				},
+				"full": {
+					"h": 2666,
+					"w": 2000
+				}
+			},
+			"uploaded_t": "1464715255",
+			"uploader": "smias"
+		},
+		"30": {
+			"sizes": {
+				"100": {
+					"h": 100,
+					"w": 94
+				},
+				"400": {
+					"h": 400,
+					"w": 377
+				},
+				"full": {
+					"h": 1323,
+					"w": 1247
+				}
+			},
+			"uploaded_t": 1706880130,
+			"uploader": "theandalusianqueer"
+		},
+		"4": {
+			"sizes": {
+				"100": {
+					"h": 100,
+					"w": 75
+				},
+				"400": {
+					"h": 400,
+					"w": 300
+				},
+				"full": {
+					"h": 2666,
+					"w": 2000
+				}
+			},
+			"uploaded_t": "1464715281",
+			"uploader": "smias"
+		},
+		"5": {
+			"sizes": {
+				"100": {
+					"h": 56,
+					"w": 100
+				},
+				"400": {
+					"h": 225,
+					"w": 400
+				},
+				"full": {
+					"h": 563,
+					"w": 1000
+				}
+			},
+			"uploaded_t": 1486504456,
+			"uploader": "openfood-ch-import"
+		},
+		"6": {
+			"sizes": {
+				"100": {
+					"h": 56,
+					"w": 100
+				},
+				"400": {
+					"h": 225,
+					"w": 400
+				},
+				"full": {
+					"h": 563,
+					"w": 1000
+				}
+			},
+			"uploaded_t": 1486504456,
+			"uploader": "openfood-ch-import"
+		},
+		"7": {
+			"sizes": {
+				"100": {
+					"h": 56,
+					"w": 100
+				},
+				"400": {
+					"h": 225,
+					"w": 400
+				},
+				"full": {
+					"h": 563,
+					"w": 1000
+				}
+			},
+			"uploaded_t": 1486504457,
+			"uploader": "openfood-ch-import"
+		},
+		"8": {
+			"sizes": {
+				"100": {
+					"h": 100,
+					"w": 56
+				},
+				"400": {
+					"h": 400,
+					"w": 225
+				},
+				"full": {
+					"h": 1000,
+					"w": 563
+				}
+			},
+			"uploaded_t": 1486504457,
+			"uploader": "openfood-ch-import"
+		},
+		"9": {
+			"sizes": {
+				"100": {
+					"h": 100,
+					"w": 75
+				},
+				"400": {
+					"h": 400,
+					"w": 300
+				},
+				"full": {
+					"h": 2666,
+					"w": 2000
+				}
+			},
+			"uploaded_t": "1487504425",
+			"uploader": "smias"
+		},
+		"front_de": {
+			"angle": "0",
+			"geometry": "0x0-0-0",
+			"imgid": "13",
+			"normalize": "false",
+			"rev": "33",
+			"sizes": {
+				"100": {
+					"h": 100,
+					"w": 82
+				},
+				"200": {
+					"h": 200,
+					"w": 164
+				},
+				"400": {
+					"h": 400,
+					"w": 328
+				},
+				"full": {
+					"h": 3300,
+					"w": 2706
+				}
+			},
+			"white_magic": "false",
+			"x1": "0",
+			"x2": "0",
+			"y1": "0",
+			"y2": "0"
+		},
+		"front_en": {
+			"geometry": "0x0--1--1",
+			"imgid": "1",
+			"normalize": null,
+			"rev": "3",
+			"sizes": {
+				"100": {
+					"h": 100,
+					"w": 100
+				},
+				"200": {
+					"h": 200,
+					"w": 200
+				},
+				"400": {
+					"h": 400,
+					"w": 400
+				},
+				"full": {
+					"h": 473,
+					"w": 473
+				}
+			},
+			"white_magic": null
+		},
+		"front_fr": {
+			"angle": 0,
+			"coordinates_image_size": "full",
+			"geometry": "0x0--1--1",
+			"imgid": "25",
+			"normalize": null,
+			"rev": "89",
+			"sizes": {
+				"100": {
+					"h": 100,
+					"w": 78
+				},
+				"200": {
+					"h": 200,
+					"w": 156
+				},
+				"400": {
+					"h": 400,
+					"w": 313
+				},
+				"full": {
+					"h": 476,
+					"w": 372
+				}
+			},
+			"white_magic": null,
+			"x1": "-1",
+			"x2": "-1",
+			"y1": "-1",
+			"y2": "-1"
+		},
+		"ingredients_de": {
+			"angle": null,
+			"coordinates_image_size": "400",
+			"geometry": "0x0-0-0",
+			"imgid": "22",
+			"normalize": null,
+			"rev": "65",
+			"sizes": {
+				"100": {
+					"h": 64,
+					"w": 100
+				},
+				"200": {
+					"h": 127,
+					"w": 200
+				},
+				"400": {
+					"h": 254,
+					"w": 400
+				},
+				"full": {
+					"h": 1341,
+					"w": 2110
+				}
+			},
+			"white_magic": null,
+			"x1": null,
+			"x2": null,
+			"y1": null,
+			"y2": null
+		},
+		"ingredients_en": {
+			"angle": null,
+			"coordinates_image_size": "400",
+			"geometry": "0x0-0-0",
+			"imgid": "28",
+			"normalize": null,
+			"rev": "106",
+			"sizes": {
+				"100": {
+					"h": 100,
+					"w": 50
+				},
+				"200": {
+					"h": 200,
+					"w": 100
+				},
+				"400": {
+					"h": 400,
+					"w": 200
+				},
+				"full": {
+					"h": 1838,
+					"w": 919
+				}
+			},
+			"white_magic": null,
+			"x1": null,
+			"x2": null,
+			"y1": null,
+			"y2": null
+		},
+		"ingredients_nl": {
+			"angle": "0",
+			"coordinates_image_size": "full",
+			"geometry": "1085x426-415-2198",
+			"imgid": "15",
+			"normalize": "true",
+			"rev": "74",
+			"sizes": {
+				"100": {
+					"h": 39,
+					"w": 100
+				},
+				"200": {
+					"h": 79,
+					"w": 200
+				},
+				"400": {
+					"h": 157,
+					"w": 400
+				},
+				"full": {
+					"h": 426,
+					"w": 1085
+				}
+			},
+			"white_magic": "false",
+			"x1": "415.1641791044777",
+			"x2": "1500.363184079602",
+			"y1": "2198.8844838308455",
+			"y2": "2624.282493781094"
+		},
+		"nutrition_de": {
+			"angle": null,
+			"coordinates_image_size": "400",
+			"geometry": "0x0-0-0",
+			"imgid": "23",
+			"normalize": null,
+			"rev": "68",
+			"sizes": {
+				"100": {
+					"h": 74,
+					"w": 100
+				},
+				"200": {
+					"h": 148,
+					"w": 200
+				},
+				"400": {
+					"h": 297,
+					"w": 400
+				},
+				"full": {
+					"h": 1856,
+					"w": 2500
+				}
+			},
+			"white_magic": null,
+			"x1": null,
+			"x2": null,
+			"y1": null,
+			"y2": null
+		},
+		"nutrition_en": {
+			"geometry": "1660x1147-200-811",
+			"imgid": "4",
+			"normalize": "true",
+			"rev": "10",
+			"sizes": {
+				"100": {
+					"h": 69,
+					"w": 100
+				},
+				"200": {
+					"h": 138,
+					"w": 200
+				},
+				"400": {
+					"h": 276,
+					"w": 400
+				},
+				"full": {
+					"h": 1147,
+					"w": 1660
+				}
+			},
+			"white_magic": "false"
+		},
+		"nutrition_fr": {
+			"angle": 0,
+			"coordinates_image_size": "full",
+			"geometry": "0x0--1--1",
+			"imgid": "26",
+			"normalize": null,
+			"rev": "91",
+			"sizes": {
+				"100": {
+					"h": 74,
+					"w": 100
+				},
+				"200": {
+					"h": 149,
+					"w": 200
+				},
+				"400": {
+					"h": 297,
+					"w": 400
+				},
+				"full": {
+					"h": 1200,
+					"w": 1616
+				}
+			},
+			"white_magic": null,
+			"x1": "-1",
+			"x2": "-1",
+			"y1": "-1",
+			"y2": "-1"
+		},
+		"packaging_de": {
+			"angle": 0,
+			"coordinates_image_size": "full",
+			"geometry": "0x0--1--1",
+			"imgid": "24",
+			"normalize": null,
+			"rev": "81",
+			"sizes": {
+				"100": {
+					"h": 100,
+					"w": 75
+				},
+				"200": {
+					"h": 200,
+					"w": 150
+				},
+				"400": {
+					"h": 400,
+					"w": 300
+				},
+				"full": {
+					"h": 3686,
+					"w": 2765
+				}
+			},
+			"white_magic": null,
+			"x1": "-1",
+			"x2": "-1",
+			"y1": "-1",
+			"y2": "-1"
+		}
+	},
+	"informers_tags": [
+		"openfoodfacts-contributors",
+		"schuelli",
+		"smias",
+		"openfood-ch-import",
+		"foodrepo",
+		"yuka.UTRjNURKb2J2ZmNHaDh3aHdEVHE4ZEYrd3NlWUFteVZkKzArSVE9PQ",
+		"inf",
+		"rochus",
+		"swipe-studio",
+		"pamputt",
+		"aleene",
+		"jblond",
+		"yuka.sY2b0xO6T85zoF3NwEKvlmxCUfX8n2vWFyDmwB2K_oeNI83nbI1z3bb9NKg",
+		"kiliweb"
+	],
+	"ingredients": [
+		{
+			"has_sub_ingredients": "yes",
+			"id": "de:noodles",
+			"percent": 89,
+			"percent_estimate": 89,
+			"rank": 1,
+			"text": "NOODLES"
+		},
+		{
+			"ciqual_proxy_food_code": "9510",
+			"id": "en:potato-starch",
+			"percent_estimate": 5.5,
+			"rank": 2,
+			"text": "Kartoffelst\u00e4rke",
+			"vegan": "yes",
+			"vegetarian": "yes"
+		},
+		{
+			"ciqual_food_code": "16129",
+			"from_palm_oil": "yes",
+			"id": "en:palm-oil",
+			"percent_estimate": 2.75,
+			"rank": 3,
+			"text": "Palm\u00f6l",
+			"vegan": "yes",
+			"vegetarian": "yes"
+		},
+		{
+			"ciqual_food_code": "11058",
+			"id": "en:salt",
+			"percent_estimate": 1.375,
+			"rank": 4,
+			"text": "Salz",
+			"vegan": "yes",
+			"vegetarian": "yes"
+		},
+		{
+			"has_sub_ingredients": "yes",
+			"id": "en:acidity-regulator",
+			"percent_estimate": 0.6875,
+			"rank": 5,
+			"text": "S\u00e4ureregulatoren"
+		},
+		{
+			"id": "en:e500",
+			"percent_estimate": 0.34375,
+			"rank": 6,
+			"text": "e500",
+			"vegan": "yes",
+			"vegetarian": "yes"
+		},
+		{
+			"id": "en:e339",
+			"percent_estimate": 0.171875,
+			"rank": 7,
+			"text": "e339",
+			"vegan": "yes",
+			"vegetarian": "yes"
+		},
+		{
+			"has_sub_ingredients": "yes",
+			"id": "en:antioxidant",
+			"percent_estimate": 0.0859375,
+			"rank": 8,
+			"text": "Antioxidationsmittel"
+		},
+		{
+			"id": "en:emulsifier",
+			"percent_estimate": 0.04296875,
+			"rank": 9,
+			"text": "Emulgator"
+		},
+		{
+			"id": "en:e322",
+			"labels": "en:contains-soy",
+			"percent_estimate": 0.021484375,
+			"rank": 10,
+			"text": "e322",
+			"vegan": "maybe",
+			"vegetarian": "maybe"
+		},
+		{
+			"has_sub_ingredients": "yes",
+			"id": "en:condiment",
+			"percent_estimate": 0.0107421875,
+			"rank": 11,
+			"text": "W\u00fcrzmittel",
+			"vegan": "maybe",
+			"vegetarian": "maybe"
+		},
+		{
+			"ciqual_food_code": "18155",
+			"id": "en:green-tea-extract",
+			"percent_estimate": 0.00537109375,
+			"rank": 12,
+			"text": "Gr\u00fcner Tee-Extrakt",
+			"vegan": "yes",
+			"vegetarian": "yes"
+		},
+		{
+			"has_sub_ingredients": "yes",
+			"id": "en:colour",
+			"percent_estimate": 0.002685546875,
+			"rank": 13,
+			"text": "Farbstoff"
+		},
+		{
+			"has_sub_ingredients": "yes",
+			"id": "en:condiment",
+			"percent_estimate": 0.0013427734375,
+			"rank": 14,
+			"text": "W\u00fcrzmittel",
+			"vegan": "maybe",
+			"vegetarian": "maybe"
+		},
+		{
+			"ciqual_food_code": "11058",
+			"id": "en:salt",
+			"percent_estimate": 0.00067138671875,
+			"rank": 15,
+			"text": "Salz",
+			"vegan": "yes",
+			"vegetarian": "yes"
+		},
+		{
+			"has_sub_ingredients": "yes",
+			"id": "en:condiment",
+			"percent_estimate": 0.000335693359375,
+			"rank": 16,
+			"text": "W\u00fcrzmittel",
+			"vegan": "maybe",
+			"vegetarian": "maybe"
+		},
+		{
+			"has_sub_ingredients": "yes",
+			"id": "en:flavour-enhancer",
+			"percent_estimate": 0.0001678466796875,
+			"rank": 17,
+			"text": "Geschmacksverst\u00e4rker"
+		},
+		{
+			"id": "en:e627",
+			"percent_estimate": 8.392333984375e-05,
+			"rank": 18,
+			"text": "e627",
+			"vegan": "maybe",
+			"vegetarian": "maybe"
+		},
+		{
+			"id": "en:e631",
+			"percent_estimate": 4.1961669921875e-05,
+			"rank": 19,
+			"text": "e631",
+			"vegan": "maybe",
+			"vegetarian": "maybe"
+		},
+		{
+			"ciqual_proxy_food_code": "31016",
+			"id": "en:sugar",
+			"percent_estimate": 2.09808349609375e-05,
+			"rank": 20,
+			"text": "Zucker",
+			"vegan": "yes",
+			"vegetarian": "yes"
+		},
+		{
+			"ciqual_proxy_food_code": "31016",
+			"id": "en:glucose",
+			"percent_estimate": 1.04904174804688e-05,
+			"rank": 21,
+			"text": "Glukose",
+			"vegan": "yes",
+			"vegetarian": "yes"
+		},
+		{
+			"ciqual_food_code": "20010",
+			"id": "en:shiitake",
+			"percent_estimate": 5.24520874023438e-06,
+			"rank": 22,
+			"text": "Shiitake",
+			"vegan": "yes",
+			"vegetarian": "yes"
+		},
+		{
+			"has_sub_ingredients": "yes",
+			"id": "de:gem\u00fcse-pilz-flocken",
+			"percent": 2,
+			"percent_estimate": 5.24520874023438e-06,
+			"rank": 23,
+			"text": "GEM\u00dcSE-PILZ-FLOCKEN"
+		},
+		{
+			"ciqual_food_code": "20010",
+			"id": "en:shiitake",
+			"percent_estimate": 0,
+			"rank": 24,
+			"text": "Shiitake",
+			"vegan": "yes",
+			"vegetarian": "yes"
+		},
+		{
+			"has_sub_ingredients": "yes",
+			"id": "en:textured-plant-protein",
+			"percent_estimate": 0,
+			"rank": 25,
+			"text": "texturiertes pflanzliches Eiwei\u00df",
+			"vegan": "yes",
+			"vegetarian": "yes"
+		},
+		{
+			"ciqual_food_code": "20009",
+			"id": "en:carrot",
+			"percent_estimate": 0,
+			"rank": 26,
+			"text": "Karotten",
+			"vegan": "yes",
+			"vegetarian": "yes"
+		},
+		{
+			"id": "de:rote-chilischoten",
+			"percent_estimate": 0,
+			"rank": 27,
+			"text": "rote Chilischoten"
+		},
+		{
+			"ciqual_food_code": "20034",
+			"id": "en:onion",
+			"percent_estimate": 0,
+			"rank": 28,
+			"text": "Zwiebeln",
+			"vegan": "yes",
+			"vegetarian": "yes"
+		},
+		{
+			"ciqual_proxy_food_code": "9410",
+			"id": "en:wheat-flour",
+			"percent_estimate": 89,
+			"text": "Weizenmehl",
+			"vegan": "yes",
+			"vegetarian": "yes"
+		},
+		{
+			"id": "en:e501",
+			"percent_estimate": 0.6875,
+			"text": "e501",
+			"vegan": "yes",
+			"vegetarian": "yes"
+		},
+		{
+			"id": "en:e306",
+			"percent_estimate": 0.0859375,
+			"text": "e306",
+			"vegan": "yes",
+			"vegetarian": "yes"
+		},
+		{
+			"id": "en:yeast-extract",
+			"percent_estimate": 0.00537109375,
+			"text": "Hefeextrakt",
+			"vegan": "yes",
+			"vegetarian": "yes"
+		},
+		{
+			"ciqual_food_code": "20901",
+			"id": "en:soya-bean",
+			"percent_estimate": 0.002685546875,
+			"text": "Sojabohnen",
+			"vegan": "yes",
+			"vegetarian": "yes"
+		},
+		{
+			"ciqual_food_code": "11000",
+			"id": "en:garlic",
+			"percent_estimate": 0.0013427734375,
+			"text": "Knoblauch",
+			"vegan": "yes",
+			"vegetarian": "yes"
+		},
+		{
+			"ciqual_proxy_food_code": "9510",
+			"id": "en:wheat-starch",
+			"percent_estimate": 0.0013427734375,
+			"text": "Weizenst\u00e4rke",
+			"vegan": "yes",
+			"vegetarian": "yes"
+		},
+		{
+			"id": "en:e101",
+			"percent_estimate": 0.0013427734375,
+			"text": "e101",
+			"vegan": "maybe",
+			"vegetarian": "yes"
+		},
+		{
+			"id": "de:w\u00fcrzpulver",
+			"percent": 9,
+			"percent_estimate": 0.0013427734375,
+			"text": "W\u00dcRZPULVER"
+		},
+		{
+			"id": "de:hydrolysiertes-sojaprotein",
+			"percent_estimate": 0.00067138671875,
+			"text": "hydrolysiertes Sojaprotein"
+		},
+		{
+			"id": "en:maltodextrin",
+			"percent_estimate": 0.000335693359375,
+			"text": "Maltodextrin",
+			"vegan": "yes",
+			"vegetarian": "yes"
+		},
+		{
+			"id": "en:yeast-extract",
+			"percent_estimate": 0.0001678466796875,
+			"text": "Hefeextrakt",
+			"vegan": "yes",
+			"vegetarian": "yes"
+		},
+		{
+			"ciqual_food_code": "11058",
+			"id": "en:salt",
+			"percent_estimate": 8.392333984375e-05,
+			"text": "Salz",
+			"vegan": "yes",
+			"vegetarian": "yes"
+		},
+		{
+			"ciqual_proxy_food_code": "9410",
+			"id": "en:wheat-flour",
+			"percent_estimate": 8.392333984375e-05,
+			"text": "Weizenmehl",
+			"vegan": "yes",
+			"vegetarian": "yes"
+		},
+		{
+			"id": "en:maltodextrin",
+			"percent_estimate": 0.0001678466796875,
+			"text": "Maltodextrin",
+			"vegan": "yes",
+			"vegetarian": "yes"
+		},
+		{
+			"ciqual_food_code": "11015",
+			"id": "en:black-pepper",
+			"percent_estimate": 8.392333984375e-05,
+			"text": "schwarzer Pfeffer",
+			"vegan": "yes",
+			"vegetarian": "yes"
+		},
+		{
+			"id": "de:rote-chilischoten",
+			"percent_estimate": 4.1961669921875e-05,
+			"text": "rote Chilischoten"
+		},
+		{
+			"ciqual_food_code": "11000",
+			"id": "en:garlic",
+			"percent_estimate": 2.09808349609375e-05,
+			"text": "Knoblauch",
+			"vegan": "yes",
+			"vegetarian": "yes"
+		},
+		{
+			"ciqual_food_code": "9545",
+			"id": "en:corn-flour",
+			"percent_estimate": 2.09808349609375e-05,
+			"text": "Maismehl",
+			"vegan": "yes",
+			"vegetarian": "yes"
+		},
+		{
+			"id": "en:e621",
+			"percent_estimate": 0.0001678466796875,
+			"text": "e621",
+			"vegan": "yes",
+			"vegetarian": "yes"
+		},
+		{
+			"ciqual_food_code": "20167",
+			"id": "en:pak-choi",
+			"percent_estimate": 5.24520874023438e-06,
+			"text": "Pak-Choi",
+			"vegan": "yes",
+			"vegetarian": "yes"
+		},
+		{
+			"id": "en:soya",
+			"percent_estimate": 0,
+			"text": "Soja",
+			"vegan": "yes",
+			"vegetarian": "yes"
+		},
+		{
+			"id": "en:wheat-gluten",
+			"percent_estimate": 0,
+			"text": "Weizengluten",
+			"vegan": "yes",
+			"vegetarian": "yes"
+		}
+	],
+	"ingredients_analysis": {
+		"en:palm-oil": [
+			"en:palm-oil"
+		],
+		"en:vegan-status-unknown": [
+			"de:noodles",
+			"de:w\u00fcrzpulver",
+			"de:hydrolysiertes-sojaprotein",
+			"de:rote-chilischoten",
+			"de:gem\u00fcse-pilz-flocken",
+			"de:rote-chilischoten"
+		],
+		"en:vegetarian-status-unknown": [
+			"de:noodles",
+			"de:w\u00fcrzpulver",
+			"de:hydrolysiertes-sojaprotein",
+			"de:rote-chilischoten",
+			"de:gem\u00fcse-pilz-flocken",
+			"de:rote-chilischoten"
+		]
+	},
+	"ingredients_analysis_tags": [
+		"en:palm-oil",
+		"en:vegan",
+		"en:vegetarian"
+	],
+	"ingredients_debug": [
+		"Noodles",
+		":",
+		":",
+		null,
+		null,
+		" Wheat flour ",
+		"(",
+		"(",
+		null,
+		null,
+		"USA)",
+		",",
+		null,
+		null,
+		null,
+		" potato starch",
+		",",
+		null,
+		null,
+		null,
+		" palm oil",
+		",",
+		null,
+		null,
+		null,
+		" salt",
+		",",
+		null,
+		null,
+		null,
+		" acidity regulator",
+		":",
+		":",
+		null,
+		null,
+		" ",
+		" - ",
+		" - ",
+		" - ",
+		null,
+		"e501",
+		" - ",
+		" - ",
+		" - ",
+		null,
+		"",
+		",",
+		null,
+		null,
+		null,
+		" ",
+		" - ",
+		" - ",
+		" - ",
+		null,
+		"e339",
+		" - ",
+		" - ",
+		" - ",
+		null,
+		"",
+		",",
+		null,
+		null,
+		null,
+		" ",
+		" - ",
+		" - ",
+		" - ",
+		null,
+		"e500",
+		" - ",
+		" - ",
+		" - ",
+		null,
+		"",
+		",",
+		null,
+		null,
+		null,
+		" tocopherol liquid ",
+		"(",
+		"(",
+		null,
+		null,
+		"antioxidant",
+		":",
+		":",
+		null,
+		null,
+		" ",
+		" - ",
+		" - ",
+		" - ",
+		null,
+		"e306",
+		" - ",
+		" - ",
+		" - ",
+		null,
+		"",
+		",",
+		null,
+		null,
+		null,
+		" emulsifier",
+		":",
+		":",
+		null,
+		null,
+		" ",
+		" - ",
+		" - ",
+		" - ",
+		null,
+		"e322",
+		" - ",
+		" - ",
+		" - ",
+		null,
+		" ",
+		"(",
+		"(",
+		null,
+		null,
+		"contains soy))",
+		",",
+		null,
+		null,
+		null,
+		" seasoning ",
+		"(",
+		"(",
+		null,
+		null,
+		"yeast extract",
+		",",
+		null,
+		null,
+		null,
+		" soy sauce",
+		",",
+		null,
+		null,
+		null,
+		" garlic",
+		",",
+		null,
+		null,
+		null,
+		" wheat starch)",
+		",",
+		null,
+		null,
+		null,
+		" green tea extract ",
+		"(",
+		"(",
+		null,
+		null,
+		"oligosaccharides",
+		",",
+		null,
+		null,
+		null,
+		" tea catechin",
+		",",
+		null,
+		null,
+		null,
+		" acid",
+		":",
+		":",
+		null,
+		null,
+		" ",
+		" - ",
+		" - ",
+		" - ",
+		null,
+		"e330",
+		" - ",
+		" - ",
+		" - ",
+		null,
+		")",
+		",",
+		null,
+		null,
+		null,
+		" colour",
+		":",
+		":",
+		null,
+		null,
+		" ",
+		" - ",
+		" - ",
+		" - ",
+		null,
+		"e101",
+		" - ",
+		" - ",
+		" - ",
+		null,
+		"\r\nSoup powder",
+		":",
+		":",
+		null,
+		null,
+		" Seasoning ",
+		"(",
+		"(",
+		null,
+		null,
+		"hydrolyzed vegetable protein ",
+		"(",
+		"(",
+		null,
+		null,
+		"soy)",
+		",",
+		null,
+		null,
+		null,
+		" maltodextrin",
+		",",
+		null,
+		null,
+		null,
+		" yeast extract",
+		",",
+		null,
+		null,
+		null,
+		" salt",
+		",",
+		null,
+		null,
+		null,
+		" garlic",
+		",",
+		null,
+		null,
+		null,
+		" onion",
+		",",
+		null,
+		null,
+		null,
+		" wheat flour)",
+		",",
+		null,
+		null,
+		null,
+		" salt",
+		",",
+		null,
+		null,
+		null,
+		" spices ",
+		"(",
+		"(",
+		null,
+		null,
+		"maltodextrin",
+		",",
+		null,
+		null,
+		null,
+		" black pepper",
+		",",
+		null,
+		null,
+		null,
+		" red chili pepper",
+		",",
+		null,
+		null,
+		null,
+		" garlic)",
+		",",
+		null,
+		null,
+		null,
+		" sugar",
+		",",
+		null,
+		null,
+		null,
+		" glucose",
+		",",
+		null,
+		null,
+		null,
+		" flavour enhancers",
+		":",
+		":",
+		null,
+		null,
+		" ",
+		" - ",
+		" - ",
+		" - ",
+		null,
+		"e631",
+		" - ",
+		" - ",
+		" - ",
+		null,
+		"",
+		",",
+		null,
+		null,
+		null,
+		" ",
+		" - ",
+		" - ",
+		" - ",
+		null,
+		"e627",
+		" - ",
+		" - ",
+		" - ",
+		null,
+		"",
+		",",
+		null,
+		null,
+		null,
+		" mushroom\r\nFlakes",
+		":",
+		":",
+		null,
+		null,
+		" Green onion",
+		",",
+		null,
+		null,
+		null,
+		" mushroom",
+		",",
+		null,
+		null,
+		null,
+		" bok choy",
+		",",
+		null,
+		null,
+		null,
+		" carrot",
+		",",
+		null,
+		null,
+		null,
+		" red chili pepper"
+	],
+	"ingredients_from_or_that_may_be_from_palm_oil_n": 0,
+	"ingredients_from_palm_oil_n": 0,
+	"ingredients_from_palm_oil_tags": [],
+	"ingredients_hierarchy": [
+		"de:noodles",
+		"en:potato-starch",
+		"en:starch",
+		"en:palm-oil",
+		"en:oil-and-fat",
+		"en:vegetable-oil-and-fat",
+		"en:palm-oil-and-fat",
+		"en:salt",
+		"en:acidity-regulator",
+		"en:e500",
+		"en:e339",
+		"en:antioxidant",
+		"en:emulsifier",
+		"en:e322",
+		"en:condiment",
+		"en:green-tea-extract",
+		"en:plant",
+		"en:tea",
+		"en:green-tea",
+		"en:colour",
+		"en:flavour-enhancer",
+		"en:e627",
+		"en:e631",
+		"en:sugar",
+		"en:added-sugar",
+		"en:disaccharide",
+		"en:glucose",
+		"en:monosaccharide",
+		"en:shiitake",
+		"en:mushroom",
+		"de:gem\u00fcse-pilz-flocken",
+		"en:textured-plant-protein",
+		"en:protein",
+		"en:plant-protein",
+		"en:carrot",
+		"en:vegetable",
+		"en:root-vegetable",
+		"en:taproot-vegetable",
+		"de:rote-chilischoten",
+		"en:onion",
+		"en:onion-family-vegetable",
+		"en:wheat-flour",
+		"en:cereal",
+		"en:flour",
+		"en:wheat",
+		"en:cereal-flour",
+		"en:e501",
+		"en:e306",
+		"en:yeast-extract",
+		"en:yeast",
+		"en:soya-bean",
+		"en:legume",
+		"en:pulse",
+		"en:soya",
+		"en:garlic",
+		"en:wheat-starch",
+		"en:e101",
+		"de:w\u00fcrzpulver",
+		"de:hydrolysiertes-sojaprotein",
+		"en:maltodextrin",
+		"en:black-pepper",
+		"en:seed",
+		"en:pepper",
+		"en:corn-flour",
+		"en:corn",
+		"en:e621",
+		"en:pak-choi",
+		"en:brassica",
+		"en:cabbage",
+		"en:wheat-gluten",
+		"en:gluten"
+	],
+	"ingredients_ids_debug": [
+		"noodles",
+		"wheat-flour",
+		"usa",
+		"potato-starch",
+		"palm-oil",
+		"salt",
+		"acidity-regulator",
+		"e501",
+		"e339",
+		"e500",
+		"tocopherol-liquid",
+		"antioxidant",
+		"e306",
+		"emulsifier",
+		"e322",
+		"contains-soy",
+		"seasoning",
+		"yeast-extract",
+		"soy-sauce",
+		"garlic",
+		"wheat-starch",
+		"green-tea-extract",
+		"oligosaccharides",
+		"tea-catechin",
+		"acid",
+		"e330",
+		"colour",
+		"e101",
+		"soup-powder",
+		"seasoning",
+		"hydrolyzed-vegetable-protein",
+		"soy",
+		"maltodextrin",
+		"yeast-extract",
+		"salt",
+		"garlic",
+		"onion",
+		"wheat-flour",
+		"salt",
+		"spices",
+		"maltodextrin",
+		"black-pepper",
+		"red-chili-pepper",
+		"garlic",
+		"sugar",
+		"glucose",
+		"flavour-enhancers",
+		"e631",
+		"e627",
+		"mushroom-flakes",
+		"green-onion",
+		"mushroom",
+		"bok-choy",
+		"carrot",
+		"red-chili-pepper"
+	],
+	"ingredients_lc": "de",
+	"ingredients_n": 51,
+	"ingredients_n_tags": [
+		"51",
+		"51-60"
+	],
+	"ingredients_original_tags": [
+		"de:noodles",
+		"en:potato-starch",
+		"en:palm-oil",
+		"en:salt",
+		"en:acidity-regulator",
+		"en:e500",
+		"en:e339",
+		"en:antioxidant",
+		"en:emulsifier",
+		"en:e322",
+		"en:condiment",
+		"en:green-tea-extract",
+		"en:colour",
+		"en:condiment",
+		"en:salt",
+		"en:condiment",
+		"en:flavour-enhancer",
+		"en:e627",
+		"en:e631",
+		"en:sugar",
+		"en:glucose",
+		"en:shiitake",
+		"de:gem\u00fcse-pilz-flocken",
+		"en:shiitake",
+		"en:textured-plant-protein",
+		"en:carrot",
+		"de:rote-chilischoten",
+		"en:onion",
+		"en:wheat-flour",
+		"en:e501",
+		"en:e306",
+		"en:yeast-extract",
+		"en:soya-bean",
+		"en:garlic",
+		"en:wheat-starch",
+		"en:e101",
+		"de:w\u00fcrzpulver",
+		"de:hydrolysiertes-sojaprotein",
+		"en:maltodextrin",
+		"en:yeast-extract",
+		"en:salt",
+		"en:wheat-flour",
+		"en:maltodextrin",
+		"en:black-pepper",
+		"de:rote-chilischoten",
+		"en:garlic",
+		"en:corn-flour",
+		"en:e621",
+		"en:pak-choi",
+		"en:soya",
+		"en:wheat-gluten"
+	],
+	"ingredients_percent_analysis": -1,
+	"ingredients_tags": [
+		"de:noodles",
+		"en:potato-starch",
+		"en:starch",
+		"en:palm-oil",
+		"en:oil-and-fat",
+		"en:vegetable-oil-and-fat",
+		"en:palm-oil-and-fat",
+		"en:salt",
+		"en:acidity-regulator",
+		"en:e500",
+		"en:e339",
+		"en:antioxidant",
+		"en:emulsifier",
+		"en:e322",
+		"en:condiment",
+		"en:green-tea-extract",
+		"en:plant",
+		"en:tea",
+		"en:green-tea",
+		"en:colour",
+		"en:flavour-enhancer",
+		"en:e627",
+		"en:e631",
+		"en:sugar",
+		"en:added-sugar",
+		"en:disaccharide",
+		"en:glucose",
+		"en:monosaccharide",
+		"en:shiitake",
+		"en:mushroom",
+		"de:gem\u00fcse-pilz-flocken",
+		"en:textured-plant-protein",
+		"en:protein",
+		"en:plant-protein",
+		"en:carrot",
+		"en:vegetable",
+		"en:root-vegetable",
+		"en:taproot-vegetable",
+		"de:rote-chilischoten",
+		"en:onion",
+		"en:onion-family-vegetable",
+		"en:wheat-flour",
+		"en:cereal",
+		"en:flour",
+		"en:wheat",
+		"en:cereal-flour",
+		"en:e501",
+		"en:e306",
+		"en:yeast-extract",
+		"en:yeast",
+		"en:soya-bean",
+		"en:legume",
+		"en:pulse",
+		"en:soya",
+		"en:garlic",
+		"en:wheat-starch",
+		"en:e101",
+		"de:w\u00fcrzpulver",
+		"de:hydrolysiertes-sojaprotein",
+		"en:maltodextrin",
+		"en:black-pepper",
+		"en:seed",
+		"en:pepper",
+		"en:corn-flour",
+		"en:corn",
+		"en:e621",
+		"en:pak-choi",
+		"en:brassica",
+		"en:cabbage",
+		"en:wheat-gluten",
+		"en:gluten"
+	],
+	"ingredients_text": "NOODLES 89%: Weizenmehl, Kartoffelst\u00e4rke, Palm\u00f6l, Salz, S\u00e4ureregulatoren: E501, E500, E339, Antioxidationsmittel: E306, Emulgator. E322 (enth\u00e4lt Soja), W\u00fcrzmittel (Hefeextrakt, Sojabohnen, Knoblauch, Weizenst\u00e4rke), Gr\u00fcner Tee-Extrakt, Farbstoff: E101. W\u00dcRZPULVER 9%: W\u00fcrzmittel (hydrolysiertes pflanzliches Eiwei\u00df (Soja), Maltodextrin, Hefeextrakt, Salz, Weizenmehl), Salz, W\u00fcrzmittel (Maltodextrin, schwarzer Pfeffer, rote Chilischoten, Knoblauch, Maismehl), Geschmacksverst\u00e4rker: E621, E627, E631, Zucker, Glukose, Shiitake. GEM\u00dcSE-PILZ-FLOCKEN 2%: Pak-Choi, Shiitake, texturiertes pflanzliches Eiwei\u00df (Soja, Weizengluten), Karotten, rote Chilischoten, Zwiebeln.",
+	"ingredients_text_de": "NOODLES 89%: Weizenmehl, Kartoffelst\u00e4rke, Palm\u00f6l, Salz, S\u00e4ureregulatoren: E501, E500, E339, Antioxidationsmittel: E306, Emulgator. E322 (enth\u00e4lt Soja), W\u00fcrzmittel (Hefeextrakt, Sojabohnen, Knoblauch, Weizenst\u00e4rke), Gr\u00fcner Tee-Extrakt, Farbstoff: E101. W\u00dcRZPULVER 9%: W\u00fcrzmittel (hydrolysiertes pflanzliches Eiwei\u00df (Soja), Maltodextrin, Hefeextrakt, Salz, Weizenmehl), Salz, W\u00fcrzmittel (Maltodextrin, schwarzer Pfeffer, rote Chilischoten, Knoblauch, Maismehl), Geschmacksverst\u00e4rker: E621, E627, E631, Zucker, Glukose, Shiitake. GEM\u00dcSE-PILZ-FLOCKEN 2%: Pak-Choi, Shiitake, texturiertes pflanzliches Eiwei\u00df (Soja, Weizengluten), Karotten, rote Chilischoten, Zwiebeln.",
+	"ingredients_text_debug": "Noodles: Wheat flour (USA), potato starch, palm oil, salt, acidity regulator:  - e501 - ,  - e339 - ,  - e500 - , tocopherol liquid (antioxidant:  - e306 - , emulsifier:  - e322 -  (contains soy)), seasoning (yeast extract, soy sauce, garlic, wheat starch), green tea extract (oligosaccharides, tea catechin, acid:  - e330 - ), colour:  - e101 - \r\nSoup powder: Seasoning (hydrolyzed vegetable protein (soy), maltodextrin, yeast extract, salt, garlic, onion, wheat flour), salt, spices (maltodextrin, black pepper, red chili pepper, garlic), sugar, glucose, flavour enhancers:  - e631 - ,  - e627 - , mushroom\r\nFlakes: Green onion, mushroom, bok choy, carrot, red chili pepper",
+	"ingredients_text_en": "noodles 89%: wheat flour, potato starch, palm oil, salt, acidity regulators: e501, e500, e339, antioxidant: e306, emulsifier: e322 (contains soy), seasoning (yeast extract, soybean, garlic, wheat starch), green tea extract, colour: e101, seasoning powder 9%: seasoning (hydrolyzed vegetable protein (soy), maltodextrin, yeast extract, salt, wheat flour), salt, spices (maltodextrin, black pepper, red chili pepper, garlic, corn flour),   flavour enhancers: e621, e627, e631, sugar, glucose, shiitake, vegetable mushroom flakes 2%: pak-choi, shiitake, textured vegetable protein (soy, wheat gluten), carrot, red chili pepper, onion, may contain barley, crustaceans, eggs, fish, peanuts, milk, celery, mustard, sesame seeds and molluscs,",
+	"ingredients_text_en_ocr_1548763071": "Noodles: Wheat flour (USA), potato starch, palm oil, salt, acidity regulator: E501, E339, E500, tocopherol liquid (antioxidant: E306, emulsifier: E322 (contains soy)), seasoning (yeast extract, soy sauce, garlic, wheat starch), green tea extract (oligosaccharides, tea catechin, acid: E330), colour: E101\r\nSoup powder: Seasoning (hydrolyzed vegetable protein (soy), maltodextrin, yeast extract, salt, garlic, onion, wheat flour), salt, spices (maltodextrin, black pepper, red chili pepper, garlic), sugar, glucose, flavour enhancers: E631, E627, mushroom\r\nFlakes: Green onion, mushroom, bok choy, carrot, red chili pepper\r\n",
+	"ingredients_text_en_ocr_1548763071_result": "Noodles: Wheat flour (USA), potato starch, palm oil, salt, acidity regulator: E501, E339, E500, tocopherol liquid (antioxidant: E306, emulsifier: E322 (contains soy)), seasoning (yeast extract, soy sauce, garlic, wheat starch), green tea extract (oligosaccharides, tea catechin, acid: E330), colour: E101\r\nSoup powder: Seasoning (hydrolyzed vegetable protein (soy), maltodextrin, yeast extract, salt, garlic, onion, wheat flour), salt, spices (maltodextrin, black pepper, red chili pepper, garlic), sugar, glucose, flavour enhancers: E631, E627, mushroom\r\nFlakes: Green onion, mushroom, bok choy, carrot, red chili pepper",
+	"ingredients_text_fr": "Nouilles 89% : Farine de bl\u00e9, f\u00e9cule de pomme de terre, huile de palme, sel, correcteur d'acidit\u00e9 : E501, E500, E339, antioxydant : E306, \u00e9mulsifiant : E332 (contient soja), assaisonnement (extrait de levure, graine de soja, ail, amidon de bl\u00e9), extrait de th\u00e9 vert, colorant : E101.\r\nAssaisonnement en poudre 9% : assaisonnement (prot\u00e9ines v\u00e9g\u00e9tales hydrolys\u00e9es (soja), maltrodextrine, extrait de levure, sel, farine de bl\u00e9), sel, assaisonnement (maltodextrine, poivre noir, piment rouge, ail, farine de ma\u00efs), exhausteur de go\u00fbt : E621, E627, E631, sucre, glucose, Shiitake.\r\nFlocons de champignons de l\u00e9gumes 2% : Pak-choi, Shiitake, prot\u00e9ines v\u00e9g\u00e9tales textur\u00e9es (soja, gluten de bl\u00e9), carotte, piment rouge, oignon.",
+	"ingredients_text_it": "Noodles: farina di frumento (USA), fecola di patate, sale di olio di palma, correttore di acidit\u00e0: E 501, E 339, E 500, tocoferolo liquido (antiossidante: E 306, emulsionante: E 322 (contiene soia), condimento (estratto di lievito, salsa di soia), aglio, amido di frumento), estratto di t\u00e8 verde (oligosaccaridi, t\u00e8 di catechina, acido: E 330), colore E 101\r\nZuppa in polvere: condimento (proteine vegetali idrolizzate (soia), maltodestrina, estratto di lievito, sale, aglio, cipolla, farina di frumento), sale, spezie (maltodestrina, pepe nero, peperoncino, aglio), zucchero, glucosio, esaltatori sapore: E 631, E 627, fungo",
+	"ingredients_text_nl": "Noedels : Tarwebloem (USA), aardappelzetmeel, palmolie, zout, zuurteregelaar : E501, E339, E500, tocoferol vloeistof (antioxidant : E306, emulgator : E322 (bevat soja), smaakmaker (gistextract, sojasaus, knoflook, tarwezetmeel), groene thee - extract (oligosaccharides, thee catechine, voedingszuur : E330), kleurstof: E101. Soep poeder: Smaakmaker (gehydrolyseerd plantaardig eiwit (soja), maltodextrine, gistextract, zout, knoflook, ui, tarwebloem), zout, smaakmaker (maltodextrine, vane peper, rode chilipeper, knoflook), suiker, glucose, smaakversterkers : E631, E627, paddenstoelen.",
+	"ingredients_text_nl_ocr_1632987933": "Noedels : Tarwebloem (USA), aardappelzetmeel, palmolie, zout, zuurteregelaar : E501, E339, E500, tocoferol vloeistof (antioxidant : E306, emulgator : E322 (bevat soja), smaakmaker (gistextract, sojasaus, knoflook, tarwezetmeel), groene thee- extract (oligosaccharides, thee catechine, voedingszuur : E330), kleurstof: E101. Soep poeder: Smaakmaker (gehydrolyseerd plantaardig eiwit (soja), maltodextrine, gistextract, zout, knoflook, ui, tarwebloem), zout, smaakmaker (maltodextrine, vane peper, rode chilipeper, knoflook), suiker, glucose, smaakversterkers : E631, E627, paddenstoelen.",
+	"ingredients_text_nl_ocr_1632987933_result": "Noedels : Tarwebloem (USA), aardappelzetmeel, palmolie, zout, zuurteregelaar : E501, E339, E500, tocoferol vloeistof (antioxidant : E306, emulgator : E322 (bevat soja), smaakmaker (gistextract, sojasaus, knoflook, tarwezetmeel), groene thee - extract (oligosaccharides, thee catechine, voedingszuur : E330), kleurstof: E101. Soep poeder: Smaakmaker (gehydrolyseerd plantaardig eiwit (soja), maltodextrine, gistextract, zout, knoflook, ui, tarwebloem), zout, smaakmaker (maltodextrine, vane peper, rode chilipeper, knoflook), suiker, glucose, smaakversterkers : E631, E627, paddenstoelen.",
+	"ingredients_text_with_allergens": "NOODLES 89%: Weizenmehl, Kartoffelst\u00e4rke, Palm\u00f6l, Salz, S\u00e4ureregulatoren: E501, E500, E339, Antioxidationsmittel: E306, Emulgator. E322 (enth\u00e4lt Soja), W\u00fcrzmittel (Hefeextrakt, <span class=\"allergen\">Sojabohnen</span>, Knoblauch, <span class=\"allergen\">Weizenst\u00e4rke</span>), Gr\u00fcner Tee-Extrakt, Farbstoff: E101. W\u00dcRZPULVER 9%: W\u00fcrzmittel (hydrolysiertes pflanzliches Eiwei\u00df (<span class=\"allergen\">Soja</span>), Maltodextrin, Hefeextrakt, Salz, <span class=\"allergen\">Weizenmehl</span>), Salz, W\u00fcrzmittel (Maltodextrin, schwarzer Pfeffer, rote Chilischoten, Knoblauch, Maismehl), Geschmacksverst\u00e4rker: E621, E627, E631, Zucker, Glukose, Shiitake. GEM\u00dcSE-PILZ-FLOCKEN 2%: Pak-Choi, Shiitake, texturiertes pflanzliches Eiwei\u00df (<span class=\"allergen\">Soja</span>, <span class=\"allergen\">Weizengluten</span>), Karotten, rote Chilischoten, Zwiebeln.",
+	"ingredients_text_with_allergens_de": "NOODLES 89%: Weizenmehl, Kartoffelst\u00e4rke, Palm\u00f6l, Salz, S\u00e4ureregulatoren: E501, E500, E339, Antioxidationsmittel: E306, Emulgator. E322 (enth\u00e4lt Soja), W\u00fcrzmittel (Hefeextrakt, <span class=\"allergen\">Sojabohnen</span>, Knoblauch, <span class=\"allergen\">Weizenst\u00e4rke</span>), Gr\u00fcner Tee-Extrakt, Farbstoff: E101. W\u00dcRZPULVER 9%: W\u00fcrzmittel (hydrolysiertes pflanzliches Eiwei\u00df (<span class=\"allergen\">Soja</span>), Maltodextrin, Hefeextrakt, Salz, <span class=\"allergen\">Weizenmehl</span>), Salz, W\u00fcrzmittel (Maltodextrin, schwarzer Pfeffer, rote Chilischoten, Knoblauch, Maismehl), Geschmacksverst\u00e4rker: E621, E627, E631, Zucker, Glukose, Shiitake. GEM\u00dcSE-PILZ-FLOCKEN 2%: Pak-Choi, Shiitake, texturiertes pflanzliches Eiwei\u00df (<span class=\"allergen\">Soja</span>, <span class=\"allergen\">Weizengluten</span>), Karotten, rote Chilischoten, Zwiebeln.",
+	"ingredients_text_with_allergens_en": "noodles 89%: wheat flour, potato starch, palm oil, salt, acidity regulators: e501, e500, e339, antioxidant: e306, emulsifier: e322 (contains <span class=\"allergen\">soy</span>), seasoning (yeast extract, <span class=\"allergen\">soybean</span>, garlic, wheat starch), green tea extract, colour: e101, seasoning powder 9%: seasoning (hydrolyzed vegetable protein (<span class=\"allergen\">soy</span>), maltodextrin, yeast extract, salt, <span class=\"allergen\">wheat flour</span>), salt, spices (maltodextrin, black pepper, red chili pepper, garlic, corn flour),   flavour enhancers: e621, e627, e631, sugar, glucose, shiitake, vegetable mushroom flakes 2%: pak-choi, shiitake, textured vegetable protein (<span class=\"allergen\">soy</span>, wheat gluten), carrot, red chili pepper, onion, may contain <span class=\"allergen\">barley</span>, <span class=\"allergen\">crustaceans</span>, <span class=\"allergen\">eggs</span>, <span class=\"allergen\">fish</span>, <span class=\"allergen\">peanuts</span>, <span class=\"allergen\">milk</span>, <span class=\"allergen\">celery</span>, <span class=\"allergen\">mustard</span>, <span class=\"allergen\">sesame seeds</span> and <span class=\"allergen\">molluscs</span>,",
+	"ingredients_text_with_allergens_fr": "Nouilles 89% : Farine de bl\u00e9, f\u00e9cule de pomme de terre, huile de palme, sel, correcteur d'acidit\u00e9 : E501, E500, E339, antioxydant : E306, \u00e9mulsifiant : E332 (contient <span class=\"allergen\">soja</span>), assaisonnement (extrait de levure, graine de <span class=\"allergen\">soja</span>, ail, amidon de bl\u00e9), extrait de th\u00e9 vert, colorant : E101.\r\nAssaisonnement en poudre 9% : assaisonnement (prot\u00e9ines v\u00e9g\u00e9tales hydrolys\u00e9es (<span class=\"allergen\">soja</span>), maltrodextrine, extrait de levure, sel, farine de <span class=\"allergen\">bl\u00e9</span>), sel, assaisonnement (maltodextrine, poivre noir, piment rouge, ail, farine de ma\u00efs), exhausteur de go\u00fbt : E621, E627, E631, sucre, glucose, Shiitake.\r\nFlocons de champignons de l\u00e9gumes 2% : Pak-choi, Shiitake, prot\u00e9ines v\u00e9g\u00e9tales textur\u00e9es (<span class=\"allergen\">soja</span>, <span class=\"allergen\">gluten de bl\u00e9</span>), carotte, piment rouge, oignon.",
+	"ingredients_text_with_allergens_it": "Noodles: farina di frumento (USA), fecola di patate, sale di olio di palma, correttore di acidit\u00e0: E 501, E 339, E 500, tocoferolo liquido (antiossidante: E 306, emulsionante: E 322 (contiene <span class=\"allergen\">soia</span>), condimento (estratto di lievito, salsa di soia), aglio, amido di frumento), estratto di t\u00e8 verde (oligosaccaridi, t\u00e8 di catechina, acido: E 330), colore E 101\r\nZuppa in polvere: condimento (proteine vegetali idrolizzate (<span class=\"allergen\">soia</span>), maltodestrina, estratto di lievito, sale, aglio, cipolla, <span class=\"allergen\">farina di frumento</span>), sale, spezie (maltodestrina, pepe nero, peperoncino, aglio), zucchero, glucosio, esaltatori sapore: E 631, E 627, fungo",
+	"ingredients_text_with_allergens_nl": "Noedels : Tarwebloem (USA), aardappelzetmeel, palmolie, zout, zuurteregelaar : E501, E339, E500, tocoferol vloeistof (antioxidant : E306, emulgator : E322 (bevat<span class=\"allergen\"> soja</span>), smaakmaker (gistextract, sojasaus, knoflook,<span class=\"allergen\"> tarwezetmeel</span>), groene thee - extract (oligosaccharides, thee catechine, voedingszuur : E330), kleurstof: E101. Soep poeder: Smaakmaker (gehydrolyseerd plantaardig eiwit (<span class=\"allergen\">soja</span>), maltodextrine, gistextract, zout, knoflook, ui,<span class=\"allergen\"> tarwebloem</span>), zout, smaakmaker (maltodextrine, vane peper, rode chilipeper, knoflook), suiker, glucose, smaakversterkers : E631, E627, paddenstoelen.",
+	"ingredients_that_may_be_from_palm_oil_n": 0,
+	"ingredients_that_may_be_from_palm_oil_tags": [],
+	"ingredients_with_specified_percent_n": 1,
+	"ingredients_with_specified_percent_sum": 9,
+	"ingredients_with_unspecified_percent_n": 40,
+	"ingredients_with_unspecified_percent_sum": 99.9986572265625,
+	"ingredients_without_ciqual_codes": [
+		"de:gem\u00fcse-pilz-flocken",
+		"de:hydrolysiertes-sojaprotein",
+		"de:noodles",
+		"de:rote-chilischoten",
+		"de:w\u00fcrzpulver",
+		"en:acidity-regulator",
+		"en:antioxidant",
+		"en:colour",
+		"en:condiment",
+		"en:e101",
+		"en:e306",
+		"en:e322",
+		"en:e339",
+		"en:e500",
+		"en:e501",
+		"en:e621",
+		"en:e627",
+		"en:e631",
+		"en:emulsifier",
+		"en:flavour-enhancer",
+		"en:maltodextrin",
+		"en:soya",
+		"en:textured-plant-protein",
+		"en:wheat-gluten",
+		"en:yeast-extract"
+	],
+	"ingredients_without_ciqual_codes_n": 25,
+	"interface_version_created": "20150316.jqm2",
+	"interface_version_modified": "20150316.jqm2",
+	"known_ingredients_n": 66,
+	"labels": "Vegetariano, Halal, Vegano, La Sociedad Vegana",
+	"labels_hierarchy": [
+		"en:vegetarian",
+		"en:halal",
+		"en:vegan",
+		"en:the-vegan-society"
+	],
+	"labels_lc": "es",
+	"labels_old": "Halal,La Sociedad Vegana",
+	"labels_tags": [
+		"en:vegetarian",
+		"en:halal",
+		"en:vegan",
+		"en:the-vegan-society"
+	],
+	"lang": "es",
+	"languages": {
+		"en:dutch": 2,
+		"en:english": 6,
+		"en:french": 4,
+		"en:german": 6,
+		"en:italian": 2
+	},
+	"languages_codes": {
+		"de": 6,
+		"en": 6,
+		"fr": 4,
+		"it": 2,
+		"nl": 2
+	},
+	"languages_hierarchy": [
+		"en:dutch",
+		"en:english",
+		"en:french",
+		"en:german",
+		"en:italian"
+	],
+	"languages_tags": [
+		"en:dutch",
+		"en:english",
+		"en:french",
+		"en:german",
+		"en:italian",
+		"en:5",
+		"en:multilingual"
+	],
+	"last_edit_dates_tags": [
+		"2024-02-02",
+		"2024-02",
+		"2024"
+	],
+	"last_editor": "theandalusianqueer",
+	"last_image_dates_tags": [
+		"2024-02-02",
+		"2024-02",
+		"2024"
+	],
+	"last_image_t": 1706880130,
+	"last_modified_by": "theandalusianqueer",
+	"last_modified_t": 1706880154,
+	"last_updated_t": 1707597423,
+	"lc": "es",
+	"link": "http://eng.nongshim.com/brand/main/index?prodCode=&page=1&start=1&end=24&total=68&tabType=&searchCategory=all&searchWord=Shin+ramyun",
+	"main_countries_tags": [],
+	"manufacturing_places": "Seoul,South Korea",
+	"manufacturing_places_tags": [
+		"seoul",
+		"south-korea"
+	],
+	"max_imgid": "30",
+	"minerals_prev_tags": [],
+	"minerals_tags": [],
+	"misc_tags": [
+		"en:packagings-number-of-components-1",
+		"en:main-countries-hr-product-name-not-in-country-language",
+		"en:main-countries-hr-ingredients-not-in-country-language",
+		"en:main-countries-hr-no-data-in-country-language",
+		"en:main-countries-kr-unexpectedly-low-scans",
+		"en:main-countries-kr-unexpectedly-low-scans-0-10-percent-of-expected",
+		"en:main-countries-kr-unexpectedly-low-scans-and-no-data-in-country-language",
+		"en:main-countries-kr-product-name-not-in-country-language",
+		"en:main-countries-kr-ingredients-not-in-country-language",
+		"en:main-countries-kr-no-data-in-country-language",
+		"en:some-ingredients-with-specified-percent",
+		"en:nutriscore-missing-prepared-nutrition-data",
+		"en:nutriscore-not-computed",
+		"en:nutrition-fruits-vegetables-nuts-estimate-from-ingredients",
+		"en:nutrition-all-nutriscore-values-known",
+		"en:nutrition-fruits-vegetables-legumes-estimate-from-ingredients",
+		"en:packagings-not-complete",
+		"en:packagings-not-empty-but-not-complete",
+		"en:packagings-not-empty",
+		"en:ecoscore-extended-data-not-computed",
+		"en:ecoscore-missing-data-warning",
+		"en:ecoscore-missing-data-labels",
+		"en:ecoscore-computed",
+		"en:ecoscore-changed",
+		"en:ecoscore-grade-changed"
+	],
+	"no_nutrition_data": "",
+	"nova_group": 4,
+	"nova_group_debug": "",
+	"nova_groups": "4",
+	"nova_groups_markers": {
+		"3": [
+			[
+				"categories",
+				"en:meals"
+			],
+			[
+				"ingredients",
+				"en:salt"
+			],
+			[
+				"ingredients",
+				"en:starch"
+			],
+			[
+				"ingredients",
+				"en:sugar"
+			]
+		],
+		"4": [
+			[
+				"additives",
+				"en:e101"
+			],
+			[
+				"additives",
+				"en:e322"
+			],
+			[
+				"additives",
+				"en:e621"
+			],
+			[
+				"additives",
+				"en:e627"
+			],
+			[
+				"additives",
+				"en:e631"
+			],
+			[
+				"ingredients",
+				"en:colour"
+			],
+			[
+				"ingredients",
+				"en:emulsifier"
+			],
+			[
+				"ingredients",
+				"en:flavour-enhancer"
+			],
+			[
+				"ingredients",
+				"en:glucose"
+			],
+			[
+				"ingredients",
+				"en:gluten"
+			],
+			[
+				"ingredients",
+				"en:maltodextrin"
+			]
+		]
+	},
+	"nova_groups_tags": [
+		"en:4-ultra-processed-food-and-drink-products"
+	],
+	"nucleotides_prev_tags": [],
+	"nucleotides_tags": [],
+	"nutrient_levels": {},
+	"nutrient_levels_tags": [],
+	"nutriments": {
+		"carbohydrates": 68,
+		"carbohydrates_100g": 68,
+		"carbohydrates_serving": 81.6,
+		"carbohydrates_unit": "g",
+		"carbohydrates_value": 68,
+		"energy": 1776,
+		"energy-kcal": 422,
+		"energy-kcal_100g": 422,
+		"energy-kcal_serving": 506,
+		"energy-kcal_unit": "kcal",
+		"energy-kcal_value": 422,
+		"energy-kcal_value_computed": 421.8,
+		"energy-kj": 1776,
+		"energy-kj_100g": 1776,
+		"energy-kj_serving": 2130,
+		"energy-kj_unit": "kJ",
+		"energy-kj_value": 1776,
+		"energy-kj_value_computed": 1776.4,
+		"energy_100g": 1776,
+		"energy_serving": 2130,
+		"energy_unit": "kJ",
+		"energy_value": 1776,
+		"fat": 13,
+		"fat_100g": 13,
+		"fat_serving": 15.6,
+		"fat_unit": "g",
+		"fat_value": 13,
+		"fiber": 0,
+		"fiber_100g": 0,
+		"fiber_serving": 0,
+		"fiber_unit": "g",
+		"fiber_value": 0,
+		"fruits-vegetables-legumes-estimate-from-ingredients_100g": 0.00405979156494141,
+		"fruits-vegetables-legumes-estimate-from-ingredients_serving": 0.00405979156494141,
+		"fruits-vegetables-nuts-estimate-from-ingredients_100g": 0.00405979156494141,
+		"fruits-vegetables-nuts-estimate-from-ingredients_serving": 0.00405979156494141,
+		"nova-group": 4,
+		"nova-group_100g": 4,
+		"nova-group_serving": 4,
+		"proteins": 8.2,
+		"proteins_100g": 8.2,
+		"proteins_serving": 9.84,
+		"proteins_unit": "g",
+		"proteins_value": 8.2,
+		"salt": 3.8,
+		"salt_100g": 3.8,
+		"salt_serving": 4.56,
+		"salt_unit": "g",
+		"salt_value": 3.8,
+		"saturated-fat": 6.1,
+		"saturated-fat_100g": 6.1,
+		"saturated-fat_serving": 7.32,
+		"saturated-fat_unit": "g",
+		"saturated-fat_value": 6.1,
+		"sodium": 1.52,
+		"sodium_100g": 1.52,
+		"sodium_serving": 1.82,
+		"sodium_unit": "g",
+		"sodium_value": 1.52,
+		"sugars": 3,
+		"sugars_100g": 3,
+		"sugars_serving": 3.6,
+		"sugars_unit": "g",
+		"sugars_value": 3
+	},
+	"nutriscore": {
+		"2021": {
+			"category_available": 1,
+			"data": {
+				"energy": 1776,
+				"fiber": 0,
+				"fruits_vegetables_nuts_colza_walnut_olive_oils": 0.00405979156494141,
+				"is_beverage": 0,
+				"is_cheese": 0,
+				"is_fat": 0,
+				"is_water": 0,
+				"proteins": 8.2,
+				"saturated_fat": 6.1,
+				"sodium": 1520,
+				"sugars": 3
+			},
+			"grade": "unknown",
+			"nutrients_available": 0,
+			"nutriscore_applicable": 1,
+			"nutriscore_computed": 0
+		},
+		"2023": {
+			"category_available": 1,
+			"data": {
+				"energy": 1776,
+				"fiber": 0,
+				"fruits_vegetables_legumes": 0,
+				"is_beverage": 0,
+				"is_cheese": 0,
+				"is_fat_oil_nuts_seeds": 0,
+				"is_red_meat_product": 0,
+				"is_water": 0,
+				"proteins": 8.2,
+				"salt": 3.8,
+				"saturated_fat": 6.1,
+				"sugars": 3
+			},
+			"grade": "unknown",
+			"nutrients_available": 0,
+			"nutriscore_applicable": 1,
+			"nutriscore_computed": 0
+		}
+	},
+	"nutriscore_2021_tags": [
+		"unknown"
+	],
+	"nutriscore_2023_tags": [
+		"unknown"
+	],
+	"nutriscore_grade": "unknown",
+	"nutriscore_tags": [
+		"unknown"
+	],
+	"nutriscore_version": "2021",
+	"nutrition_data": "on",
+	"nutrition_data_per": "100g",
+	"nutrition_data_prepared": "",
+	"nutrition_data_prepared_per": "100g",
+	"nutrition_grade_fr": "unknown",
+	"nutrition_grades": "unknown",
+	"nutrition_grades_tags": [
+		"unknown"
+	],
+	"nutrition_score_beverage": 0,
+	"nutrition_score_debug": "no score for category en:dried-products-to-be-rehydrated without data for prepared product",
+	"nutrition_score_warning_fruits_vegetables_legumes_estimate_from_ingredients": 1,
+	"nutrition_score_warning_fruits_vegetables_legumes_estimate_from_ingredients_value": 0.00405979156494141,
+	"nutrition_score_warning_fruits_vegetables_nuts_estimate_from_ingredients": 1,
+	"nutrition_score_warning_fruits_vegetables_nuts_estimate_from_ingredients_value": 0.00405979156494141,
+	"obsolete": "",
+	"obsolete_since_date": "",
+	"origin": "",
+	"origin_de": "",
+	"origin_en": "",
+	"origin_fr": "",
+	"origin_it": "",
+	"origin_nl": "",
+	"origins": "S\u00fcdkorea",
+	"origins_hierarchy": [
+		"en:south-korea"
+	],
+	"origins_lc": "de",
+	"origins_old": "South Korea",
+	"origins_tags": [
+		"en:south-korea"
+	],
+	"other_nutritional_substances_tags": [],
+	"packaging": "Plastic, Bag, Mixed plastic-bag, Product",
+	"packaging_hierarchy": [
+		"en:plastic",
+		"en:bag",
+		"de:Mixed plastic-bag",
+		"de:Product"
+	],
+	"packaging_lc": "de",
+	"packaging_materials_tags": [
+		"en:plastic"
+	],
+	"packaging_old": "Plastic, Bag, Mixed plastic-bag, Product",
+	"packaging_old_before_taxonomization": "Plastic,en:mixed plastic-bag,sachet,product",
+	"packaging_recycling_tags": [],
+	"packaging_shapes_tags": [
+		"en:bag"
+	],
+	"packaging_tags": [
+		"en:plastic",
+		"en:bag",
+		"de:mixed-plastic-bag",
+		"de:product"
+	],
+	"packaging_text": "",
+	"packaging_text_de": "",
+	"packaging_text_en": "",
+	"packaging_text_fr": "",
+	"packaging_text_it": "",
+	"packaging_text_nl": "",
+	"packagings": [
+		{
+			"material": "en:plastic",
+			"shape": "en:bag"
+		}
+	],
+	"packagings_complete": 0,
+	"packagings_materials": {
+		"all": {},
+		"en:plastic": {}
+	},
+	"packagings_n": 1,
+	"photographers_tags": [
+		"openfoodfacts-contributors",
+		"smias",
+		"openfood-ch-import",
+		"kiliweb",
+		"rochus",
+		"date-limite-app",
+		"nipser",
+		"jblond",
+		"inf",
+		"foodvisor",
+		"theandalusianqueer"
+	],
+	"pnns_groups_1": "Cereals and potatoes",
+	"pnns_groups_1_tags": [
+		"cereals-and-potatoes",
+		"known"
+	],
+	"pnns_groups_2": "Cereals",
+	"pnns_groups_2_tags": [
+		"cereals",
+		"known"
+	],
+	"popularity_key": 22995000077,
+	"popularity_tags": [
+		"top-50000-scans-2019",
+		"top-100000-scans-2019",
+		"at-least-5-scans-2019",
+		"at-least-10-scans-2019",
+		"top-75-percent-scans-2019",
+		"top-80-percent-scans-2019",
+		"top-85-percent-scans-2019",
+		"top-90-percent-scans-2019",
+		"top-5000-ch-scans-2019",
+		"top-10000-ch-scans-2019",
+		"top-50000-ch-scans-2019",
+		"top-100000-ch-scans-2019",
+		"top-country-ch-scans-2019",
+		"at-least-5-ch-scans-2019",
+		"top-100000-fr-scans-2019",
+		"at-least-5-fr-scans-2019",
+		"top-50000-de-scans-2019",
+		"top-100000-de-scans-2019",
+		"top-1000-ma-scans-2019",
+		"top-5000-ma-scans-2019",
+		"top-10000-ma-scans-2019",
+		"top-50000-ma-scans-2019",
+		"top-100000-ma-scans-2019",
+		"top-500-sa-scans-2019",
+		"top-1000-sa-scans-2019",
+		"top-5000-sa-scans-2019",
+		"top-10000-sa-scans-2019",
+		"top-50000-sa-scans-2019",
+		"top-100000-sa-scans-2019",
+		"top-500-in-scans-2019",
+		"top-1000-in-scans-2019",
+		"top-5000-in-scans-2019",
+		"top-10000-in-scans-2019",
+		"top-50000-in-scans-2019",
+		"top-100000-in-scans-2019",
+		"top-50000-scans-2020",
+		"top-100000-scans-2020",
+		"at-least-5-scans-2020",
+		"at-least-10-scans-2020",
+		"top-75-percent-scans-2020",
+		"top-80-percent-scans-2020",
+		"top-85-percent-scans-2020",
+		"top-90-percent-scans-2020",
+		"top-50000-fr-scans-2020",
+		"top-100000-fr-scans-2020",
+		"top-country-fr-scans-2020",
+		"at-least-5-fr-scans-2020",
+		"at-least-10-fr-scans-2020",
+		"top-5000-de-scans-2020",
+		"top-10000-de-scans-2020",
+		"top-50000-de-scans-2020",
+		"top-100000-de-scans-2020",
+		"at-least-5-de-scans-2020",
+		"top-5000-ch-scans-2020",
+		"top-10000-ch-scans-2020",
+		"top-50000-ch-scans-2020",
+		"top-100000-ch-scans-2020",
+		"at-least-5-ch-scans-2020",
+		"top-1000-nl-scans-2020",
+		"top-5000-nl-scans-2020",
+		"top-10000-nl-scans-2020",
+		"top-50000-nl-scans-2020",
+		"top-100000-nl-scans-2020",
+		"top-5000-gb-scans-2020",
+		"top-10000-gb-scans-2020",
+		"top-50000-gb-scans-2020",
+		"top-100000-gb-scans-2020",
+		"top-50000-be-scans-2020",
+		"top-100000-be-scans-2020",
+		"top-1000-jp-scans-2020",
+		"top-5000-jp-scans-2020",
+		"top-10000-jp-scans-2020",
+		"top-50000-jp-scans-2020",
+		"top-100000-jp-scans-2020",
+		"top-10000-scans-2021",
+		"top-50000-scans-2021",
+		"top-100000-scans-2021",
+		"at-least-5-scans-2021",
+		"at-least-10-scans-2021",
+		"top-75-percent-scans-2021",
+		"top-80-percent-scans-2021",
+		"top-85-percent-scans-2021",
+		"top-90-percent-scans-2021",
+		"top-50000-fr-scans-2021",
+		"top-100000-fr-scans-2021",
+		"top-country-fr-scans-2021",
+		"at-least-5-fr-scans-2021",
+		"at-least-10-fr-scans-2021",
+		"top-10000-de-scans-2021",
+		"top-50000-de-scans-2021",
+		"top-100000-de-scans-2021",
+		"at-least-5-de-scans-2021",
+		"top-5000-gb-scans-2021",
+		"top-10000-gb-scans-2021",
+		"top-50000-gb-scans-2021",
+		"top-100000-gb-scans-2021",
+		"top-5000-nl-scans-2021",
+		"top-10000-nl-scans-2021",
+		"top-50000-nl-scans-2021",
+		"top-100000-nl-scans-2021",
+		"top-5000-au-scans-2021",
+		"top-10000-au-scans-2021",
+		"top-50000-au-scans-2021",
+		"top-100000-au-scans-2021",
+		"top-5000-hu-scans-2021",
+		"top-10000-hu-scans-2021",
+		"top-50000-hu-scans-2021",
+		"top-100000-hu-scans-2021",
+		"top-5000-no-scans-2021",
+		"top-10000-no-scans-2021",
+		"top-50000-no-scans-2021",
+		"top-100000-no-scans-2021",
+		"top-5000-ar-scans-2021",
+		"top-10000-ar-scans-2021",
+		"top-50000-ar-scans-2021",
+		"top-100000-ar-scans-2021",
+		"top-5000-se-scans-2021",
+		"top-10000-se-scans-2021",
+		"top-50000-se-scans-2021",
+		"top-100000-se-scans-2021",
+		"top-500-do-scans-2021",
+		"top-1000-do-scans-2021",
+		"top-5000-do-scans-2021",
+		"top-10000-do-scans-2021",
+		"top-50000-do-scans-2021",
+		"top-100000-do-scans-2021",
+		"top-1000-bg-scans-2021",
+		"top-5000-bg-scans-2021",
+		"top-10000-bg-scans-2021",
+		"top-50000-bg-scans-2021",
+		"top-100000-bg-scans-2021",
+		"top-1000-ec-scans-2021",
+		"top-5000-ec-scans-2021",
+		"top-10000-ec-scans-2021",
+		"top-50000-ec-scans-2021",
+		"top-100000-ec-scans-2021",
+		"top-5000-at-scans-2021",
+		"top-10000-at-scans-2021",
+		"top-50000-at-scans-2021",
+		"top-100000-at-scans-2021",
+		"top-50000-ch-scans-2021",
+		"top-100000-ch-scans-2021",
+		"top-5000-scans-2022",
+		"top-10000-scans-2022",
+		"top-50000-scans-2022",
+		"top-100000-scans-2022",
+		"at-least-5-scans-2022",
+		"at-least-10-scans-2022",
+		"top-75-percent-scans-2022",
+		"top-80-percent-scans-2022",
+		"top-85-percent-scans-2022",
+		"top-90-percent-scans-2022",
+		"top-5000-de-scans-2022",
+		"top-10000-de-scans-2022",
+		"top-50000-de-scans-2022",
+		"top-100000-de-scans-2022",
+		"top-country-de-scans-2022",
+		"at-least-5-de-scans-2022",
+		"top-1000-ch-scans-2022",
+		"top-5000-ch-scans-2022",
+		"top-10000-ch-scans-2022",
+		"top-50000-ch-scans-2022",
+		"top-100000-ch-scans-2022",
+		"at-least-5-ch-scans-2022",
+		"top-1000-hu-scans-2022",
+		"top-5000-hu-scans-2022",
+		"top-10000-hu-scans-2022",
+		"top-50000-hu-scans-2022",
+		"top-100000-hu-scans-2022",
+		"top-50000-fr-scans-2022",
+		"top-100000-fr-scans-2022",
+		"top-5000-be-scans-2022",
+		"top-10000-be-scans-2022",
+		"top-50000-be-scans-2022",
+		"top-100000-be-scans-2022",
+		"top-5000-gb-scans-2022",
+		"top-10000-gb-scans-2022",
+		"top-50000-gb-scans-2022",
+		"top-100000-gb-scans-2022",
+		"top-10-jp-scans-2022",
+		"top-50-jp-scans-2022",
+		"top-100-jp-scans-2022",
+		"top-500-jp-scans-2022",
+		"top-1000-jp-scans-2022",
+		"top-5000-jp-scans-2022",
+		"top-10000-jp-scans-2022",
+		"top-50000-jp-scans-2022",
+		"top-100000-jp-scans-2022",
+		"top-5000-at-scans-2022",
+		"top-10000-at-scans-2022",
+		"top-50000-at-scans-2022",
+		"top-100000-at-scans-2022",
+		"top-500-kz-scans-2022",
+		"top-1000-kz-scans-2022",
+		"top-5000-kz-scans-2022",
+		"top-10000-kz-scans-2022",
+		"top-50000-kz-scans-2022",
+		"top-100000-kz-scans-2022",
+		"top-5000-no-scans-2022",
+		"top-10000-no-scans-2022",
+		"top-50000-no-scans-2022",
+		"top-100000-no-scans-2022",
+		"top-5000-cz-scans-2022",
+		"top-10000-cz-scans-2022",
+		"top-50000-cz-scans-2022",
+		"top-100000-cz-scans-2022",
+		"top-5000-fi-scans-2022",
+		"top-10000-fi-scans-2022",
+		"top-50000-fi-scans-2022",
+		"top-100000-fi-scans-2022",
+		"top-5000-au-scans-2022",
+		"top-10000-au-scans-2022",
+		"top-50000-au-scans-2022",
+		"top-100000-au-scans-2022",
+		"top-5000-in-scans-2022",
+		"top-10000-in-scans-2022",
+		"top-50000-in-scans-2022",
+		"top-100000-in-scans-2022",
+		"top-5000-scans-2023",
+		"top-10000-scans-2023",
+		"top-50000-scans-2023",
+		"top-100000-scans-2023",
+		"at-least-5-scans-2023",
+		"at-least-10-scans-2023",
+		"top-75-percent-scans-2023",
+		"top-80-percent-scans-2023",
+		"top-85-percent-scans-2023",
+		"top-90-percent-scans-2023",
+		"top-1000-de-scans-2023",
+		"top-5000-de-scans-2023",
+		"top-10000-de-scans-2023",
+		"top-50000-de-scans-2023",
+		"top-100000-de-scans-2023",
+		"top-country-de-scans-2023",
+		"at-least-5-de-scans-2023",
+		"at-least-10-de-scans-2023",
+		"top-5000-gb-scans-2023",
+		"top-10000-gb-scans-2023",
+		"top-50000-gb-scans-2023",
+		"top-100000-gb-scans-2023",
+		"at-least-5-gb-scans-2023",
+		"at-least-10-gb-scans-2023",
+		"top-500-ch-scans-2023",
+		"top-1000-ch-scans-2023",
+		"top-5000-ch-scans-2023",
+		"top-10000-ch-scans-2023",
+		"top-50000-ch-scans-2023",
+		"top-100000-ch-scans-2023",
+		"at-least-5-ch-scans-2023",
+		"at-least-10-ch-scans-2023",
+		"top-50000-fr-scans-2023",
+		"top-100000-fr-scans-2023",
+		"at-least-5-fr-scans-2023",
+		"at-least-10-fr-scans-2023",
+		"top-5000-nl-scans-2023",
+		"top-10000-nl-scans-2023",
+		"top-50000-nl-scans-2023",
+		"top-100000-nl-scans-2023",
+		"top-1000-cz-scans-2023",
+		"top-5000-cz-scans-2023",
+		"top-10000-cz-scans-2023",
+		"top-50000-cz-scans-2023",
+		"top-100000-cz-scans-2023",
+		"top-500-mk-scans-2023",
+		"top-1000-mk-scans-2023",
+		"top-5000-mk-scans-2023",
+		"top-10000-mk-scans-2023",
+		"top-50000-mk-scans-2023",
+		"top-100000-mk-scans-2023",
+		"top-10000-ma-scans-2023",
+		"top-50000-ma-scans-2023",
+		"top-100000-ma-scans-2023",
+		"top-5000-in-scans-2023",
+		"top-10000-in-scans-2023",
+		"top-50000-in-scans-2023",
+		"top-100000-in-scans-2023",
+		"top-50-lk-scans-2023",
+		"top-100-lk-scans-2023",
+		"top-500-lk-scans-2023",
+		"top-1000-lk-scans-2023",
+		"top-5000-lk-scans-2023",
+		"top-10000-lk-scans-2023",
+		"top-50000-lk-scans-2023",
+		"top-100000-lk-scans-2023",
+		"top-50000-us-scans-2023",
+		"top-100000-us-scans-2023",
+		"top-5000-hr-scans-2023",
+		"top-10000-hr-scans-2023",
+		"top-50000-hr-scans-2023",
+		"top-100000-hr-scans-2023",
+		"top-5000-fi-scans-2023",
+		"top-10000-fi-scans-2023",
+		"top-50000-fi-scans-2023",
+		"top-100000-fi-scans-2023",
+		"top-10000-ua-scans-2023",
+		"top-50000-ua-scans-2023",
+		"top-100000-ua-scans-2023",
+		"top-50000-ro-scans-2023",
+		"top-100000-ro-scans-2023",
+		"top-500-is-scans-2023",
+		"top-1000-is-scans-2023",
+		"top-5000-is-scans-2023",
+		"top-10000-is-scans-2023",
+		"top-50000-is-scans-2023",
+		"top-100000-is-scans-2023"
+	],
+	"product_name": "Shin Ramyun Noodle Gourmet Spicy",
+	"product_name_de": "Shin Ramyun Instant Nudeln Spicy",
+	"product_name_en": "Shin Ramyun Noodle Gourmet Spicy",
+	"product_name_fr": "Shin Ramyun Gourmet Spicy Noodle Soup Instant Noodles",
+	"product_name_it": "Nongshim Shin Ramyun Noodle Soup",
+	"product_name_nl": "",
+	"product_quantity": 120,
+	"product_quantity_unit": "g",
+	"purchase_places": "Le Plessis-P\u00e2t\u00e9",
+	"purchase_places_tags": [
+		"le-plessis-pate"
+	],
+	"quantity": "120g",
+	"removed_countries_tags": [],
+	"rev": 113,
+	"scans_n": 67,
+	"selected_images": {
+		"front": {
+			"display": {
+				"de": "https://images.openfoodfacts.org/images/products/880/104/315/0620/front_de.33.400.jpg",
+				"en": "https://images.openfoodfacts.org/images/products/880/104/315/0620/front_en.3.400.jpg",
+				"fr": "https://images.openfoodfacts.org/images/products/880/104/315/0620/front_fr.89.400.jpg"
+			},
+			"small": {
+				"de": "https://images.openfoodfacts.org/images/products/880/104/315/0620/front_de.33.200.jpg",
+				"en": "https://images.openfoodfacts.org/images/products/880/104/315/0620/front_en.3.200.jpg",
+				"fr": "https://images.openfoodfacts.org/images/products/880/104/315/0620/front_fr.89.200.jpg"
+			},
+			"thumb": {
+				"de": "https://images.openfoodfacts.org/images/products/880/104/315/0620/front_de.33.100.jpg",
+				"en": "https://images.openfoodfacts.org/images/products/880/104/315/0620/front_en.3.100.jpg",
+				"fr": "https://images.openfoodfacts.org/images/products/880/104/315/0620/front_fr.89.100.jpg"
+			}
+		},
+		"ingredients": {
+			"display": {
+				"de": "https://images.openfoodfacts.org/images/products/880/104/315/0620/ingredients_de.65.400.jpg",
+				"en": "https://images.openfoodfacts.org/images/products/880/104/315/0620/ingredients_en.106.400.jpg",
+				"nl": "https://images.openfoodfacts.org/images/products/880/104/315/0620/ingredients_nl.74.400.jpg"
+			},
+			"small": {
+				"de": "https://images.openfoodfacts.org/images/products/880/104/315/0620/ingredients_de.65.200.jpg",
+				"en": "https://images.openfoodfacts.org/images/products/880/104/315/0620/ingredients_en.106.200.jpg",
+				"nl": "https://images.openfoodfacts.org/images/products/880/104/315/0620/ingredients_nl.74.200.jpg"
+			},
+			"thumb": {
+				"de": "https://images.openfoodfacts.org/images/products/880/104/315/0620/ingredients_de.65.100.jpg",
+				"en": "https://images.openfoodfacts.org/images/products/880/104/315/0620/ingredients_en.106.100.jpg",
+				"nl": "https://images.openfoodfacts.org/images/products/880/104/315/0620/ingredients_nl.74.100.jpg"
+			}
+		},
+		"nutrition": {
+			"display": {
+				"de": "https://images.openfoodfacts.org/images/products/880/104/315/0620/nutrition_de.68.400.jpg",
+				"en": "https://images.openfoodfacts.org/images/products/880/104/315/0620/nutrition_en.10.400.jpg",
+				"fr": "https://images.openfoodfacts.org/images/products/880/104/315/0620/nutrition_fr.91.400.jpg"
+			},
+			"small": {
+				"de": "https://images.openfoodfacts.org/images/products/880/104/315/0620/nutrition_de.68.200.jpg",
+				"en": "https://images.openfoodfacts.org/images/products/880/104/315/0620/nutrition_en.10.200.jpg",
+				"fr": "https://images.openfoodfacts.org/images/products/880/104/315/0620/nutrition_fr.91.200.jpg"
+			},
+			"thumb": {
+				"de": "https://images.openfoodfacts.org/images/products/880/104/315/0620/nutrition_de.68.100.jpg",
+				"en": "https://images.openfoodfacts.org/images/products/880/104/315/0620/nutrition_en.10.100.jpg",
+				"fr": "https://images.openfoodfacts.org/images/products/880/104/315/0620/nutrition_fr.91.100.jpg"
+			}
+		},
+		"packaging": {
+			"display": {
+				"de": "https://images.openfoodfacts.org/images/products/880/104/315/0620/packaging_de.81.400.jpg"
+			},
+			"small": {
+				"de": "https://images.openfoodfacts.org/images/products/880/104/315/0620/packaging_de.81.200.jpg"
+			},
+			"thumb": {
+				"de": "https://images.openfoodfacts.org/images/products/880/104/315/0620/packaging_de.81.100.jpg"
+			}
+		}
+	},
+	"serving_quantity": 120,
+	"serving_quantity_unit": "g",
+	"serving_size": "120 g",
+	"sortkey": 1610560198,
+	"sources": [
+		{
+			"fields": [
+				"product_name_fr",
+				"countries",
+				"serving_size"
+			],
+			"id": "openfood-ch",
+			"images": [
+				"5",
+				"6",
+				"7",
+				"8"
+			],
+			"import_t": 1486504458,
+			"url": "https://www.openfood.ch/en/products/10188"
+		},
+		{
+			"fields": [
+				"product_name_it",
+				"ingredients_text_de",
+				"ingredients_text_fr",
+				"ingredients_text_it"
+			],
+			"id": "openfood-ch",
+			"images": [],
+			"import_t": 1548763072,
+			"manufacturer": "0",
+			"name": "FoodRepo",
+			"source_licence": "Creative Commons Attribution 4.0 International License",
+			"source_licence_url": "https://creativecommons.org/licenses/by/4.0/",
+			"url": "https://www.foodrepo.org/ch/products/10188"
+		}
+	],
+	"states": "en:to-be-completed, en:nutrition-facts-completed, en:ingredients-completed, en:expiration-date-completed, en:packaging-code-to-be-completed, en:characteristics-completed, en:origins-completed, en:categories-completed, en:brands-completed, en:packaging-completed, en:quantity-completed, en:product-name-completed, en:photos-to-be-validated, en:packaging-photo-to-be-selected, en:nutrition-photo-to-be-selected, en:ingredients-photo-to-be-selected, en:front-photo-to-be-selected, en:photos-uploaded",
+	"states_hierarchy": [
+		"en:to-be-completed",
+		"en:nutrition-facts-completed",
+		"en:ingredients-completed",
+		"en:expiration-date-completed",
+		"en:packaging-code-to-be-completed",
+		"en:characteristics-completed",
+		"en:origins-completed",
+		"en:categories-completed",
+		"en:brands-completed",
+		"en:packaging-completed",
+		"en:quantity-completed",
+		"en:product-name-completed",
+		"en:photos-to-be-validated",
+		"en:packaging-photo-to-be-selected",
+		"en:nutrition-photo-to-be-selected",
+		"en:ingredients-photo-to-be-selected",
+		"en:front-photo-to-be-selected",
+		"en:photos-uploaded"
+	],
+	"states_tags": [
+		"en:to-be-completed",
+		"en:nutrition-facts-completed",
+		"en:ingredients-completed",
+		"en:expiration-date-completed",
+		"en:packaging-code-to-be-completed",
+		"en:characteristics-completed",
+		"en:origins-completed",
+		"en:categories-completed",
+		"en:brands-completed",
+		"en:packaging-completed",
+		"en:quantity-completed",
+		"en:product-name-completed",
+		"en:photos-to-be-validated",
+		"en:packaging-photo-to-be-selected",
+		"en:nutrition-photo-to-be-selected",
+		"en:ingredients-photo-to-be-selected",
+		"en:front-photo-to-be-selected",
+		"en:photos-uploaded"
+	],
+	"stores": "Continent d'Asie,amazon",
+	"stores_tags": [
+		"continent-d-asie",
+		"amazon"
+	],
+	"teams": "swipe-studio",
+	"teams_tags": [
+		"swipe-studio"
+	],
+	"traces": "en:celery,en:crustaceans,en:eggs,en:fish,en:gluten,en:milk,en:molluscs,en:mustard,en:peanuts,en:sesame-seeds",
+	"traces_from_ingredients": "",
+	"traces_from_user": "(de) en:celery,en:crustaceans,en:eggs,en:fish,en:gluten,en:milk,en:molluscs,en:mustard,en:peanuts,en:sesame-seeds",
+	"traces_hierarchy": [
+		"en:celery",
+		"en:crustaceans",
+		"en:eggs",
+		"en:fish",
+		"en:gluten",
+		"en:milk",
+		"en:molluscs",
+		"en:mustard",
+		"en:peanuts",
+		"en:sesame-seeds"
+	],
+	"traces_lc": "de",
+	"traces_tags": [
+		"en:celery",
+		"en:crustaceans",
+		"en:eggs",
+		"en:fish",
+		"en:gluten",
+		"en:milk",
+		"en:molluscs",
+		"en:mustard",
+		"en:peanuts",
+		"en:sesame-seeds"
+	],
+	"unique_scans_n": 65,
+	"unknown_ingredients_n": 5,
+	"unknown_nutrients_tags": [],
+	"update_key": "20240209",
+	"url": "https://world.openfoodfacts.org/product/8801043150620/shin-ramyun-noodle-gourmet-spicy-nongshim",
+	"vitamins_prev_tags": [],
+	"vitamins_tags": [],
+	"weighers_tags": [],
+	"weighters_tags": []
+}

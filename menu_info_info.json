@@ -1,1 +1,3598 @@
-{"oatmeal": {"location": "fresh stock soups", "time": "breakfast", "day": "saturday", "ingredients": {"oat flakes": {"name": "oat flakes", "percent": 34}, "whole wheat flour": {"name": "whole wheat flour", "percent": 22}, "dark chocolate drops": {"name": "dark chocolate drops", "percent": 15}, "vegetable oil": {"name": "vegetable oil", "percent": 14.5}, "sugar": {"name": "sugar", "percent": 8.75}, "glucose and fructose syrup": {"name": "glucose and fructose syrup", "percent": 4.01215277777778}, "raising agents": {"name": "raising agents", "percent": 1.87934027777777}, "salt": {"name": "salt", "percent": 1.87934027777777}, "cocoa paste": {"name": "cocoa paste", "percent": 3.125}, "dextrose": {"name": "dextrose", "percent": 1.5625}, "cocoa butter": {"name": "cocoa butter", "percent": 0.78125}, "emulsifier": {"name": "emulsifier", "percent": 0.390625}, "flavourings": {"name": "flavourings", "percent": 0.390625}, "high oleic sunflower": {"name": "high oleic sunflower", "percent": 14.5}, "sodium acid carbonate": {"name": "sodium acid carbonate", "percent": 0.939670138888886}, "ammonium acid carbonate": {"name": "ammonium acid carbonate", "percent": 0.939670138888886}, "soy lecithin": {"name": "soy lecithin", "percent": 0.390625}}, "calories": 476, "protein": 7.6, "fat": 21, "carb": 61, "total_g": 425}, "waffles": {"location": "", "time": null, "day": "tuesday", "ingredients": {"Farine de bl\u00e9 tendre": {"name": "Farine de bl\u00e9 tendre", "percent": 40}, "perles de sucre": {"name": "perles de sucre", "percent": 21}, "huiles v\u00e9g\u00e9tales de palme": {"name": "huiles v\u00e9g\u00e9tales de palme", "percent": 13}, "huiles v\u00e9g\u00e9tales de colza": {"name": "huiles v\u00e9g\u00e9tales de colza", "percent": 13}, "sirop de glucose-fructose": {"name": "sirop de glucose-fructose", "percent": 9}, "oeufs frais": {"name": "oeufs frais", "percent": 4}, "levure": {"name": "levure", "percent": 0}, "\u00e9mulsifiant": {"name": "\u00e9mulsifiant", "percent": 0}, "sel": {"name": "sel", "percent": 0}, "ar\u00f4me": {"name": "ar\u00f4me", "percent": 0}, "mono- et diglyc\u00e9rides d'acides gras": {"name": "mono- et diglyc\u00e9rides d'acides gras", "percent": 0}, "st\u00e9aroyl-2-lactylate de sodium": {"name": "st\u00e9aroyl-2-lactylate de sodium", "percent": 0}, "l\u00e9cithine de soja": {"name": "l\u00e9cithine de soja", "percent": 0}}, "calories": 441, "protein": 5, "fat": 21.7, "carb": 55.9, "total_g": 315}, "tacos": {"location": "greyhound grille", "time": "dinner", "day": "tuesday", "ingredients": {"corn flour": {"name": "corn flour", "percent": 75}, "high oleic sunflower oil": {"name": "high oleic sunflower oil", "percent": 25}}, "calories": 509, "protein": 5.4, "fat": 27, "carb": 59.2, "total_g": 156}, "burger": {"location": "greyhound grille", "time": "dinner", "day": "saturday", "ingredients": {"Eau": {"name": "Eau", "percent": 53.3333333333333}, "huile de colza": {"name": "huile de colza", "percent": 23.3333333333333}, "vinaigre d'alcool": {"name": "vinaigre d'alcool", "percent": 0.182291666666666}, "pur\u00e9e de tomates double-concentr\u00e9e": {"name": "pur\u00e9e de tomates double-concentr\u00e9e", "percent": 5.83333333333333}, "sucre": {"name": "sucre", "percent": 0.022786458333333}, "moutarde": {"name": "moutarde", "percent": 1.45833333333333}, "amidon modifi\u00e9 de ma\u00efs": {"name": "amidon modifi\u00e9 de ma\u00efs", "percent": 0.729166666666664}, "sauce Worcestershire": {"name": "sauce Worcestershire", "percent": 0.364583333333329}, "jaune d'\u0152UF": {"name": "jaune d'\u0152UF", "percent": 0.182291666666664}, "\u00e9pices": {"name": "\u00e9pices", "percent": 0.000356038411458315}, "sel": {"name": "sel", "percent": 0.0113932291666665}, "ar\u00f4mes": {"name": "ar\u00f4mes", "percent": 0.00569661458333326}, "\u00e9paississant": {"name": "\u00e9paississant", "percent": 0.0113932291666643}, "antioxydant": {"name": "antioxydant", "percent": 0.0056966145833286}, "colorant": {"name": "colorant", "percent": 0.0056966145833286}, "eau": {"name": "eau", "percent": 0.182291666666664}, "graines de MOUTARDE": {"name": "graines de MOUTARDE", "percent": 0.364583333333332}, "sirop de glucose": {"name": "sirop de glucose", "percent": 0.0911458333333321}, "vinaigre de malt d'ORGE": {"name": "vinaigre de malt d'ORGE", "percent": 0.0455729166666661}, "extrait d'oignon": {"name": "extrait d'oignon", "percent": 0.00284830729166663}, "ANCHOIS": {"name": "ANCHOIS", "percent": 0.00142415364583331}, "jus de citron concentr\u00e9": {"name": "jus de citron concentr\u00e9", "percent": 0.000712076822916657}, "herbes": {"name": "herbes", "percent": 0.000178019205729157}, "ail": {"name": "ail", "percent": 0.00017801920572913}, "gomme xanthane": {"name": "gomme xanthane", "percent": 0.0113932291666643}, "calcium disodium EDTA": {"name": "calcium disodium EDTA", "percent": 0.0056966145833286}, "carot\u00e9no\u00efdes": {"name": "carot\u00e9no\u00efdes", "percent": 0.0056966145833286}}, "calories": 240, "protein": 1.1, "fat": 21, "carb": 11, "total_g": 260}, "chicken quesadilla": {"location": "greyhound grille", "time": "dinner", "day": "thursday", "ingredients": {"Chicken white meat": {"name": "Chicken white meat", "percent": 52.5}, "water": {"name": "water", "percent": 23.75}, "wheat flour": {"name": "wheat flour", "percent": 11.875}, "monterey jack cheese": {"name": "monterey jack cheese", "percent": 5.9375}, "pepper jack cheese": {"name": "pepper jack cheese", "percent": 2.96875}, "corn red bell pepper": {"name": "corn red bell pepper", "percent": 1.484375}, "spinach": {"name": "spinach", "percent": 0.7421875}, "may contain 2% and less corn starch": {"name": "may contain 2% and less corn starch", "percent": 0.37109375}, "soybean oil": {"name": "soybean oil", "percent": 0.185546875}, "jalapeno pepper": {"name": "jalapeno pepper", "percent": 0.0927734375}, "black beans": {"name": "black beans", "percent": 0.04638671875}, "sugar": {"name": "sugar", "percent": 0.023193359375}, "cilantro": {"name": "cilantro", "percent": 0.0115966796875}, "salt": {"name": "salt", "percent": 9.05990600585938e-05}, "sodium acid pyrophosphate": {"name": "sodium acid pyrophosphate", "percent": 0.002899169921875}, "baking soda": {"name": "baking soda", "percent": 0.0014495849609375}, "fresh garlic": {"name": "fresh garlic", "percent": 0.00072479248046875}, "spices": {"name": "spices", "percent": 2.83122062683105e-06}, "chili pepper": {"name": "chili pepper", "percent": 1.13248825073242e-05}, "spice blend": {"name": "spice blend", "percent": 0.000181198120117188}, "with water": {"name": "with water", "percent": 26.875}, "rich starch": {"name": "rich starch", "percent": 12.8125}, "sodium phosphate": {"name": "sodium phosphate", "percent": 12.3275}, "with niacin": {"name": "with niacin", "percent": 5.9375}, "reduced iron": {"name": "reduced iron", "percent": 2.96875}, "thiamine mononitrate": {"name": "thiamine mononitrate", "percent": 1.484375}, "riboflavin": {"name": "riboflavin", "percent": 0.7421875}, "folic acid": {"name": "folic acid", "percent": 0.7421875}, "cultured pasteurized milk": {"name": "cultured pasteurized milk", "percent": 2.96875}, "enzymes": {"name": "enzymes", "percent": 0.185546875}, "pasteurized milk": {"name": "pasteurized milk", "percent": 1.484375}, "cheese cultures": {"name": "cheese cultures", "percent": 0.7421875}, "jalapeno peppers": {"name": "jalapeno peppers", "percent": 0.37109375}, "with salt": {"name": "with salt", "percent": 0.04638671875}, "acetic acid": {"name": "acetic acid", "percent": 0.023193359375}, "calcium chloride": {"name": "calcium chloride", "percent": 0.023193359375}, "with citric acid": {"name": "with citric acid", "percent": 0.00072479248046875}, "paprika": {"name": "paprika", "percent": 4.52995300292969e-05}, "dehydrated onion": {"name": "dehydrated onion", "percent": 2.26497650146484e-05}, "corn starch": {"name": "corn starch", "percent": 5.66244125366211e-06}, "garlic": {"name": "garlic", "percent": 1.41561031341553e-06}, "annatto": {"name": "annatto", "percent": 7.07805156707764e-07}, "silicon dioxide": {"name": "silicon dioxide", "percent": 7.07805156707764e-07}}, "calories": 188, "protein": 12.35, "fat": 9.41, "carb": 15.29, "total_g": 340.1942775}, "omelets": {"location": "omelete pasta station", "time": "breakfast", "day": "saturday", "ingredients": {}, "calories": 210, "protein": 16, "fat": 15, "carb": 4, "total_g": 16}, "beef brisket": {"location": "inspired eats", "time": "lunch", "day": "friday", "ingredients": {"Pain sp\u00e9cial color\u00e9": {"name": "Pain sp\u00e9cial color\u00e9", "percent": 41.9}, "yaourt \u00e0 la grecque": {"name": "yaourt \u00e0 la grecque", "percent": 14.1}, "poitrine de boeuf cuite fum\u00e9e": {"name": "poitrine de boeuf cuite fum\u00e9e", "percent": 13.1}, "cheddar rouge": {"name": "cheddar rouge", "percent": 8.4}, "pickle d'oignon rouge aigre-doux": {"name": "pickle d'oignon rouge aigre-doux", "percent": 5.2}, "chou blanc": {"name": "chou blanc", "percent": 3.5}, "chou rouge": {"name": "chou rouge", "percent": 3.5}, "carotte r\u00e2p\u00e9e": {"name": "carotte r\u00e2p\u00e9e", "percent": 3.5}, "morceau de bacon cuit fum\u00e9 au bois de h\u00eatre": {"name": "morceau de bacon cuit fum\u00e9 au bois de h\u00eatre", "percent": 2.5}, "mayonnaise": {"name": "mayonnaise", "percent": 1.28295454545455}, "sp\u00e9cialit\u00e9 fromag\u00e8re": {"name": "sp\u00e9cialit\u00e9 fromag\u00e8re", "percent": 1.05119949494949}, "ciboulette": {"name": "ciboulette", "percent": 0.839829545454545}, "farine de BLE": {"name": "farine de BLE", "percent": 0.563008207070702}, "fibre de BL\u00c9": {"name": "fibre de BL\u00c9", "percent": 0.281504103535354}, "sel": {"name": "sel", "percent": 0.0200461647727273}, "poivre": {"name": "poivre", "percent": 0.700000000000005}, "jus de citron": {"name": "jus de citron", "percent": 0.0351880129419158}, "issue d'animaux n\u00e9s": {"name": "issue d'animaux n\u00e9s", "percent": 0.0175940064709579}, "\u00e9lev\u00e9s": {"name": "\u00e9lev\u00e9s", "percent": 0.00879700323547894}, "abattus et transform\u00e9s en France": {"name": "abattus et transform\u00e9s en France", "percent": 0.00879700323548605}, "farine de BL\u00c9": {"name": "farine de BL\u00c9", "percent": 11.45703125}, "eau": {"name": "eau", "percent": 0.0801846590909091}, "huile de colza": {"name": "huile de colza", "percent": 0.641477272727273}, "sucre": {"name": "sucre", "percent": 0.0200461647727272}, "encre de seiche": {"name": "encre de seiche", "percent": 0.306884765625}, "levure": {"name": "levure", "percent": 0.61376953125}, "extrait d'ac\u00e9rola": {"name": "extrait d'ac\u00e9rola", "percent": 0.1534423828125}, "LAIT en poudre": {"name": "LAIT en poudre", "percent": 0.038360595703125}, "CEUF de poule \u00e9lev\u00e9e en plein air": {"name": "CEUF de poule \u00e9lev\u00e9e en plein air", "percent": 0.0191802978515625}, "graine de lin brun": {"name": "graine de lin brun", "percent": 0.00959014892578125}, "graine de millet": {"name": "graine de millet", "percent": 0.00479507446289062}, "graine de lin jaune": {"name": "graine de lin jaune", "percent": 0.00239753723144531}, "graine de tournesol": {"name": "graine de tournesol", "percent": 0.00119876861572266}, "graine de chia": {"name": "graine de chia", "percent": 0.00119876861572266}, "poitrine de boeuf": {"name": "poitrine de boeuf", "percent": 8.9}, "sel de Gu\u00e9rande": {"name": "sel de Gu\u00e9rande", "percent": 0.7}, "paprika": {"name": "paprika", "percent": 0.7}, "fenouil": {"name": "fenouil", "percent": 0.7}, "ail": {"name": "ail", "percent": 0.7}, "thym": {"name": "thym", "percent": 0.7}, "LAIT": {"name": "LAIT", "percent": 5.6}, "ferments lactiques": {"name": "ferments lactiques", "percent": 0.7}, "coagulant microbien": {"name": "coagulant microbien", "percent": 0.7}, "colorant": {"name": "colorant", "percent": 0.699999999999999}, "oignon rouge": {"name": "oignon rouge", "percent": 3.03333333333333}, "vinaigre de vin rouge": {"name": "vinaigre de vin rouge", "percent": 0.541666666666667}, "concentr\u00e9 de carotte pourpre": {"name": "concentr\u00e9 de carotte pourpre", "percent": 0.135416666666667}, "poitrine de porc": {"name": "poitrine de porc", "percent": 1.40625}, "dextrose": {"name": "dextrose", "percent": 0.13671875}, "blette": {"name": "blette", "percent": 0.068359375}, "ar\u00f4mes naturels": {"name": "ar\u00f4mes naturels", "percent": 0.0341796875}, "carotte d\u00e9shydrat\u00e9e": {"name": "carotte d\u00e9shydrat\u00e9e", "percent": 0.01708984375}, "ferment": {"name": "ferment", "percent": 0.01708984375}, "MOUTARDE": {"name": "MOUTARDE", "percent": 0.160369318181818}, "jaune d'CEUF de poule \u00e9lev\u00e9e en plein air": {"name": "jaune d'CEUF de poule \u00e9lev\u00e9e en plein air", "percent": 0.0801846590909091}, "vinaigre d'alcool": {"name": "vinaigre d'alcool", "percent": 0.0200461647727273}, "jaune d'\u0152UF en poudre issu de poule \u00e9lev\u00e9e en plein air": {"name": "jaune d'\u0152UF en poudre issu de poule \u00e9lev\u00e9e en plein air", "percent": 0.0100230823863636}, "jus de citron concentr\u00e9": {"name": "jus de citron concentr\u00e9", "percent": 0.00501154119318192}, "LAIT entier": {"name": "LAIT entier", "percent": 0.525599747474747}, "cr\u00e8me": {"name": "cr\u00e8me", "percent": 0.262799873737374}, "pr\u00e9paration de prot\u00e9ines de LAIT": {"name": "pr\u00e9paration de prot\u00e9ines de LAIT", "percent": 0.131399936868687}, "perm\u00e9at de lactos\u00e9rum": {"name": "perm\u00e9at de lactos\u00e9rum", "percent": 0.0656999684343434}, "stabilisant": {"name": "stabilisant", "percent": 0.0164249921085858}, "acidifiant": {"name": "acidifiant", "percent": 0.0164249921085859}, "GLUTEN de BL\u00c9": {"name": "GLUTEN de BL\u00c9", "percent": 5.401171875}, "malt de BL\u00c9": {"name": "malt de BL\u00c9", "percent": 2.7005859375}, "agent de traitement de la farine": {"name": "agent de traitement de la farine", "percent": 2.7005859375}, "amidon de manioc": {"name": "amidon de manioc", "percent": 0.1534423828125}, "liquide": {"name": "liquide", "percent": 0.0801846590909091}, "Salvia hispanica": {"name": "Salvia hispanica", "percent": 0.00119876861572266}, "norbixine de rocou": {"name": "norbixine de rocou", "percent": 0.699999999999999}, "graine de MOUTARDE": {"name": "graine de MOUTARDE", "percent": 0.0400923295454545}, "farine de graines de caroube": {"name": "farine de graines de caroube", "percent": 0.0164249921085858}, "acide citrique": {"name": "acide citrique", "percent": 0.0164249921085859}, "acide ascorbique": {"name": "acide ascorbique", "percent": 2.7005859375}}, "calories": 242, "protein": 11, "fat": 10, "carb": 25, "total_g": 165}, "supreme pizza": {"location": "pizza", "time": null, "day": "tuesday", "ingredients": {"flour": {"name": "flour", "percent": 51.7241379310345}, "water": {"name": "water", "percent": 0.00589304956896552}, "low moisture part skim mozzarella cheese": {"name": "low moisture part skim mozzarella cheese", "percent": 12.0689655172414}, "cooked pizza topping": {"name": "cooked pizza topping", "percent": 6.03448275862069}, "green and red peppers": {"name": "green and red peppers", "percent": 3.01724137931035}, "tomato paste": {"name": "tomato paste", "percent": 1.50862068965517}, "pepperoni made with pork": {"name": "pepperoni made with pork", "percent": 0.754310344827587}, "chicken": {"name": "chicken", "percent": 0.754310344827586}, "beef": {"name": "beef", "percent": 0.0235721982758621}, "onion": {"name": "onion", "percent": 0.0942887931034448}, "contains 2% and less of": {"name": "contains 2% and less of", "percent": 0.00589304956896552}, "palm oil": {"name": "palm oil", "percent": 0.0235721982758577}, "sugar": {"name": "sugar", "percent": 0.0471443965517242}, "vegetable oil": {"name": "vegetable oil", "percent": 0.00589304956896797}, "salt": {"name": "salt", "percent": 0.754310344827586}, "modified food starch": {"name": "modified food starch", "percent": 0.00147326239223844}, "spice": {"name": "spice", "percent": 0.00073663119611922}, "maltodextrin": {"name": "maltodextrin", "percent": 0.00036831559805961}, "dried garlic": {"name": "dried garlic", "percent": 0.000184157799026252}, "hydrolyzed soy and corn protein": {"name": "hydrolyzed soy and corn protein", "percent": 9.20788995131261e-05}, "paprika": {"name": "paprika", "percent": 1.43873280492035e-06}, "dried onion": {"name": "dried onion", "percent": 2.30197248782815e-05}, "wheat starch": {"name": "wheat starch", "percent": 1.15098624391408e-05}, "l-cysteine hydrochloride": {"name": "l-cysteine hydrochloride", "percent": 5.75493122312309e-06}, "ammonium sulfate": {"name": "ammonium sulfate", "percent": 2.87746561156155e-06}, "soy lecithin": {"name": "soy lecithin", "percent": 1.43873280933349e-06}, "natural flavor": {"name": "natural flavor", "percent": 7.19366404666744e-07}, "enzymes": {"name": "enzymes", "percent": 5.38573275862069}, "ascorbic acid": {"name": "ascorbic acid", "percent": 3.59683198780658e-07}, "wheat flour": {"name": "wheat flour", "percent": 26.1083743842365}, "malted barley flour": {"name": "malted barley flour", "percent": 12.807881773399}, "niacin": {"name": "niacin", "percent": 6.40394088669951}, "reduced iron": {"name": "reduced iron", "percent": 3.20197044334975}, "thiamine mononitrate": {"name": "thiamine mononitrate", "percent": 1.60098522167488}, "riboflavin": {"name": "riboflavin", "percent": 0.800492610837441}, "folic acid": {"name": "folic acid", "percent": 0.800492610837445}, "cultured pasteurized part skim milk": {"name": "cultured pasteurized part skim milk", "percent": 6.03448275862069}, "sausage": {"name": "sausage", "percent": 3.01724137931035}, "textured vegetable protein": {"name": "textured vegetable protein", "percent": 1.50862068965517}, "pork": {"name": "pork", "percent": 1.50862068965517}, "dextrose": {"name": "dextrose", "percent": 0.00294652478448276}, "spices": {"name": "spices", "percent": 0.377155172413793}, "smoke flavoring": {"name": "smoke flavoring", "percent": 0.000736631196120691}, "lactic acid starter culture": {"name": "lactic acid starter culture", "percent": 0.000368315598060345}, "sodium ascorbate": {"name": "sodium ascorbate", "percent": 0.000184157799030166}, "flavoring": {"name": "flavoring", "percent": 9.20788995150829e-05}, "garlic": {"name": "garlic", "percent": 0.0471443965517242}, "sodium nitrite": {"name": "sodium nitrite", "percent": 2.30197248787672e-05}, "bha": {"name": "bha", "percent": 1.15098624393906e-05}, "bht": {"name": "bht", "percent": 5.75493121969528e-06}, "citric acid": {"name": "citric acid", "percent": 2.8774656098407e-06}, "contains one and more of": {"name": "contains one and more of", "percent": 1.43873280492035e-06}, "oleoresin of paprika": {"name": "oleoresin of paprika", "percent": 1.43873280492035e-06}, "yeast": {"name": "yeast", "percent": 0.0471443965517224}, "soybean": {"name": "soybean", "percent": 0.00294652478448398}, "canola oil": {"name": "canola oil", "percent": 0.00294652478448398}, "soy flour": {"name": "soy flour", "percent": 0.754310344827586}}, "calories": 241, "protein": 9.02, "fat": 11.28, "carb": 25.56, "total_g": 664}, "bacon cheeseburger pizza": {"location": "pizza", "time": null, "day": "sunday", "ingredients": {"_VETEMJ\u00d6L_": {"name": "_VETEMJ\u00d6L_", "percent": 38.85}, "_OST_": {"name": "_OST_", "percent": 23}, "n\u00f6tk\u00f6tt": {"name": "n\u00f6tk\u00f6tt", "percent": 7}, "tomatpur\u00e9": {"name": "tomatpur\u00e9", "percent": 4.75}, "_MJ\u00d6LK_": {"name": "_MJ\u00d6LK_", "percent": 0.1}, "rapsolja": {"name": "rapsolja", "percent": 4.75}, "vatten": {"name": "vatten", "percent": 0.535714285714286}, "l\u00f6k": {"name": "l\u00f6k", "percent": 4.75}, "bacon": {"name": "bacon", "percent": 2.5}, "salt": {"name": "salt", "percent": 0.0125}, "modifierad _VETEST\u00c4RKELSE_": {"name": "modifierad _VETEST\u00c4RKELSE_", "percent": 0.7}, "_CR\u00c8ME FRAICHE_": {"name": "_CR\u00c8ME FRAICHE_", "percent": 0.7}, "kryddor": {"name": "kryddor", "percent": 0.7}, "socker": {"name": "socker", "percent": 0.7}, "j\u00e4st": {"name": "j\u00e4st", "percent": 0.7}, "_BL\u00c5M\u00d6GELOST_": {"name": "_BL\u00c5M\u00d6GELOST_", "percent": 0.2}, "vitvinsvin\u00e4ger": {"name": "vitvinsvin\u00e4ger", "percent": 0.1}, "\u00e4rtprotein": {"name": "\u00e4rtprotein", "percent": 0.1}, "vitl\u00f6k": {"name": "vitl\u00f6k", "percent": 0.1}, "f\u00e4rg\u00e4mne": {"name": "f\u00e4rg\u00e4mne", "percent": 0.1}, "kryddextrakt": {"name": "kryddextrakt", "percent": 0.100000000000009}, "grisk\u00f6tt": {"name": "grisk\u00f6tt", "percent": 1.42857142857143}, "r\u00f6karom": {"name": "r\u00f6karom", "percent": 0.133928571428571}, "antioxidationsmedel": {"name": "antioxidationsmedel", "percent": 0.0669642857142856}, "stabiliseringsmedel": {"name": "stabiliseringsmedel", "percent": 0.0334821428571428}, "konserveringsmedel": {"name": "konserveringsmedel", "percent": 0.0334821428571428}, "mj\u00f6lksyra": {"name": "mj\u00f6lksyra", "percent": 0.05}, "m\u00f6gelkultur": {"name": "m\u00f6gelkultur", "percent": 0.025}, "l\u00f6pe": {"name": "l\u00f6pe", "percent": 0.0125}, "betakaroten": {"name": "betakaroten", "percent": 0.1}, "e331": {"name": "e331", "percent": 0.0669642857142856}, "e451": {"name": "e451", "percent": 0.0334821428571428}, "e250": {"name": "e250", "percent": 0.0334821428571428}}, "calories": 254, "protein": 11, "fat": 11, "carb": 27, "total_g": 170}, "pulled pork": {"location": "inspired eats", "time": "dinner", "day": "friday", "ingredients": {"Schweinefleisch fl\u00fcssig gew\u00fcrzt": {"name": "Schweinefleisch fl\u00fcssig gew\u00fcrzt", "percent": 98}, "W\u00fcrzung": {"name": "W\u00fcrzung", "percent": 2}, "QS-Ware": {"name": "QS-Ware", "percent": 0}, "Schweinefleisch": {"name": "Schweinefleisch", "percent": 85}, "Fl\u00fcssigw\u00fcrzung": {"name": "Fl\u00fcssigw\u00fcrzung", "percent": 13}, "Tomaten": {"name": "Tomaten", "percent": 1.16666666666667}, "Speisesalz": {"name": "Speisesalz", "percent": 0.3}, "Gew\u00fcrze": {"name": "Gew\u00fcrze", "percent": 0.208333333333333}, "Zucker": {"name": "Zucker", "percent": 0.104166666666667}, "Gew\u00fcrzextrakte": {"name": "Gew\u00fcrzextrakte", "percent": 0.260937500000001}, "Buchenholzrauch": {"name": "Buchenholzrauch", "percent": 0.3}, "Trinkwasser": {"name": "Trinkwasser", "percent": 7.3125}, "Reisst\u00e4rke": {"name": "Reisst\u00e4rke", "percent": 2.84375}, "Rauchsalz": {"name": "Rauchsalz", "percent": 0.6}, "Maltodextrin": {"name": "Maltodextrin", "percent": 0.6}, "S\u00e4ureregulator": {"name": "S\u00e4ureregulator", "percent": 0.521875000000001}, "Stabilisator": {"name": "Stabilisator", "percent": 0.260937500000001}, "Natriumcarbonate": {"name": "Natriumcarbonate", "percent": 0.521875000000001}, "Diphosphate": {"name": "Diphosphate", "percent": 0.260937500000001}}, "calories": 144, "protein": 18, "fat": 7, "carb": 2, "total_g": 550}, "general tso's tofu": {"location": "loyola diner", "time": "lunch", "day": "friday", "ingredients": {"tofu": {"name": "tofu", "percent": "53.125"}, "brown rice": {"name": "brown rice", "percent": "23.4375"}, "broccoli": {"name": "broccoli", "percent": "11.71875"}, "non-gmo soy sauce": {"name": "non-gmo soy sauce", "percent": "5.859375"}, "vegetable broth": {"name": "vegetable broth", "percent": "2.9296875"}, "cane sugar": {"name": "cane sugar", "percent": "0.0212665632659312"}, "red bell peppers": {"name": "red bell peppers", "percent": "0.732421875"}, "rice vinegar": {"name": "rice vinegar", "percent": "0.3662109375"}, "sake mirin": {"name": "sake mirin", "percent": "0.18310546875"}, "ginger": {"name": "ginger", "percent": "0.091552734375"}, "green onions": {"name": "green onions", "percent": "0.0457763671875"}, "non-gmo cornstarch": {"name": "non-gmo cornstarch", "percent": "0.02288818359375"}, "non-gmo expeller pressed canola oil": {"name": "non-gmo expeller pressed canola oil", "percent": "0.011444091796875"}, "sesame oil": {"name": "sesame oil", "percent": "0.0057220458984375"}, "garlic": {"name": "garlic", "percent": "0.000166145025515041"}, "red chile peppers": {"name": "red chile peppers", "percent": "0.00286102294921875"}, "water": {"name": "water", "percent": "0.091552734375"}, "soybeans": {"name": "soybeans", "percent": "0.000664580102060386"}, "calcium sulfate": {"name": "calcium sulfate", "percent": "6.4453125"}, "calcium chloride": {"name": "calcium chloride", "percent": "6.4453125"}, "wheat": {"name": "wheat", "percent": "0.732421875"}, "salt": {"name": "salt", "percent": "0.3921568627451"}, "alcohol": {"name": "alcohol", "percent": "4.15362563788158e-05"}, "carrots": {"name": "carrots", "percent": "0.3921568627451"}, "celery": {"name": "celery", "percent": "0.3402650122549"}, "onion": {"name": "onion", "percent": "0.000332290051030082"}, "tomato": {"name": "tomato", "percent": "0.085066253063725"}, "yeast extract": {"name": "yeast extract", "percent": "0.0425331265318625"}, "canola oil": {"name": "canola oil", "percent": "0.0106332816329657"}, "tapioca maltodextrin": {"name": "tapioca maltodextrin", "percent": "0.00531664081648286"}, "tomato paste": {"name": "tomato paste", "percent": "0.00265832040824154"}, "potato starch": {"name": "potato starch", "percent": "0.00132916020412077"}, "spices": {"name": "spices", "percent": "8.30725127576315e-05"}, "rice": {"name": "rice", "percent": "0.0457763671875"}, "spice extracts": {"name": "spice extracts", "percent": "2.07681281896299e-05"}, "sea salt": {"name": "sea salt", "percent": "0.02288818359375"}, "koji aspergillus oryzae": {"name": "koji aspergillus oryzae", "percent": "0.02288818359375"}}, "calories": "145.09803921569", "protein": "4.3137254901961", "fat": "5.0980392156863", "carb": "20.78431372549", "total_g": "255.145708125"}, "basmati rice": {"location": "inspired eats", "time": "dinner", "day": "sunday", "ingredients": {"long grain basmati rice": {"name": "long grain basmati rice", "percent": 100}}, "calories": 351, "protein": 8.7, "fat": 0.8, "carb": 77, "total_g": 500}, "dinner roll": {"location": "loyola diner", "time": "lunch", "day": "wednesday", "ingredients": {"wheat flour": {"name": "wheat flour", "percent": 0.74}, "water": {"name": "water", "percent": 21.875}, "yeast": {"name": "yeast", "percent": 10.9375}, "salt": {"name": "salt", "percent": 0.74}, "malted wheat flour": {"name": "malted wheat flour", "percent": 0.74}, "antioxidant": {"name": "antioxidant", "percent": 0.74}, "deactivated yeast": {"name": "deactivated yeast", "percent": 7.97750000000002}, "ascorbic acid": {"name": "ascorbic acid", "percent": 0.74}}, "calories": 239, "protein": 7.8, "fat": 0.8, "carb": 49, "total_g": 300}, "garlic mashed potatoes": {"location": "loyola diner", "time": "lunch", "day": "thursday", "ingredients": {"idaho potatoes": {"name": "idaho potatoes", "percent": 52}, "vegetable oil": {"name": "vegetable oil", "percent": 24}, "corn syrup solids": {"name": "corn syrup solids", "percent": 12}, "salt": {"name": "salt", "percent": 2.63392857142865}, "whey powder": {"name": "whey powder", "percent": 2.63392857142865}, "sugar": {"name": "sugar", "percent": 2.63392857142865}, "maltodextrin": {"name": "maltodextrin", "percent": 2.04910714285702}, "nonfat dry milk": {"name": "nonfat dry milk", "percent": 1.02455357142851}, "sodium caseinate": {"name": "sodium caseinate", "percent": 0.512276785714256}, "natural and artificial flavor": {"name": "natural and artificial flavor", "percent": 0.256138392857125}, "mono- and diglycerides": {"name": "mono- and diglycerides", "percent": 0.128069196428562}, "garlic": {"name": "garlic", "percent": 0.0640345982142776}, "calcium stearoyl lactylate": {"name": "calcium stearoyl lactylate", "percent": 0.0320172991071388}, "hydrolyzed soy protein": {"name": "hydrolyzed soy protein", "percent": 0.0160086495535694}, "parsley": {"name": "parsley", "percent": 0.0080043247767847}, "dipotassium phosphate": {"name": "dipotassium phosphate", "percent": 0.0040021623883888}, "spice": {"name": "spice", "percent": 0.0020010811941944}, "sodium acid pyrophosphate": {"name": "sodium acid pyrophosphate", "percent": 0.0010005405970972}, "artificial color": {"name": "artificial color", "percent": 0.000500270298545047}, "sodium bisulfite": {"name": "sodium bisulfite", "percent": 0.000250135149272523}, "disodium inosinate": {"name": "disodium inosinate", "percent": 0.000125067574636262}, "disodium guanylate": {"name": "disodium guanylate", "percent": 6.25337873145781e-05}, "citric acid": {"name": "citric acid", "percent": 3.12668936572891e-05}, "mixed tocopherols": {"name": "mixed tocopherols", "percent": 1.56334468286445e-05}, "less than 2.0% silicon dioxide added as an anti-caking agent": {"name": "less than 2.0% silicon dioxide added as an anti-caking agent", "percent": 1.56334468215391e-05}, "contains one and more of the following": {"name": "contains one and more of the following", "percent": 12}, "palm": {"name": "palm", "percent": 6}, "soybean": {"name": "soybean", "percent": 3}, "cottonseed": {"name": "cottonseed", "percent": 1.5}, "sunflower": {"name": "sunflower", "percent": 0.75}, "canola": {"name": "canola", "percent": 0.75}, "preserve freshness": {"name": "preserve freshness", "percent": 1.56334468286445e-05}, "coconut": {"name": "coconut", "percent": 12}}, "calories": 392.85714285714, "protein": 7.1428571428571, "fat": 8.9285714285714, "carb": 67.857142857143, "total_g": 113.4}, "home fried potatoes": {"location": "loyola diner", "time": "lunch", "day": "sunday", "ingredients": {"Potato": {"name": "Potato", "percent": 91}, "Batter": {"name": "Batter", "percent": "4.5"}, "Flour": {"name": "Flour", "percent": "2.25"}, "Dextrin": {"name": "Dextrin", "percent": "1.125"}, "Starch": {"name": "Starch", "percent": "0.5625"}, "Vegetable Oil": {"name": "Vegetable Oil", "percent": "0.28125"}, "Vegetable Fibre": {"name": "Vegetable Fibre", "percent": "0.140625"}, "Turmeric Extract": {"name": "Turmeric Extract", "percent": "0.0703125"}, "Colour": {"name": "Colour", "percent": "0.03515625"}, "Sunflower Oil": {"name": "Sunflower Oil", "percent": "0.03515625"}, "Salt": {"name": "Salt", "percent": 0}, "_Wheat_": {"name": "_Wheat_", "percent": "0.28125"}, "Rice": {"name": "Rice", "percent": "0.5625"}, "Broad Bean": {"name": "Broad Bean", "percent": "0.5625"}, "Potato Maize": {"name": "Potato Maize", "percent": "0.28125"}, "Shea": {"name": "Shea", "percent": "0.140625"}, "Coconut": {"name": "Coconut", "percent": "0.140625"}, "Paprika Extract": {"name": "Paprika Extract", "percent": "0.03515625"}, "with Calcium": {"name": "with Calcium", "percent": "0.5625"}, "Iron": {"name": "Iron", "percent": "0.28125"}, "Niacin": {"name": "Niacin", "percent": "0.140625"}, "Thiamin": {"name": "Thiamin", "percent": "0.140625"}}, "calories": 208, "protein": "3.3", "fat": "7.2", "carb": 31, "total_g": 1000}, "corn": {"location": "loyola diner", "time": "lunch", "day": "wednesday", "ingredients": {"corn starch": {"name": "corn starch", "percent": 100}}, "calories": 355, "protein": 0.5, "fat": 0.5, "carb": 86, "total_g": 400}, "macaroni and cheese": {"location": "loyola diner", "time": "lunch", "day": "friday", "ingredients": {"macaroni": {"name": "macaroni", "percent": 75}, "cheese sauce mix": {"name": "cheese sauce mix", "percent": 25}, "wheat flour": {"name": "wheat flour", "percent": 41.6666666666667}, "durum flour": {"name": "durum flour", "percent": 16.6666666666667}, "niacin": {"name": "niacin", "percent": 8.33333333333334}, "ferrous sulfate": {"name": "ferrous sulfate", "percent": 4.16666666666667}, "thiamin mononitrate": {"name": "thiamin mononitrate", "percent": 2.08333333333334}, "folic acid": {"name": "folic acid", "percent": 2.08333333333334}, "whey": {"name": "whey", "percent": 12.5}, "milkfat": {"name": "milkfat", "percent": 6.25}, "milk protein concentrate": {"name": "milk protein concentrate", "percent": 3.125}, "salt": {"name": "salt", "percent": 0.99}, "sodium triphosphate": {"name": "sodium triphosphate", "percent": 0.99}, "contains less than 2% of citric acid": {"name": "contains less than 2% of citric acid", "percent": 0.572500000000002}, "lactic acid": {"name": "lactic acid", "percent": 0.286250000000001}, "sodium phosphate": {"name": "sodium phosphate", "percent": 0.143125000000001}, "calcium phosphate": {"name": "calcium phosphate", "percent": 0.0715625000000006}, "with paprika": {"name": "with paprika", "percent": 0.0357812499999994}, "turmeric": {"name": "turmeric", "percent": 0.0178906249999997}, "and annatto added for color": {"name": "and annatto added for color", "percent": 0.00894531249999986}, "enzymes": {"name": "enzymes", "percent": 0.00447265624999993}, "cheese culture": {"name": "cheese culture", "percent": 0.00447265625000171}, "iron": {"name": "iron", "percent": 4.16666666666667}, "vitamins": {"name": "vitamins", "percent": 1.04166666666667}, "vitamin b11": {"name": "vitamin b11", "percent": 0.520833333333334}, "riboflavin": {"name": "riboflavin", "percent": 0.260416666666667}, "vitamin b2": {"name": "vitamin b2", "percent": 0.260416666666667}}, "calories": 250, "protein": 9, "fat": 2, "carb": 49, "total_g": 205.53404265625}, "macaroni and  cheese": {"location": "loyola diner", "time": "lunch", "day": "wednesday", "ingredients": {"macaroni": {"name": "macaroni", "percent": 75}, "cheese sauce mix": {"name": "cheese sauce mix", "percent": 25}, "wheat flour": {"name": "wheat flour", "percent": 41.6666666666667}, "durum flour": {"name": "durum flour", "percent": 16.6666666666667}, "niacin": {"name": "niacin", "percent": 8.33333333333334}, "ferrous sulfate": {"name": "ferrous sulfate", "percent": 4.16666666666667}, "thiamin mononitrate": {"name": "thiamin mononitrate", "percent": 2.08333333333334}, "folic acid": {"name": "folic acid", "percent": 2.08333333333334}, "whey": {"name": "whey", "percent": 12.5}, "milkfat": {"name": "milkfat", "percent": 6.25}, "milk protein concentrate": {"name": "milk protein concentrate", "percent": 3.125}, "salt": {"name": "salt", "percent": 0.99}, "sodium triphosphate": {"name": "sodium triphosphate", "percent": 0.99}, "contains less than 2% of citric acid": {"name": "contains less than 2% of citric acid", "percent": 0.572500000000002}, "lactic acid": {"name": "lactic acid", "percent": 0.286250000000001}, "sodium phosphate": {"name": "sodium phosphate", "percent": 0.143125000000001}, "calcium phosphate": {"name": "calcium phosphate", "percent": 0.0715625000000006}, "with paprika": {"name": "with paprika", "percent": 0.0357812499999994}, "turmeric": {"name": "turmeric", "percent": 0.0178906249999997}, "and annatto added for color": {"name": "and annatto added for color", "percent": 0.00894531249999986}, "enzymes": {"name": "enzymes", "percent": 0.00447265624999993}, "cheese culture": {"name": "cheese culture", "percent": 0.00447265625000171}, "iron": {"name": "iron", "percent": 4.16666666666667}, "vitamins": {"name": "vitamins", "percent": 1.04166666666667}, "vitamin b11": {"name": "vitamin b11", "percent": 0.520833333333334}, "riboflavin": {"name": "riboflavin", "percent": 0.260416666666667}, "vitamin b2": {"name": "vitamin b2", "percent": 0.260416666666667}}, "calories": 250, "protein": 9, "fat": 2, "carb": 49, "total_g": 205.53404265625}, "roasted potatoes": {"location": "inspired eats", "time": "lunch", "day": "tuesday", "ingredients": {"wholegrain wheat": {"name": "wholegrain wheat", "percent": 42}, "wholegrain rolled oats": {"name": "wholegrain rolled oats", "percent": 36}, "raisins": {"name": "raisins", "percent": 15}, "skimmed milk powder": {"name": "skimmed milk powder", "percent": 3.5}, "milk whey powder": {"name": "milk whey powder", "percent": 1.75}, "nuts": {"name": "nuts", "percent": 1.75}, "malted barley extract": {"name": "malted barley extract", "percent": 0}, "salt": {"name": "salt", "percent": 0}, "hazelnuts": {"name": "hazelnuts", "percent": 0.875}, "almonds": {"name": "almonds", "percent": 0.875}}, "calories": 375, "protein": 11, "fat": 6.2, "carb": 65, "total_g": 560}, "gluten free penne": {"location": "inspired eats", "time": "lunch", "day": "wednesday", "ingredients": {"white corn flour": {"name": "white corn flour", "percent": 60}, "of corn": {"name": "of corn", "percent": 20}, "yellow": {"name": "yellow", "percent": 20}, "brown rice flour": {"name": "brown rice flour", "percent": 0}, "water": {"name": "water", "percent": 0}, "emulsifier": {"name": "emulsifier", "percent": 0}, "mono- and diglycerides of fatty acids": {"name": "mono- and diglycerides of fatty acids", "percent": 0}}, "calories": 363, "protein": 6.9, "fat": 1.5, "carb": 79.6, "total_g": "400"}, "white rice": {"location": "inspired eats", "time": "dinner", "day": "monday", "ingredients": {"riz long grain": {"name": "riz long grain", "percent": 100}}, "calories": 359, "protein": 7.4, "fat": 0.3, "carb": 81.3, "total_g": 1000}, "gluten free pasta": {"location": "inspired eats", "time": "lunch", "day": "saturday", "ingredients": {"white corn flour": {"name": "white corn flour", "percent": 60}, "of corn": {"name": "of corn", "percent": 20}, "yellow": {"name": "yellow", "percent": 20}, "brown rice flour": {"name": "brown rice flour", "percent": 0}, "water": {"name": "water", "percent": 0}, "emulsifier": {"name": "emulsifier", "percent": 0}, "mono- and diglycerides of fatty acids": {"name": "mono- and diglycerides of fatty acids", "percent": 0}}, "calories": 363, "protein": 6.9, "fat": 1.5, "carb": 79.6, "total_g": "400"}, "peas and mushrooms": {"location": "inspired eats", "time": "lunch", "day": "saturday", "ingredients": {"noodles": {"name": "noodles", "percent": 18}, "cooked beef strips": {"name": "cooked beef strips", "percent": 18}, "water": {"name": "water", "percent": "2.5375"}, "dark soy sauce": {"name": "dark soy sauce", "percent": 7}, "spring onion": {"name": "spring onion", "percent": 7}, "carrot batons": {"name": "carrot batons", "percent": 7}, "mushrooms": {"name": "mushrooms", "percent": 7}, "sugar snap peas": {"name": "sugar snap peas", "percent": "4.5"}, "water chestnuts": {"name": "water chestnuts", "percent": "4.5"}, "garlic pur\u00e9e": {"name": "garlic pur\u00e9e", "percent": "1.96875"}, "red pepper": {"name": "red pepper", "percent": "1.65625"}, "yellow pepper": {"name": "yellow pepper", "percent": "1.39910714285714"}, "ginger": {"name": "ginger", "percent": "1.17593344155844"}, "tomato paste": {"name": "tomato paste", "percent": "1.07793898809524"}, "red chillies": {"name": "red chillies", "percent": "0.995020604395604"}, "maize starch": {"name": "maize starch", "percent": "0.923947704081632"}, "vegetable bouillon": {"name": "vegetable bouillon", "percent": "0.86235119047619"}, "rice vinegar": {"name": "rice vinegar", "percent": "0.808454241071428"}, "yeast extract": {"name": "yeast extract", "percent": "0.431175595238095"}, "_barley_ malt extract": {"name": "_barley_ malt extract", "percent": "0.718625992063492"}, "tomato": {"name": "tomato", "percent": "0.0134742373511905"}, "flavouring": {"name": "flavouring", "percent": "0.107793898809524"}, "spices": {"name": "spices", "percent": "0.412577810935709"}, "garlic": {"name": "garlic", "percent": "0.206288905467858"}, "sweetener": {"name": "sweetener", "percent": "0.206288905467858"}, "_wheat_ flour": {"name": "_wheat_ flour", "percent": "3.375"}, "durum _wheat_ flour": {"name": "durum _wheat_ flour", "percent": "1.6875"}, "salt": {"name": "salt", "percent": "0.503125"}, "beef": {"name": "beef", "percent": "17.82"}, "soy sauce": {"name": "soy sauce", "percent": "4.55"}, "sugar": {"name": "sugar", "percent": 1}, "vegetable stock": {"name": "vegetable stock", "percent": "0.107793898809524"}, "sucralose": {"name": "sucralose", "percent": "0.206288905467858"}, "_soya_ beans": {"name": "_soya_ beans", "percent": "1.00625"}, "_wheat_": {"name": "_wheat_", "percent": "0.503125"}, "onion": {"name": "onion", "percent": "0.0538969494047619"}, "carrot extract": {"name": "carrot extract", "percent": "0.0269484747023809"}, "dried lovage": {"name": "dried lovage", "percent": "0.00673711867559523"}, "thyme": {"name": "thyme", "percent": "0.00336855933779762"}, "bay leaf": {"name": "bay leaf", "percent": "0.00336855933779762"}}, "calories": 87, "protein": "9.4", "fat": "0.5", "carb": "10.1", "total_g": 550}, "bbq beef brisket": {"location": "loyola diner", "time": "dinner", "day": "thursday", "ingredients": {"beef brisket": {"name": "beef brisket", "percent": 61}, "barbecue sauce": {"name": "barbecue sauce", "percent": 25}, "water": {"name": "water", "percent": 13.125}, "sugar": {"name": "sugar", "percent": 1.484375}, "cornflour": {"name": "cornflour", "percent": 0.37109375}, "garlic": {"name": "garlic", "percent": 0.023193359375}, "smoked paprika": {"name": "smoked paprika", "percent": 0.403846153846153}, "salt": {"name": "salt", "percent": 0.00579833984375}, "black pepper": {"name": "black pepper", "percent": 0.002899169921875}, "onion": {"name": "onion", "percent": 0.04638671875}, "cayenne pepper": {"name": "cayenne pepper", "percent": 0.000362396240234375}, "ginger": {"name": "ginger", "percent": 9.05990600585938e-05}, "caramelised sugar": {"name": "caramelised sugar", "percent": 0.000181198120117188}, "rapeseed oil": {"name": "rapeseed oil", "percent": 0.0031550480769198}, "paprika extract": {"name": "paprika extract", "percent": 0.0031550480769198}, "brown sugar": {"name": "brown sugar", "percent": 5.9375}, "spirit vinegar": {"name": "spirit vinegar", "percent": 2.96875}, "tomato pur\u00e9e": {"name": "tomato pur\u00e9e", "percent": 0.7421875}, "whiskey": {"name": "whiskey", "percent": 0.185546875}, "molasses": {"name": "molasses", "percent": 0.0927734375}, "paprika": {"name": "paprika", "percent": 0.0115966796875}, "allspice": {"name": "allspice", "percent": 0.0014495849609375}, "tamarind": {"name": "tamarind", "percent": 0.00072479248046875}, "concentrated lemon juice": {"name": "concentrated lemon juice", "percent": 4.52995300292969e-05}, "clove": {"name": "clove", "percent": 4.52995300292969e-05}}, "calories": 175, "protein": 27.6, "fat": 1.5, "carb": 12.2, "total_g": 400}, "honey baked ham": {"location": "loyola diner", "time": "dinner", "day": "tuesday", "ingredients": {}, "calories": 413, "protein": 6, "fat": "5.7", "carb": "83.8", "total_g": 100}, "eggplant parmesan": {"location": "loyola diner", "time": "dinner", "day": "monday", "ingredients": {}, "calories": 176.13636363636, "protein": 6.8181818181818, "fat": 3.9772727272727, "carb": 26.704545454545, "total_g": 1927.7675725}, "jasmine rice": {"location": "loyola diner", "time": "dinner", "day": "thursday", "ingredients": {"natural jasmine rice": {"name": "natural jasmine rice", "percent": 75}, "rice bran oil": {"name": "rice bran oil", "percent": 25}}, "calories": 175, "protein": 3.2, "fat": 2.3, "carb": 35.3, "total_g": 250}, "mashed sweet potatoes": {"location": "loyola diner", "time": "dinner", "day": "saturday", "ingredients": {"patate douce": {"name": "patate douce", "percent": 43}, "pommes de terre": {"name": "pommes de terre", "percent": 31}, "courge butternut": {"name": "courge butternut", "percent": 15}, "cr\u00e8me": {"name": "cr\u00e8me", "percent": 5}, "beurre": {"name": "beurre", "percent": 5}, "sel": {"name": "sel", "percent": 0.75}, "poivre": {"name": "poivre", "percent": 0.25}}, "calories": 120, "protein": 1.6, "fat": 6, "carb": 14, "total_g": 400}, "roasted cauliflower": {"location": "loyola diner", "time": "dinner", "day": "wednesday", "ingredients": {"Fibre Enriched White Bread with Black Onion Seeds": {"name": "Fibre Enriched White Bread with Black Onion Seeds", "percent": 45}, "Onion Bhaji": {"name": "Onion Bhaji", "percent": 20}, "Carrot": {"name": "Carrot", "percent": 8}, "Spiced Cauliflower and Sweet Potato Pur\u00e9e": {"name": "Spiced Cauliflower and Sweet Potato Pur\u00e9e", "percent": 8}, "Mango and Apricot Chutney": {"name": "Mango and Apricot Chutney", "percent": 8}, "Sugar": {"name": "Sugar", "percent": 0}, "Mango Pur\u00e9e": {"name": "Mango Pur\u00e9e", "percent": 2.75}, "Apricot": {"name": "Apricot", "percent": 0.0859375}, "Malt Vinegar": {"name": "Malt Vinegar", "percent": 0.6875}, "Apple": {"name": "Apple", "percent": 0.34375}, "Dried Apricot": {"name": "Dried Apricot", "percent": 0.171875}, "Dried Onion": {"name": "Dried Onion", "percent": 0.0859375}, "Mango": {"name": "Mango", "percent": 0.04296875}, "Coriander Leaf": {"name": "Coriander Leaf", "percent": 0.625}, "Salt": {"name": "Salt", "percent": 0}, "Ginger": {"name": "Ginger", "percent": 0.0048828125}, "Ground Ginger": {"name": "Ground Ginger", "percent": 0.002685546875}, "Coriander": {"name": "Coriander", "percent": 0.01953125}, "Garlic": {"name": "Garlic", "percent": 0.00067138671875}, "Apollo Lettuce": {"name": "Apollo Lettuce", "percent": 0.00067138671875}, "Steam Roasted Pickled Beetroot": {"name": "Steam Roasted Pickled Beetroot", "percent": 0}, "Fried Onions": {"name": "Fried Onions", "percent": 0}, "Fortified Wheat Flour": {"name": "Fortified Wheat Flour", "percent": 1.25}, "Water": {"name": "Water", "percent": 11.25}, "_Wheat_ Fibre": {"name": "_Wheat_ Fibre", "percent": 5.625}, "Black Onion Seeds": {"name": "Black Onion Seeds", "percent": 2.8125}, "Yeast": {"name": "Yeast", "percent": 1.40625}, "Emulsifiers": {"name": "Emulsifiers", "percent": 0.3515625}, "_Wheat_ Protein": {"name": "_Wheat_ Protein", "percent": 0.17578125}, "Rapeseed Oil": {"name": "Rapeseed Oil", "percent": 5}, "Flour Treatment Agent": {"name": "Flour Treatment Agent", "percent": 0.0439453125}, "_Wheat_ Flour": {"name": "_Wheat_ Flour", "percent": 0.625}, "_Wheat_ Starch": {"name": "_Wheat_ Starch", "percent": 0.02197265625}, "Onion": {"name": "Onion", "percent": 0}, "Gram Flour": {"name": "Gram Flour", "percent": 2.5}, "Fenugreek": {"name": "Fenugreek", "percent": 0.078125}, "Garam Masala": {"name": "Garam Masala", "percent": 0.0390625}, "Cumin": {"name": "Cumin", "percent": 0.009765625}, "Cumin Seeds": {"name": "Cumin Seeds", "percent": 0.009765625}, "Chilli": {"name": "Chilli", "percent": 0.0048828125}, "Raising Agent": {"name": "Raising Agent", "percent": 0.00244140625}, "Turmeric": {"name": "Turmeric", "percent": 0.5}, "Cauliflower": {"name": "Cauliflower", "percent": 4}, "Sweet Potato": {"name": "Sweet Potato", "percent": 2}, "Coriander Seeds": {"name": "Coriander Seeds", "percent": 0.5}, "_Barley_": {"name": "_Barley_", "percent": 0.6875}, "Rice Flour": {"name": "Rice Flour", "percent": 0.04296875}, "Preservative": {"name": "Preservative", "percent": 0.04296875}, "Beetroot": {"name": "Beetroot", "percent": 0}, "White Wine Vinegar": {"name": "White Wine Vinegar", "percent": 0}, "Palm Oil": {"name": "Palm Oil", "percent": 0}, "Calcium carbonate": {"name": "Calcium carbonate", "percent": 0.3125}, "Iron": {"name": "Iron", "percent": 0.15625}, "Niacin": {"name": "Niacin", "percent": 0.078125}, "Thiamin": {"name": "Thiamin", "percent": 0.078125}, "mono- and diglycerides of fatty acids": {"name": "mono- and diglycerides of fatty acids", "percent": 0.17578125}, "mono- and diacetyl tartaric acid esters of mono- and diglycerides of fatty acids": {"name": "mono- and diacetyl tartaric acid esters of mono- and diglycerides of fatty acids", "percent": 0.17578125}, "Ascorbic acid": {"name": "Ascorbic acid", "percent": 0.0439453125}, "Maize Flour": {"name": "Maize Flour", "percent": 1.25}, "Tyson Peas": {"name": "Tyson Peas", "percent": 0.625}, "Yellow Split Peas": {"name": "Yellow Split Peas", "percent": 0.625}, "Black Pepper": {"name": "Black Pepper", "percent": 0.00244140625}, "Cloves": {"name": "Cloves", "percent": 0.001220703125}, "Cardamom": {"name": "Cardamom", "percent": 0.0006103515625}, "Nutmeg": {"name": "Nutmeg", "percent": 0.00030517578125}, "Star Anise": {"name": "Star Anise", "percent": 0.00030517578125}, "Sodium hydrogen carbonate": {"name": "Sodium hydrogen carbonate", "percent": 0.00244140625}}, "calories": 185, "protein": 5.7, "fat": 3.3, "carb": 31, "total_g": 200}, "mexican corn": {"location": "loyola diner", "time": "dinner", "day": "friday", "ingredients": {"Yellow corn masa flour": {"name": "Yellow corn masa flour", "percent": 56.25}, "water": {"name": "water", "percent": 21.875}, "contains 2% and less of": {"name": "contains 2% and less of", "percent": 10.9375}, "guar gum": {"name": "guar gum", "percent": 5.46875}, "amylase": {"name": "amylase", "percent": 2.734375}, "and propionic acid": {"name": "and propionic acid", "percent": 1.3671875}, "benzoic acid": {"name": "benzoic acid", "percent": 0.68359375}, "phosphoric acid": {"name": "phosphoric acid", "percent": 0.68359375}, "cellulose gum": {"name": "cellulose gum", "percent": 10.9375}, "to maintain freshness": {"name": "to maintain freshness", "percent": 0.68359375}}, "calories": 214, "protein": 5.36, "fat": 2.68, "carb": 42.86, "total_g": 453.59237}, "green beans": {"location": "loyola diner", "time": "dinner", "day": "sunday", "ingredients": {"Haricots verts extra-fins": {"name": "Haricots verts extra-fins", "percent": 54}, "eau": {"name": "eau", "percent": 45.21}, "sel": {"name": "sel", "percent": 0.394999999999996}, "oignon grelot": {"name": "oignon grelot", "percent": 0.394999999999996}}, "calories": 20, "protein": 1.4, "fat": 0.1, "carb": 2.3, "total_g": 200}, "peas": {"location": "loyola diner", "time": "dinner", "day": "wednesday", "ingredients": {"Lentil Flour": {"name": "Lentil Flour", "percent": 76}, "Rapeseed Oil": {"name": "Rapeseed Oil", "percent": 11.1}, "Beetroot Balsamic Seasoning": {"name": "Beetroot Balsamic Seasoning", "percent": 7.2}, "Green Peas": {"name": "Green Peas", "percent": 5.7}, "Sugar": {"name": "Sugar", "percent": 2.86079991655345}, "Salt": {"name": "Salt", "percent": 0.83800001192095}, "Onion": {"name": "Onion", "percent": 0.83800001192095}, "Natural Flavour": {"name": "Natural Flavour", "percent": 0.83800001192095}, "Beetroot Red": {"name": "Beetroot Red", "percent": 0.576}, "Garlic": {"name": "Garlic", "percent": 0.3132}, "Black Pepper": {"name": "Black Pepper", "percent": 0.3132}, "Balsamic Vinegar": {"name": "Balsamic Vinegar", "percent": 0.622800047683699}}, "calories": 424, "protein": 25, "fat": 12, "carb": 51, "total_g": 122}, "kale": {"location": "loyola diner", "time": "dinner", "day": "friday", "ingredients": {"Potato Starch": {"name": "Potato Starch", "percent": 53.1454545454545}, "Rapeseed Vegetable Oil": {"name": "Rapeseed Vegetable Oil", "percent": 23.6272727272727}, "Sunflower Vegetable Oil": {"name": "Sunflower Vegetable Oil", "percent": 11.8136363636364}, "Potato": {"name": "Potato", "percent": 5.90681818181818}, "Salt": {"name": "Salt", "percent": 0.9}, "Tomato": {"name": "Tomato", "percent": 0.4}, "Kale": {"name": "Kale", "percent": 0.4}, "Stabiliser": {"name": "Stabiliser", "percent": 0.3}, "Spinach Powder": {"name": "Spinach Powder", "percent": 0.2}, "Beetroot": {"name": "Beetroot", "percent": 0.1}, "Turmeric": {"name": "Turmeric", "percent": 3.20681818181816}, "Calcium Chloride": {"name": "Calcium Chloride", "percent": 0.3}}, "calories": 540, "protein": 2.9, "fat": 31.3, "carb": 60.5, "total_g": 113}, "beef stew": {"location": "inspired eats", "time": "dinner", "day": "saturday", "ingredients": {"precooked potatoes": {"name": "precooked potatoes", "percent": 28}, "beef prepared in pre-cooked cured meat": {"name": "beef prepared in pre-cooked cured meat", "percent": 25}, "carrots": {"name": "carrots", "percent": 16}, "water": {"name": "water", "percent": 11.12}, "red wine": {"name": "red wine", "percent": 5}, "double tomato concentrate": {"name": "double tomato concentrate", "percent": 3.25}, "onions": {"name": "onions", "percent": 1.5}, "modified corn starch": {"name": "modified corn starch", "percent": 0.884615384615385}, "pig blood": {"name": "pig blood", "percent": 0.833333333333333}, "flavors": {"name": "flavors", "percent": 0.75}, "smoke aroma": {"name": "smoke aroma", "percent": 0.75}, "sugar": {"name": "sugar", "percent": 0.45}, "shallots": {"name": "shallots", "percent": 0.45}, "salt": {"name": "salt", "percent": 0.39}, "rapeseed oil": {"name": "rapeseed oil", "percent": 0.39}, "thyme": {"name": "thyme", "percent": 0.39}, "garlic": {"name": "garlic", "percent": 0.39}, "pepper": {"name": "pepper", "percent": 0.39}, "beef of european union": {"name": "beef of european union", "percent": 0.39}, "packaged under a protective atmosphere": {"name": "packaged under a protective atmosphere", "percent": 3.67205128205127}, "beef": {"name": "beef", "percent": 23.83}, "stabilizers": {"name": "stabilizers", "percent": 0.39}, "polyphosphates": {"name": "polyphosphates", "percent": 0.390000000000001}, "including milk": {"name": "including milk", "percent": 0.75}, "triphosphates": {"name": "triphosphates", "percent": 0.39}}, "calories": 72, "protein": 6.7, "fat": 1.2, "carb": 7.9, "total_g": 300}, "carved turkey breast": {"location": "inspired eats", "time": "dinner", "day": "sunday", "ingredients": {"Turkey Breast": {"name": "Turkey Breast", "percent": "72.81"}, "Maize Starch": {"name": "Maize Starch", "percent": "13.595"}, "Salt": {"name": "Salt", "percent": "0.365"}, "Pea Protein": {"name": "Pea Protein", "percent": "0.365"}, "Spirit Vinegar": {"name": "Spirit Vinegar", "percent": "0.365"}, "Rice Starch": {"name": "Rice Starch", "percent": "0.365"}, "Yeast Extract": {"name": "Yeast Extract", "percent": "0.365"}, "Dextrose": {"name": "Dextrose", "percent": "11.77"}}, "calories": 125, "protein": 28, "fat": "1.4", "carb": "0.5", "total_g": 100}, "sweet potatoe": {"location": "inspired eats", "time": "dinner", "day": "tuesday", "ingredients": {"wholegrain wheat": {"name": "wholegrain wheat", "percent": 94}, "barley malt extract": {"name": "barley malt extract", "percent": 3.81}, "sugar": {"name": "sugar", "percent": 1.095}, "salt": {"name": "salt", "percent": 0.115}, "niacin": {"name": "niacin", "percent": 0.115}, "iron": {"name": "iron", "percent": 0.115}, "riboflavin": {"name": "riboflavin", "percent": 0.115}, "thiamin": {"name": "thiamin", "percent": 0.115}, "folic acid": {"name": "folic acid", "percent": 0.520000000000024}}, "calories": 362, "protein": 12.7, "fat": 2.3, "carb": 67.8, "total_g": 720}, "wild rice": {"location": "inspired eats", "time": "dinner", "day": "wednesday", "ingredients": {"Natural Wholegrain Basmati Rice Steamed": {"name": "Natural Wholegrain Basmati Rice Steamed", "percent": 89}, "Natural Wild Rice Steamed": {"name": "Natural Wild Rice Steamed", "percent": 10}, "Rice Bran Oil": {"name": "Rice Bran Oil", "percent": 0.75}, "Acacia Fibre": {"name": "Acacia Fibre", "percent": 0.25}}, "calories": 127, "protein": 3.4, "fat": 1.9, "carb": 22.8, "total_g": 250}, "spicy potatoes": {"location": "inspired eats", "time": "dinner", "day": "thursday", "ingredients": {"NOODLES": {"name": "NOODLES", "percent": 89}, "Kartoffelst\u00e4rke": {"name": "Kartoffelst\u00e4rke", "percent": 5.5}, "Palm\u00f6l": {"name": "Palm\u00f6l", "percent": 2.75}, "Salz": {"name": "Salz", "percent": 8.392333984375e-05}, "S\u00e4ureregulatoren": {"name": "S\u00e4ureregulatoren", "percent": 0.6875}, "e500": {"name": "e500", "percent": 0.34375}, "e339": {"name": "e339", "percent": 0.171875}, "Antioxidationsmittel": {"name": "Antioxidationsmittel", "percent": 0.0859375}, "Emulgator": {"name": "Emulgator", "percent": 0.04296875}, "e322": {"name": "e322", "percent": 0.021484375}, "W\u00fcrzmittel": {"name": "W\u00fcrzmittel", "percent": 0.000335693359375}, "Gr\u00fcner Tee-Extrakt": {"name": "Gr\u00fcner Tee-Extrakt", "percent": 0.00537109375}, "Farbstoff": {"name": "Farbstoff", "percent": 0.002685546875}, "Geschmacksverst\u00e4rker": {"name": "Geschmacksverst\u00e4rker", "percent": 0.0001678466796875}, "e627": {"name": "e627", "percent": 8.392333984375e-05}, "e631": {"name": "e631", "percent": 4.1961669921875e-05}, "Zucker": {"name": "Zucker", "percent": 2.09808349609375e-05}, "Glukose": {"name": "Glukose", "percent": 1.04904174804688e-05}, "Shiitake": {"name": "Shiitake", "percent": 0}, "GEM\u00dcSE-PILZ-FLOCKEN": {"name": "GEM\u00dcSE-PILZ-FLOCKEN", "percent": 5.24520874023438e-06}, "texturiertes pflanzliches Eiwei\u00df": {"name": "texturiertes pflanzliches Eiwei\u00df", "percent": 0}, "Karotten": {"name": "Karotten", "percent": 0}, "rote Chilischoten": {"name": "rote Chilischoten", "percent": 4.1961669921875e-05}, "Zwiebeln": {"name": "Zwiebeln", "percent": 0}, "Weizenmehl": {"name": "Weizenmehl", "percent": 8.392333984375e-05}, "e501": {"name": "e501", "percent": 0.6875}, "e306": {"name": "e306", "percent": 0.0859375}, "Hefeextrakt": {"name": "Hefeextrakt", "percent": 0.0001678466796875}, "Sojabohnen": {"name": "Sojabohnen", "percent": 0.002685546875}, "Knoblauch": {"name": "Knoblauch", "percent": 2.09808349609375e-05}, "Weizenst\u00e4rke": {"name": "Weizenst\u00e4rke", "percent": 0.0013427734375}, "e101": {"name": "e101", "percent": 0.0013427734375}, "W\u00dcRZPULVER": {"name": "W\u00dcRZPULVER", "percent": 0.0013427734375}, "hydrolysiertes Sojaprotein": {"name": "hydrolysiertes Sojaprotein", "percent": 0.00067138671875}, "Maltodextrin": {"name": "Maltodextrin", "percent": 0.0001678466796875}, "schwarzer Pfeffer": {"name": "schwarzer Pfeffer", "percent": 8.392333984375e-05}, "Maismehl": {"name": "Maismehl", "percent": 2.09808349609375e-05}, "e621": {"name": "e621", "percent": 0.0001678466796875}, "Pak-Choi": {"name": "Pak-Choi", "percent": 5.24520874023438e-06}, "Soja": {"name": "Soja", "percent": 0}, "Weizengluten": {"name": "Weizengluten", "percent": 0}}, "calories": 422, "protein": 8.2, "fat": 13, "carb": 68, "total_g": 120}, "spaghetti squash": {"location": "inspired eats", "time": "dinner", "day": "tuesday", "ingredients": {"Sweet Chilli Sauce": {"name": "Sweet Chilli Sauce", "percent": 33}, "Vegetable Mix": {"name": "Vegetable Mix", "percent": 33}, "Butternut Squash Spaghetti": {"name": "Butternut Squash Spaghetti", "percent": 18}, "Chicken Breast": {"name": "Chicken Breast", "percent": 15.695}, "Water": {"name": "Water", "percent": 0.242647058823529}, "Pineapple": {"name": "Pineapple", "percent": 7.76470588235294}, "Red Pepper": {"name": "Red Pepper", "percent": 3.88235294117647}, "Yellow Pepper": {"name": "Yellow Pepper", "percent": 1.94117647058824}, "Cornflour": {"name": "Cornflour", "percent": 0.970588235294118}, "Light Soy Sauce": {"name": "Light Soy Sauce", "percent": 0.485294117647058}, "Garlic": {"name": "Garlic", "percent": 0.242647058823529}, "Ginger": {"name": "Ginger", "percent": 0.121323529411764}, "Red Chillies": {"name": "Red Chillies", "percent": 0.00047392003676805}, "Tomato Paste": {"name": "Tomato Paste", "percent": 0.030330882352942}, "Sweetener": {"name": "Sweetener", "percent": 0.015165441176471}, "Lemon Juice form Concentrate": {"name": "Lemon Juice form Concentrate", "percent": 0.0075827205882355}, "White Wine Vinegar": {"name": "White Wine Vinegar", "percent": 0.00379136029411598}, "Molasses": {"name": "Molasses", "percent": 0.00189568014705799}, "Salt": {"name": "Salt", "percent": 0.0606617647058822}, "Paprika Extract": {"name": "Paprika Extract", "percent": 0.000473920036764497}, "Edamame Beans": {"name": "Edamame Beans", "percent": 11}, "Carrot": {"name": "Carrot", "percent": 11}, "Green Cabbage": {"name": "Green Cabbage", "percent": 11}, "_Soya_ Bean": {"name": "_Soya_ Bean", "percent": 0.121323529411764}, "_Wheat_ Flour": {"name": "_Wheat_ Flour", "percent": 0.0606617647058822}, "Steviol Glycosides": {"name": "Steviol Glycosides", "percent": 0.015165441176471}}, "calories": 75, "protein": 7.9, "fat": 1.4, "carb": 6.4, "total_g": 550}, "asparagus": {"location": "inspired eats", "time": "dinner", "day": "wednesday", "ingredients": {"Asperges": {"name": "Asperges", "percent": 75}, "difiant acide citrique": {"name": "difiant acide citrique", "percent": 25}}, "calories": 18, "protein": 1.7, "fat": 0.2, "carb": 1.6, "total_g": 180}, "lima beans": {"location": "inspired eats", "time": "dinner", "day": "thursday", "ingredients": {}, "calories": 383, "protein": 23.6, "fat": 0.9, "carb": 62.8, "total_g": 900}, "saut\u00e9ed spinach": {"location": "inspired eats", "time": "dinner", "day": "friday", "ingredients": {"Spinach": {"name": "Spinach", "percent": "53.8461538461538"}, "tomatoes": {"name": "tomatoes", "percent": "23.0769230769231"}, "onions": {"name": "onions", "percent": "11.5384615384615"}, "paneer cheese": {"name": "paneer cheese", "percent": "5.76923076923077"}, "water": {"name": "water", "percent": "2.88461538461539"}, "sunflower oil": {"name": "sunflower oil", "percent": "1.44230769230769"}, "salt": {"name": "salt", "percent": "0.4125"}, "garlic": {"name": "garlic", "percent": "0.4125"}, "cornstarch": {"name": "cornstarch", "percent": "0.308653846153852"}, "yeast extract": {"name": "yeast extract", "percent": "0.154326923076923"}, "ginger": {"name": "ginger", "percent": "0.0771634615384613"}, "chili peppers": {"name": "chili peppers", "percent": "0.0385817307692307"}, "cumin": {"name": "cumin", "percent": "0.0385817307692378"}}, "calories": 79, "protein": "4.29", "fat": 5, "carb": "4.29", "total_g": 285}}
+{
+	"oatmeal": {
+		"location": "fresh stock soups",
+		"time": "breakfast",
+		"day": "saturday",
+		"ingredients": {
+			"oat flakes": {
+				"name": "oat flakes",
+				"percent": 34.0
+			},
+			"whole wheat flour": {
+				"name": "whole wheat flour",
+				"percent": 22.0
+			},
+			"dark chocolate drops": {
+				"name": "dark chocolate drops",
+				"percent": 15.0
+			},
+			"vegetable oil": {
+				"name": "vegetable oil",
+				"percent": 14.5
+			},
+			"sugar": {
+				"name": "sugar",
+				"percent": 8.75
+			},
+			"glucose and fructose syrup": {
+				"name": "glucose and fructose syrup",
+				"percent": 4.01215277777778
+			},
+			"raising agents": {
+				"name": "raising agents",
+				"percent": 1.87934027777777
+			},
+			"salt": {
+				"name": "salt",
+				"percent": 1.87934027777777
+			},
+			"cocoa paste": {
+				"name": "cocoa paste",
+				"percent": 3.125
+			},
+			"dextrose": {
+				"name": "dextrose",
+				"percent": 1.5625
+			},
+			"cocoa butter": {
+				"name": "cocoa butter",
+				"percent": 0.78125
+			},
+			"emulsifier": {
+				"name": "emulsifier",
+				"percent": 0.390625
+			},
+			"flavourings": {
+				"name": "flavourings",
+				"percent": 0.390625
+			},
+			"high oleic sunflower": {
+				"name": "high oleic sunflower",
+				"percent": 14.5
+			},
+			"sodium acid carbonate": {
+				"name": "sodium acid carbonate",
+				"percent": 0.939670138888886
+			},
+			"ammonium acid carbonate": {
+				"name": "ammonium acid carbonate",
+				"percent": 0.939670138888886
+			},
+			"soy lecithin": {
+				"name": "soy lecithin",
+				"percent": 0.390625
+			}
+		},
+		"calories": 476.0,
+		"protein": 7.6,
+		"fat": 21.0,
+		"carb": 61.0,
+		"total_g": 425.0
+	},
+	"waffles": {
+		"location": "",
+		"time": null,
+		"day": "tuesday",
+		"ingredients": {
+			"Farine de bl\u00e9 tendre": {
+				"name": "Farine de bl\u00e9 tendre",
+				"percent": 40.0
+			},
+			"perles de sucre": {
+				"name": "perles de sucre",
+				"percent": 21.0
+			},
+			"huiles v\u00e9g\u00e9tales de palme": {
+				"name": "huiles v\u00e9g\u00e9tales de palme",
+				"percent": 13.0
+			},
+			"huiles v\u00e9g\u00e9tales de colza": {
+				"name": "huiles v\u00e9g\u00e9tales de colza",
+				"percent": 13.0
+			},
+			"sirop de glucose-fructose": {
+				"name": "sirop de glucose-fructose",
+				"percent": 9.0
+			},
+			"oeufs frais": {
+				"name": "oeufs frais",
+				"percent": 4.0
+			},
+			"levure": {
+				"name": "levure",
+				"percent": 0.0
+			},
+			"\u00e9mulsifiant": {
+				"name": "\u00e9mulsifiant",
+				"percent": 0.0
+			},
+			"sel": {
+				"name": "sel",
+				"percent": 0.0
+			},
+			"ar\u00f4me": {
+				"name": "ar\u00f4me",
+				"percent": 0.0
+			},
+			"mono- et diglyc\u00e9rides d'acides gras": {
+				"name": "mono- et diglyc\u00e9rides d'acides gras",
+				"percent": 0.0
+			},
+			"st\u00e9aroyl-2-lactylate de sodium": {
+				"name": "st\u00e9aroyl-2-lactylate de sodium",
+				"percent": 0.0
+			},
+			"l\u00e9cithine de soja": {
+				"name": "l\u00e9cithine de soja",
+				"percent": 0.0
+			}
+		},
+		"calories": 441.0,
+		"protein": 5.0,
+		"fat": 21.7,
+		"carb": 55.9,
+		"total_g": 315.0
+	},
+	"tacos": {
+		"location": "greyhound grille",
+		"time": "dinner",
+		"day": "tuesday",
+		"ingredients": {
+			"corn flour": {
+				"name": "corn flour",
+				"percent": 75.0
+			},
+			"high oleic sunflower oil": {
+				"name": "high oleic sunflower oil",
+				"percent": 25.0
+			}
+		},
+		"calories": 509.0,
+		"protein": 5.4,
+		"fat": 27.0,
+		"carb": 59.2,
+		"total_g": 156.0
+	},
+	"burger": {
+		"location": "greyhound grille",
+		"time": "dinner",
+		"day": "saturday",
+		"ingredients": {
+			"Eau": {
+				"name": "Eau",
+				"percent": 53.3333333333333
+			},
+			"huile de colza": {
+				"name": "huile de colza",
+				"percent": 23.3333333333333
+			},
+			"vinaigre d'alcool": {
+				"name": "vinaigre d'alcool",
+				"percent": 0.182291666666666
+			},
+			"pur\u00e9e de tomates double-concentr\u00e9e": {
+				"name": "pur\u00e9e de tomates double-concentr\u00e9e",
+				"percent": 5.83333333333333
+			},
+			"sucre": {
+				"name": "sucre",
+				"percent": 0.022786458333333
+			},
+			"moutarde": {
+				"name": "moutarde",
+				"percent": 1.45833333333333
+			},
+			"amidon modifi\u00e9 de ma\u00efs": {
+				"name": "amidon modifi\u00e9 de ma\u00efs",
+				"percent": 0.729166666666664
+			},
+			"sauce Worcestershire": {
+				"name": "sauce Worcestershire",
+				"percent": 0.364583333333329
+			},
+			"jaune d'\u0152UF": {
+				"name": "jaune d'\u0152UF",
+				"percent": 0.182291666666664
+			},
+			"\u00e9pices": {
+				"name": "\u00e9pices",
+				"percent": 0.000356038411458315
+			},
+			"sel": {
+				"name": "sel",
+				"percent": 0.0113932291666665
+			},
+			"ar\u00f4mes": {
+				"name": "ar\u00f4mes",
+				"percent": 0.00569661458333326
+			},
+			"\u00e9paississant": {
+				"name": "\u00e9paississant",
+				"percent": 0.0113932291666643
+			},
+			"antioxydant": {
+				"name": "antioxydant",
+				"percent": 0.0056966145833286
+			},
+			"colorant": {
+				"name": "colorant",
+				"percent": 0.0056966145833286
+			},
+			"eau": {
+				"name": "eau",
+				"percent": 0.182291666666664
+			},
+			"graines de MOUTARDE": {
+				"name": "graines de MOUTARDE",
+				"percent": 0.364583333333332
+			},
+			"sirop de glucose": {
+				"name": "sirop de glucose",
+				"percent": 0.0911458333333321
+			},
+			"vinaigre de malt d'ORGE": {
+				"name": "vinaigre de malt d'ORGE",
+				"percent": 0.0455729166666661
+			},
+			"extrait d'oignon": {
+				"name": "extrait d'oignon",
+				"percent": 0.00284830729166663
+			},
+			"ANCHOIS": {
+				"name": "ANCHOIS",
+				"percent": 0.00142415364583331
+			},
+			"jus de citron concentr\u00e9": {
+				"name": "jus de citron concentr\u00e9",
+				"percent": 0.000712076822916657
+			},
+			"herbes": {
+				"name": "herbes",
+				"percent": 0.000178019205729157
+			},
+			"ail": {
+				"name": "ail",
+				"percent": 0.00017801920572913
+			},
+			"gomme xanthane": {
+				"name": "gomme xanthane",
+				"percent": 0.0113932291666643
+			},
+			"calcium disodium EDTA": {
+				"name": "calcium disodium EDTA",
+				"percent": 0.0056966145833286
+			},
+			"carot\u00e9no\u00efdes": {
+				"name": "carot\u00e9no\u00efdes",
+				"percent": 0.0056966145833286
+			}
+		},
+		"calories": 240.0,
+		"protein": 1.1,
+		"fat": 21.0,
+		"carb": 11.0,
+		"total_g": 260.0
+	},
+	"chicken quesadilla": {
+		"location": "greyhound grille",
+		"time": "dinner",
+		"day": "thursday",
+		"ingredients": {
+			"Chicken white meat": {
+				"name": "Chicken white meat",
+				"percent": 52.5
+			},
+			"water": {
+				"name": "water",
+				"percent": 23.75
+			},
+			"wheat flour": {
+				"name": "wheat flour",
+				"percent": 11.875
+			},
+			"monterey jack cheese": {
+				"name": "monterey jack cheese",
+				"percent": 5.9375
+			},
+			"pepper jack cheese": {
+				"name": "pepper jack cheese",
+				"percent": 2.96875
+			},
+			"corn red bell pepper": {
+				"name": "corn red bell pepper",
+				"percent": 1.484375
+			},
+			"spinach": {
+				"name": "spinach",
+				"percent": 0.7421875
+			},
+			"may contain 2% and less corn starch": {
+				"name": "may contain 2% and less corn starch",
+				"percent": 0.37109375
+			},
+			"soybean oil": {
+				"name": "soybean oil",
+				"percent": 0.185546875
+			},
+			"jalapeno pepper": {
+				"name": "jalapeno pepper",
+				"percent": 0.0927734375
+			},
+			"black beans": {
+				"name": "black beans",
+				"percent": 0.04638671875
+			},
+			"sugar": {
+				"name": "sugar",
+				"percent": 0.023193359375
+			},
+			"cilantro": {
+				"name": "cilantro",
+				"percent": 0.0115966796875
+			},
+			"salt": {
+				"name": "salt",
+				"percent": 9.05990600585938e-05
+			},
+			"sodium acid pyrophosphate": {
+				"name": "sodium acid pyrophosphate",
+				"percent": 0.002899169921875
+			},
+			"baking soda": {
+				"name": "baking soda",
+				"percent": 0.0014495849609375
+			},
+			"fresh garlic": {
+				"name": "fresh garlic",
+				"percent": 0.00072479248046875
+			},
+			"spices": {
+				"name": "spices",
+				"percent": 2.83122062683105e-06
+			},
+			"chili pepper": {
+				"name": "chili pepper",
+				"percent": 1.13248825073242e-05
+			},
+			"spice blend": {
+				"name": "spice blend",
+				"percent": 0.000181198120117188
+			},
+			"with water": {
+				"name": "with water",
+				"percent": 26.875
+			},
+			"rich starch": {
+				"name": "rich starch",
+				"percent": 12.8125
+			},
+			"sodium phosphate": {
+				"name": "sodium phosphate",
+				"percent": 12.3275
+			},
+			"with niacin": {
+				"name": "with niacin",
+				"percent": 5.9375
+			},
+			"reduced iron": {
+				"name": "reduced iron",
+				"percent": 2.96875
+			},
+			"thiamine mononitrate": {
+				"name": "thiamine mononitrate",
+				"percent": 1.484375
+			},
+			"riboflavin": {
+				"name": "riboflavin",
+				"percent": 0.7421875
+			},
+			"folic acid": {
+				"name": "folic acid",
+				"percent": 0.7421875
+			},
+			"cultured pasteurized milk": {
+				"name": "cultured pasteurized milk",
+				"percent": 2.96875
+			},
+			"enzymes": {
+				"name": "enzymes",
+				"percent": 0.185546875
+			},
+			"pasteurized milk": {
+				"name": "pasteurized milk",
+				"percent": 1.484375
+			},
+			"cheese cultures": {
+				"name": "cheese cultures",
+				"percent": 0.7421875
+			},
+			"jalapeno peppers": {
+				"name": "jalapeno peppers",
+				"percent": 0.37109375
+			},
+			"with salt": {
+				"name": "with salt",
+				"percent": 0.04638671875
+			},
+			"acetic acid": {
+				"name": "acetic acid",
+				"percent": 0.023193359375
+			},
+			"calcium chloride": {
+				"name": "calcium chloride",
+				"percent": 0.023193359375
+			},
+			"with citric acid": {
+				"name": "with citric acid",
+				"percent": 0.00072479248046875
+			},
+			"paprika": {
+				"name": "paprika",
+				"percent": 4.52995300292969e-05
+			},
+			"dehydrated onion": {
+				"name": "dehydrated onion",
+				"percent": 2.26497650146484e-05
+			},
+			"corn starch": {
+				"name": "corn starch",
+				"percent": 5.66244125366211e-06
+			},
+			"garlic": {
+				"name": "garlic",
+				"percent": 1.41561031341553e-06
+			},
+			"annatto": {
+				"name": "annatto",
+				"percent": 7.07805156707764e-07
+			},
+			"silicon dioxide": {
+				"name": "silicon dioxide",
+				"percent": 7.07805156707764e-07
+			}
+		},
+		"calories": 188.0,
+		"protein": 12.35,
+		"fat": 9.41,
+		"carb": 15.29,
+		"total_g": 340.1942775
+	},
+	"omelets": {
+		"location": "omelete pasta station",
+		"time": "breakfast",
+		"day": "saturday",
+		"ingredients": {},
+		"calories": 210.0,
+		"protein": 16.0,
+		"fat": 15.0,
+		"carb": 4.0,
+		"total_g": 16.0
+	},
+	"beef brisket": {
+		"location": "inspired eats",
+		"time": "lunch",
+		"day": "friday",
+		"ingredients": {
+			"Pain sp\u00e9cial color\u00e9": {
+				"name": "Pain sp\u00e9cial color\u00e9",
+				"percent": 41.9
+			},
+			"yaourt \u00e0 la grecque": {
+				"name": "yaourt \u00e0 la grecque",
+				"percent": 14.1
+			},
+			"poitrine de boeuf cuite fum\u00e9e": {
+				"name": "poitrine de boeuf cuite fum\u00e9e",
+				"percent": 13.1
+			},
+			"cheddar rouge": {
+				"name": "cheddar rouge",
+				"percent": 8.4
+			},
+			"pickle d'oignon rouge aigre-doux": {
+				"name": "pickle d'oignon rouge aigre-doux",
+				"percent": 5.2
+			},
+			"chou blanc": {
+				"name": "chou blanc",
+				"percent": 3.5
+			},
+			"chou rouge": {
+				"name": "chou rouge",
+				"percent": 3.5
+			},
+			"carotte r\u00e2p\u00e9e": {
+				"name": "carotte r\u00e2p\u00e9e",
+				"percent": 3.5
+			},
+			"morceau de bacon cuit fum\u00e9 au bois de h\u00eatre": {
+				"name": "morceau de bacon cuit fum\u00e9 au bois de h\u00eatre",
+				"percent": 2.5
+			},
+			"mayonnaise": {
+				"name": "mayonnaise",
+				"percent": 1.28295454545455
+			},
+			"sp\u00e9cialit\u00e9 fromag\u00e8re": {
+				"name": "sp\u00e9cialit\u00e9 fromag\u00e8re",
+				"percent": 1.05119949494949
+			},
+			"ciboulette": {
+				"name": "ciboulette",
+				"percent": 0.839829545454545
+			},
+			"farine de BLE": {
+				"name": "farine de BLE",
+				"percent": 0.563008207070702
+			},
+			"fibre de BL\u00c9": {
+				"name": "fibre de BL\u00c9",
+				"percent": 0.281504103535354
+			},
+			"sel": {
+				"name": "sel",
+				"percent": 0.0200461647727273
+			},
+			"poivre": {
+				"name": "poivre",
+				"percent": 0.700000000000005
+			},
+			"jus de citron": {
+				"name": "jus de citron",
+				"percent": 0.0351880129419158
+			},
+			"issue d'animaux n\u00e9s": {
+				"name": "issue d'animaux n\u00e9s",
+				"percent": 0.0175940064709579
+			},
+			"\u00e9lev\u00e9s": {
+				"name": "\u00e9lev\u00e9s",
+				"percent": 0.00879700323547894
+			},
+			"abattus et transform\u00e9s en France": {
+				"name": "abattus et transform\u00e9s en France",
+				"percent": 0.00879700323548605
+			},
+			"farine de BL\u00c9": {
+				"name": "farine de BL\u00c9",
+				"percent": 11.45703125
+			},
+			"eau": {
+				"name": "eau",
+				"percent": 0.0801846590909091
+			},
+			"huile de colza": {
+				"name": "huile de colza",
+				"percent": 0.641477272727273
+			},
+			"sucre": {
+				"name": "sucre",
+				"percent": 0.0200461647727272
+			},
+			"encre de seiche": {
+				"name": "encre de seiche",
+				"percent": 0.306884765625
+			},
+			"levure": {
+				"name": "levure",
+				"percent": 0.61376953125
+			},
+			"extrait d'ac\u00e9rola": {
+				"name": "extrait d'ac\u00e9rola",
+				"percent": 0.1534423828125
+			},
+			"LAIT en poudre": {
+				"name": "LAIT en poudre",
+				"percent": 0.038360595703125
+			},
+			"CEUF de poule \u00e9lev\u00e9e en plein air": {
+				"name": "CEUF de poule \u00e9lev\u00e9e en plein air",
+				"percent": 0.0191802978515625
+			},
+			"graine de lin brun": {
+				"name": "graine de lin brun",
+				"percent": 0.00959014892578125
+			},
+			"graine de millet": {
+				"name": "graine de millet",
+				"percent": 0.00479507446289062
+			},
+			"graine de lin jaune": {
+				"name": "graine de lin jaune",
+				"percent": 0.00239753723144531
+			},
+			"graine de tournesol": {
+				"name": "graine de tournesol",
+				"percent": 0.00119876861572266
+			},
+			"graine de chia": {
+				"name": "graine de chia",
+				"percent": 0.00119876861572266
+			},
+			"poitrine de boeuf": {
+				"name": "poitrine de boeuf",
+				"percent": 8.9
+			},
+			"sel de Gu\u00e9rande": {
+				"name": "sel de Gu\u00e9rande",
+				"percent": 0.7
+			},
+			"paprika": {
+				"name": "paprika",
+				"percent": 0.7
+			},
+			"fenouil": {
+				"name": "fenouil",
+				"percent": 0.7
+			},
+			"ail": {
+				"name": "ail",
+				"percent": 0.7
+			},
+			"thym": {
+				"name": "thym",
+				"percent": 0.7
+			},
+			"LAIT": {
+				"name": "LAIT",
+				"percent": 5.6
+			},
+			"ferments lactiques": {
+				"name": "ferments lactiques",
+				"percent": 0.7
+			},
+			"coagulant microbien": {
+				"name": "coagulant microbien",
+				"percent": 0.7
+			},
+			"colorant": {
+				"name": "colorant",
+				"percent": 0.699999999999999
+			},
+			"oignon rouge": {
+				"name": "oignon rouge",
+				"percent": 3.03333333333333
+			},
+			"vinaigre de vin rouge": {
+				"name": "vinaigre de vin rouge",
+				"percent": 0.541666666666667
+			},
+			"concentr\u00e9 de carotte pourpre": {
+				"name": "concentr\u00e9 de carotte pourpre",
+				"percent": 0.135416666666667
+			},
+			"poitrine de porc": {
+				"name": "poitrine de porc",
+				"percent": 1.40625
+			},
+			"dextrose": {
+				"name": "dextrose",
+				"percent": 0.13671875
+			},
+			"blette": {
+				"name": "blette",
+				"percent": 0.068359375
+			},
+			"ar\u00f4mes naturels": {
+				"name": "ar\u00f4mes naturels",
+				"percent": 0.0341796875
+			},
+			"carotte d\u00e9shydrat\u00e9e": {
+				"name": "carotte d\u00e9shydrat\u00e9e",
+				"percent": 0.01708984375
+			},
+			"ferment": {
+				"name": "ferment",
+				"percent": 0.01708984375
+			},
+			"MOUTARDE": {
+				"name": "MOUTARDE",
+				"percent": 0.160369318181818
+			},
+			"jaune d'CEUF de poule \u00e9lev\u00e9e en plein air": {
+				"name": "jaune d'CEUF de poule \u00e9lev\u00e9e en plein air",
+				"percent": 0.0801846590909091
+			},
+			"vinaigre d'alcool": {
+				"name": "vinaigre d'alcool",
+				"percent": 0.0200461647727273
+			},
+			"jaune d'\u0152UF en poudre issu de poule \u00e9lev\u00e9e en plein air": {
+				"name": "jaune d'\u0152UF en poudre issu de poule \u00e9lev\u00e9e en plein air",
+				"percent": 0.0100230823863636
+			},
+			"jus de citron concentr\u00e9": {
+				"name": "jus de citron concentr\u00e9",
+				"percent": 0.00501154119318192
+			},
+			"LAIT entier": {
+				"name": "LAIT entier",
+				"percent": 0.525599747474747
+			},
+			"cr\u00e8me": {
+				"name": "cr\u00e8me",
+				"percent": 0.262799873737374
+			},
+			"pr\u00e9paration de prot\u00e9ines de LAIT": {
+				"name": "pr\u00e9paration de prot\u00e9ines de LAIT",
+				"percent": 0.131399936868687
+			},
+			"perm\u00e9at de lactos\u00e9rum": {
+				"name": "perm\u00e9at de lactos\u00e9rum",
+				"percent": 0.0656999684343434
+			},
+			"stabilisant": {
+				"name": "stabilisant",
+				"percent": 0.0164249921085858
+			},
+			"acidifiant": {
+				"name": "acidifiant",
+				"percent": 0.0164249921085859
+			},
+			"GLUTEN de BL\u00c9": {
+				"name": "GLUTEN de BL\u00c9",
+				"percent": 5.401171875
+			},
+			"malt de BL\u00c9": {
+				"name": "malt de BL\u00c9",
+				"percent": 2.7005859375
+			},
+			"agent de traitement de la farine": {
+				"name": "agent de traitement de la farine",
+				"percent": 2.7005859375
+			},
+			"amidon de manioc": {
+				"name": "amidon de manioc",
+				"percent": 0.1534423828125
+			},
+			"liquide": {
+				"name": "liquide",
+				"percent": 0.0801846590909091
+			},
+			"Salvia hispanica": {
+				"name": "Salvia hispanica",
+				"percent": 0.00119876861572266
+			},
+			"norbixine de rocou": {
+				"name": "norbixine de rocou",
+				"percent": 0.699999999999999
+			},
+			"graine de MOUTARDE": {
+				"name": "graine de MOUTARDE",
+				"percent": 0.0400923295454545
+			},
+			"farine de graines de caroube": {
+				"name": "farine de graines de caroube",
+				"percent": 0.0164249921085858
+			},
+			"acide citrique": {
+				"name": "acide citrique",
+				"percent": 0.0164249921085859
+			},
+			"acide ascorbique": {
+				"name": "acide ascorbique",
+				"percent": 2.7005859375
+			}
+		},
+		"calories": 242.0,
+		"protein": 11.0,
+		"fat": 10.0,
+		"carb": 25.0,
+		"total_g": 165.0
+	},
+	"supreme pizza": {
+		"location": "pizza",
+		"time": null,
+		"day": "tuesday",
+		"ingredients": {
+			"flour": {
+				"name": "flour",
+				"percent": 51.7241379310345
+			},
+			"water": {
+				"name": "water",
+				"percent": 0.00589304956896552
+			},
+			"low moisture part skim mozzarella cheese": {
+				"name": "low moisture part skim mozzarella cheese",
+				"percent": 12.0689655172414
+			},
+			"cooked pizza topping": {
+				"name": "cooked pizza topping",
+				"percent": 6.03448275862069
+			},
+			"green and red peppers": {
+				"name": "green and red peppers",
+				"percent": 3.01724137931035
+			},
+			"tomato paste": {
+				"name": "tomato paste",
+				"percent": 1.50862068965517
+			},
+			"pepperoni made with pork": {
+				"name": "pepperoni made with pork",
+				"percent": 0.754310344827587
+			},
+			"chicken": {
+				"name": "chicken",
+				"percent": 0.754310344827586
+			},
+			"beef": {
+				"name": "beef",
+				"percent": 0.0235721982758621
+			},
+			"onion": {
+				"name": "onion",
+				"percent": 0.0942887931034448
+			},
+			"contains 2% and less of": {
+				"name": "contains 2% and less of",
+				"percent": 0.00589304956896552
+			},
+			"palm oil": {
+				"name": "palm oil",
+				"percent": 0.0235721982758577
+			},
+			"sugar": {
+				"name": "sugar",
+				"percent": 0.0471443965517242
+			},
+			"vegetable oil": {
+				"name": "vegetable oil",
+				"percent": 0.00589304956896797
+			},
+			"salt": {
+				"name": "salt",
+				"percent": 0.754310344827586
+			},
+			"modified food starch": {
+				"name": "modified food starch",
+				"percent": 0.00147326239223844
+			},
+			"spice": {
+				"name": "spice",
+				"percent": 0.00073663119611922
+			},
+			"maltodextrin": {
+				"name": "maltodextrin",
+				"percent": 0.00036831559805961
+			},
+			"dried garlic": {
+				"name": "dried garlic",
+				"percent": 0.000184157799026252
+			},
+			"hydrolyzed soy and corn protein": {
+				"name": "hydrolyzed soy and corn protein",
+				"percent": 9.20788995131261e-05
+			},
+			"paprika": {
+				"name": "paprika",
+				"percent": 1.43873280492035e-06
+			},
+			"dried onion": {
+				"name": "dried onion",
+				"percent": 2.30197248782815e-05
+			},
+			"wheat starch": {
+				"name": "wheat starch",
+				"percent": 1.15098624391408e-05
+			},
+			"l-cysteine hydrochloride": {
+				"name": "l-cysteine hydrochloride",
+				"percent": 5.75493122312309e-06
+			},
+			"ammonium sulfate": {
+				"name": "ammonium sulfate",
+				"percent": 2.87746561156155e-06
+			},
+			"soy lecithin": {
+				"name": "soy lecithin",
+				"percent": 1.43873280933349e-06
+			},
+			"natural flavor": {
+				"name": "natural flavor",
+				"percent": 7.19366404666744e-07
+			},
+			"enzymes": {
+				"name": "enzymes",
+				"percent": 5.38573275862069
+			},
+			"ascorbic acid": {
+				"name": "ascorbic acid",
+				"percent": 3.59683198780658e-07
+			},
+			"wheat flour": {
+				"name": "wheat flour",
+				"percent": 26.1083743842365
+			},
+			"malted barley flour": {
+				"name": "malted barley flour",
+				"percent": 12.807881773399
+			},
+			"niacin": {
+				"name": "niacin",
+				"percent": 6.40394088669951
+			},
+			"reduced iron": {
+				"name": "reduced iron",
+				"percent": 3.20197044334975
+			},
+			"thiamine mononitrate": {
+				"name": "thiamine mononitrate",
+				"percent": 1.60098522167488
+			},
+			"riboflavin": {
+				"name": "riboflavin",
+				"percent": 0.800492610837441
+			},
+			"folic acid": {
+				"name": "folic acid",
+				"percent": 0.800492610837445
+			},
+			"cultured pasteurized part skim milk": {
+				"name": "cultured pasteurized part skim milk",
+				"percent": 6.03448275862069
+			},
+			"sausage": {
+				"name": "sausage",
+				"percent": 3.01724137931035
+			},
+			"textured vegetable protein": {
+				"name": "textured vegetable protein",
+				"percent": 1.50862068965517
+			},
+			"pork": {
+				"name": "pork",
+				"percent": 1.50862068965517
+			},
+			"dextrose": {
+				"name": "dextrose",
+				"percent": 0.00294652478448276
+			},
+			"spices": {
+				"name": "spices",
+				"percent": 0.377155172413793
+			},
+			"smoke flavoring": {
+				"name": "smoke flavoring",
+				"percent": 0.000736631196120691
+			},
+			"lactic acid starter culture": {
+				"name": "lactic acid starter culture",
+				"percent": 0.000368315598060345
+			},
+			"sodium ascorbate": {
+				"name": "sodium ascorbate",
+				"percent": 0.000184157799030166
+			},
+			"flavoring": {
+				"name": "flavoring",
+				"percent": 9.20788995150829e-05
+			},
+			"garlic": {
+				"name": "garlic",
+				"percent": 0.0471443965517242
+			},
+			"sodium nitrite": {
+				"name": "sodium nitrite",
+				"percent": 2.30197248787672e-05
+			},
+			"bha": {
+				"name": "bha",
+				"percent": 1.15098624393906e-05
+			},
+			"bht": {
+				"name": "bht",
+				"percent": 5.75493121969528e-06
+			},
+			"citric acid": {
+				"name": "citric acid",
+				"percent": 2.8774656098407e-06
+			},
+			"contains one and more of": {
+				"name": "contains one and more of",
+				"percent": 1.43873280492035e-06
+			},
+			"oleoresin of paprika": {
+				"name": "oleoresin of paprika",
+				"percent": 1.43873280492035e-06
+			},
+			"yeast": {
+				"name": "yeast",
+				"percent": 0.0471443965517224
+			},
+			"soybean": {
+				"name": "soybean",
+				"percent": 0.00294652478448398
+			},
+			"canola oil": {
+				"name": "canola oil",
+				"percent": 0.00294652478448398
+			},
+			"soy flour": {
+				"name": "soy flour",
+				"percent": 0.754310344827586
+			}
+		},
+		"calories": 241.0,
+		"protein": 9.02,
+		"fat": 11.28,
+		"carb": 25.56,
+		"total_g": 664.0
+	},
+	"bacon cheeseburger pizza": {
+		"location": "pizza",
+		"time": null,
+		"day": "sunday",
+		"ingredients": {
+			"_VETEMJ\u00d6L_": {
+				"name": "_VETEMJ\u00d6L_",
+				"percent": 38.85
+			},
+			"_OST_": {
+				"name": "_OST_",
+				"percent": 23.0
+			},
+			"n\u00f6tk\u00f6tt": {
+				"name": "n\u00f6tk\u00f6tt",
+				"percent": 7.0
+			},
+			"tomatpur\u00e9": {
+				"name": "tomatpur\u00e9",
+				"percent": 4.75
+			},
+			"_MJ\u00d6LK_": {
+				"name": "_MJ\u00d6LK_",
+				"percent": 0.1
+			},
+			"rapsolja": {
+				"name": "rapsolja",
+				"percent": 4.75
+			},
+			"vatten": {
+				"name": "vatten",
+				"percent": 0.535714285714286
+			},
+			"l\u00f6k": {
+				"name": "l\u00f6k",
+				"percent": 4.75
+			},
+			"bacon": {
+				"name": "bacon",
+				"percent": 2.5
+			},
+			"salt": {
+				"name": "salt",
+				"percent": 0.0125
+			},
+			"modifierad _VETEST\u00c4RKELSE_": {
+				"name": "modifierad _VETEST\u00c4RKELSE_",
+				"percent": 0.7
+			},
+			"_CR\u00c8ME FRAICHE_": {
+				"name": "_CR\u00c8ME FRAICHE_",
+				"percent": 0.7
+			},
+			"kryddor": {
+				"name": "kryddor",
+				"percent": 0.7
+			},
+			"socker": {
+				"name": "socker",
+				"percent": 0.7
+			},
+			"j\u00e4st": {
+				"name": "j\u00e4st",
+				"percent": 0.7
+			},
+			"_BL\u00c5M\u00d6GELOST_": {
+				"name": "_BL\u00c5M\u00d6GELOST_",
+				"percent": 0.2
+			},
+			"vitvinsvin\u00e4ger": {
+				"name": "vitvinsvin\u00e4ger",
+				"percent": 0.1
+			},
+			"\u00e4rtprotein": {
+				"name": "\u00e4rtprotein",
+				"percent": 0.1
+			},
+			"vitl\u00f6k": {
+				"name": "vitl\u00f6k",
+				"percent": 0.1
+			},
+			"f\u00e4rg\u00e4mne": {
+				"name": "f\u00e4rg\u00e4mne",
+				"percent": 0.1
+			},
+			"kryddextrakt": {
+				"name": "kryddextrakt",
+				"percent": 0.100000000000009
+			},
+			"grisk\u00f6tt": {
+				"name": "grisk\u00f6tt",
+				"percent": 1.42857142857143
+			},
+			"r\u00f6karom": {
+				"name": "r\u00f6karom",
+				"percent": 0.133928571428571
+			},
+			"antioxidationsmedel": {
+				"name": "antioxidationsmedel",
+				"percent": 0.0669642857142856
+			},
+			"stabiliseringsmedel": {
+				"name": "stabiliseringsmedel",
+				"percent": 0.0334821428571428
+			},
+			"konserveringsmedel": {
+				"name": "konserveringsmedel",
+				"percent": 0.0334821428571428
+			},
+			"mj\u00f6lksyra": {
+				"name": "mj\u00f6lksyra",
+				"percent": 0.05
+			},
+			"m\u00f6gelkultur": {
+				"name": "m\u00f6gelkultur",
+				"percent": 0.025
+			},
+			"l\u00f6pe": {
+				"name": "l\u00f6pe",
+				"percent": 0.0125
+			},
+			"betakaroten": {
+				"name": "betakaroten",
+				"percent": 0.1
+			},
+			"e331": {
+				"name": "e331",
+				"percent": 0.0669642857142856
+			},
+			"e451": {
+				"name": "e451",
+				"percent": 0.0334821428571428
+			},
+			"e250": {
+				"name": "e250",
+				"percent": 0.0334821428571428
+			}
+		},
+		"calories": 254.0,
+		"protein": 11.0,
+		"fat": 11.0,
+		"carb": 27.0,
+		"total_g": 170.0
+	},
+	"pulled pork": {
+		"location": "inspired eats",
+		"time": "dinner",
+		"day": "friday",
+		"ingredients": {
+			"Schweinefleisch fl\u00fcssig gew\u00fcrzt": {
+				"name": "Schweinefleisch fl\u00fcssig gew\u00fcrzt",
+				"percent": 98.0
+			},
+			"W\u00fcrzung": {
+				"name": "W\u00fcrzung",
+				"percent": 2.0
+			},
+			"QS-Ware": {
+				"name": "QS-Ware",
+				"percent": 0.0
+			},
+			"Schweinefleisch": {
+				"name": "Schweinefleisch",
+				"percent": 85.0
+			},
+			"Fl\u00fcssigw\u00fcrzung": {
+				"name": "Fl\u00fcssigw\u00fcrzung",
+				"percent": 13.0
+			},
+			"Tomaten": {
+				"name": "Tomaten",
+				"percent": 1.16666666666667
+			},
+			"Speisesalz": {
+				"name": "Speisesalz",
+				"percent": 0.3
+			},
+			"Gew\u00fcrze": {
+				"name": "Gew\u00fcrze",
+				"percent": 0.208333333333333
+			},
+			"Zucker": {
+				"name": "Zucker",
+				"percent": 0.104166666666667
+			},
+			"Gew\u00fcrzextrakte": {
+				"name": "Gew\u00fcrzextrakte",
+				"percent": 0.260937500000001
+			},
+			"Buchenholzrauch": {
+				"name": "Buchenholzrauch",
+				"percent": 0.3
+			},
+			"Trinkwasser": {
+				"name": "Trinkwasser",
+				"percent": 7.3125
+			},
+			"Reisst\u00e4rke": {
+				"name": "Reisst\u00e4rke",
+				"percent": 2.84375
+			},
+			"Rauchsalz": {
+				"name": "Rauchsalz",
+				"percent": 0.6
+			},
+			"Maltodextrin": {
+				"name": "Maltodextrin",
+				"percent": 0.6
+			},
+			"S\u00e4ureregulator": {
+				"name": "S\u00e4ureregulator",
+				"percent": 0.521875000000001
+			},
+			"Stabilisator": {
+				"name": "Stabilisator",
+				"percent": 0.260937500000001
+			},
+			"Natriumcarbonate": {
+				"name": "Natriumcarbonate",
+				"percent": 0.521875000000001
+			},
+			"Diphosphate": {
+				"name": "Diphosphate",
+				"percent": 0.260937500000001
+			}
+		},
+		"calories": 144.0,
+		"protein": 18.0,
+		"fat": 7.0,
+		"carb": 2.0,
+		"total_g": 550.0
+	},
+	"general tso's tofu": {
+		"location": "loyola diner",
+		"time": "lunch",
+		"day": "friday",
+		"ingredients": {
+			"tofu": {
+				"name": "tofu",
+				"percent": 53.125
+			},
+			"brown rice": {
+				"name": "brown rice",
+				"percent": 23.4375
+			},
+			"broccoli": {
+				"name": "broccoli",
+				"percent": 11.71875
+			},
+			"non-gmo soy sauce": {
+				"name": "non-gmo soy sauce",
+				"percent": 5.859375
+			},
+			"vegetable broth": {
+				"name": "vegetable broth",
+				"percent": 2.9296875
+			},
+			"cane sugar": {
+				"name": "cane sugar",
+				"percent": 0.0212665632659312
+			},
+			"red bell peppers": {
+				"name": "red bell peppers",
+				"percent": 0.732421875
+			},
+			"rice vinegar": {
+				"name": "rice vinegar",
+				"percent": 0.3662109375
+			},
+			"sake mirin": {
+				"name": "sake mirin",
+				"percent": 0.18310546875
+			},
+			"ginger": {
+				"name": "ginger",
+				"percent": 0.091552734375
+			},
+			"green onions": {
+				"name": "green onions",
+				"percent": 0.0457763671875
+			},
+			"non-gmo cornstarch": {
+				"name": "non-gmo cornstarch",
+				"percent": 0.02288818359375
+			},
+			"non-gmo expeller pressed canola oil": {
+				"name": "non-gmo expeller pressed canola oil",
+				"percent": 0.011444091796875
+			},
+			"sesame oil": {
+				"name": "sesame oil",
+				"percent": 0.0057220458984375
+			},
+			"garlic": {
+				"name": "garlic",
+				"percent": 0.000166145025515041
+			},
+			"red chile peppers": {
+				"name": "red chile peppers",
+				"percent": 0.00286102294921875
+			},
+			"water": {
+				"name": "water",
+				"percent": 0.091552734375
+			},
+			"soybeans": {
+				"name": "soybeans",
+				"percent": 0.000664580102060386
+			},
+			"calcium sulfate": {
+				"name": "calcium sulfate",
+				"percent": 6.4453125
+			},
+			"calcium chloride": {
+				"name": "calcium chloride",
+				"percent": 6.4453125
+			},
+			"wheat": {
+				"name": "wheat",
+				"percent": 0.732421875
+			},
+			"salt": {
+				"name": "salt",
+				"percent": 0.3921568627451
+			},
+			"alcohol": {
+				"name": "alcohol",
+				"percent": 4.15362563788158e-05
+			},
+			"carrots": {
+				"name": "carrots",
+				"percent": 0.3921568627451
+			},
+			"celery": {
+				"name": "celery",
+				"percent": 0.3402650122549
+			},
+			"onion": {
+				"name": "onion",
+				"percent": 0.000332290051030082
+			},
+			"tomato": {
+				"name": "tomato",
+				"percent": 0.085066253063725
+			},
+			"yeast extract": {
+				"name": "yeast extract",
+				"percent": 0.0425331265318625
+			},
+			"canola oil": {
+				"name": "canola oil",
+				"percent": 0.0106332816329657
+			},
+			"tapioca maltodextrin": {
+				"name": "tapioca maltodextrin",
+				"percent": 0.00531664081648286
+			},
+			"tomato paste": {
+				"name": "tomato paste",
+				"percent": 0.00265832040824154
+			},
+			"potato starch": {
+				"name": "potato starch",
+				"percent": 0.00132916020412077
+			},
+			"spices": {
+				"name": "spices",
+				"percent": 8.30725127576315e-05
+			},
+			"rice": {
+				"name": "rice",
+				"percent": 0.0457763671875
+			},
+			"spice extracts": {
+				"name": "spice extracts",
+				"percent": 2.07681281896299e-05
+			},
+			"sea salt": {
+				"name": "sea salt",
+				"percent": 0.02288818359375
+			},
+			"koji aspergillus oryzae": {
+				"name": "koji aspergillus oryzae",
+				"percent": 0.02288818359375
+			}
+		},
+		"calories": 145.09803921569,
+		"protein": 4.3137254901961,
+		"fat": 5.0980392156863,
+		"carb": 20.78431372549,
+		"total_g": 255.145708125
+	},
+	"basmati rice": {
+		"location": "inspired eats",
+		"time": "dinner",
+		"day": "sunday",
+		"ingredients": {
+			"long grain basmati rice": {
+				"name": "long grain basmati rice",
+				"percent": 100.0
+			}
+		},
+		"calories": 351.0,
+		"protein": 8.7,
+		"fat": 0.8,
+		"carb": 77.0,
+		"total_g": 500.0
+	},
+	"dinner roll": {
+		"location": "loyola diner",
+		"time": "lunch",
+		"day": "wednesday",
+		"ingredients": {
+			"wheat flour": {
+				"name": "wheat flour",
+				"percent": 0.74
+			},
+			"water": {
+				"name": "water",
+				"percent": 21.875
+			},
+			"yeast": {
+				"name": "yeast",
+				"percent": 10.9375
+			},
+			"salt": {
+				"name": "salt",
+				"percent": 0.74
+			},
+			"malted wheat flour": {
+				"name": "malted wheat flour",
+				"percent": 0.74
+			},
+			"antioxidant": {
+				"name": "antioxidant",
+				"percent": 0.74
+			},
+			"deactivated yeast": {
+				"name": "deactivated yeast",
+				"percent": 7.97750000000002
+			},
+			"ascorbic acid": {
+				"name": "ascorbic acid",
+				"percent": 0.74
+			}
+		},
+		"calories": 239.0,
+		"protein": 7.8,
+		"fat": 0.8,
+		"carb": 49.0,
+		"total_g": 300.0
+	},
+	"garlic mashed potatoes": {
+		"location": "loyola diner",
+		"time": "lunch",
+		"day": "thursday",
+		"ingredients": {
+			"idaho potatoes": {
+				"name": "idaho potatoes",
+				"percent": 52.0
+			},
+			"vegetable oil": {
+				"name": "vegetable oil",
+				"percent": 24.0
+			},
+			"corn syrup solids": {
+				"name": "corn syrup solids",
+				"percent": 12.0
+			},
+			"salt": {
+				"name": "salt",
+				"percent": 2.63392857142865
+			},
+			"whey powder": {
+				"name": "whey powder",
+				"percent": 2.63392857142865
+			},
+			"sugar": {
+				"name": "sugar",
+				"percent": 2.63392857142865
+			},
+			"maltodextrin": {
+				"name": "maltodextrin",
+				"percent": 2.04910714285702
+			},
+			"nonfat dry milk": {
+				"name": "nonfat dry milk",
+				"percent": 1.02455357142851
+			},
+			"sodium caseinate": {
+				"name": "sodium caseinate",
+				"percent": 0.512276785714256
+			},
+			"natural and artificial flavor": {
+				"name": "natural and artificial flavor",
+				"percent": 0.256138392857125
+			},
+			"mono- and diglycerides": {
+				"name": "mono- and diglycerides",
+				"percent": 0.128069196428562
+			},
+			"garlic": {
+				"name": "garlic",
+				"percent": 0.0640345982142776
+			},
+			"calcium stearoyl lactylate": {
+				"name": "calcium stearoyl lactylate",
+				"percent": 0.0320172991071388
+			},
+			"hydrolyzed soy protein": {
+				"name": "hydrolyzed soy protein",
+				"percent": 0.0160086495535694
+			},
+			"parsley": {
+				"name": "parsley",
+				"percent": 0.0080043247767847
+			},
+			"dipotassium phosphate": {
+				"name": "dipotassium phosphate",
+				"percent": 0.0040021623883888
+			},
+			"spice": {
+				"name": "spice",
+				"percent": 0.0020010811941944
+			},
+			"sodium acid pyrophosphate": {
+				"name": "sodium acid pyrophosphate",
+				"percent": 0.0010005405970972
+			},
+			"artificial color": {
+				"name": "artificial color",
+				"percent": 0.000500270298545047
+			},
+			"sodium bisulfite": {
+				"name": "sodium bisulfite",
+				"percent": 0.000250135149272523
+			},
+			"disodium inosinate": {
+				"name": "disodium inosinate",
+				"percent": 0.000125067574636262
+			},
+			"disodium guanylate": {
+				"name": "disodium guanylate",
+				"percent": 6.25337873145781e-05
+			},
+			"citric acid": {
+				"name": "citric acid",
+				"percent": 3.12668936572891e-05
+			},
+			"mixed tocopherols": {
+				"name": "mixed tocopherols",
+				"percent": 1.56334468286445e-05
+			},
+			"less than 2.0% silicon dioxide added as an anti-caking agent": {
+				"name": "less than 2.0% silicon dioxide added as an anti-caking agent",
+				"percent": 1.56334468215391e-05
+			},
+			"contains one and more of the following": {
+				"name": "contains one and more of the following",
+				"percent": 12.0
+			},
+			"palm": {
+				"name": "palm",
+				"percent": 6.0
+			},
+			"soybean": {
+				"name": "soybean",
+				"percent": 3.0
+			},
+			"cottonseed": {
+				"name": "cottonseed",
+				"percent": 1.5
+			},
+			"sunflower": {
+				"name": "sunflower",
+				"percent": 0.75
+			},
+			"canola": {
+				"name": "canola",
+				"percent": 0.75
+			},
+			"preserve freshness": {
+				"name": "preserve freshness",
+				"percent": 1.56334468286445e-05
+			},
+			"coconut": {
+				"name": "coconut",
+				"percent": 12.0
+			}
+		},
+		"calories": 392.85714285714,
+		"protein": 7.1428571428571,
+		"fat": 8.9285714285714,
+		"carb": 67.857142857143,
+		"total_g": 113.4
+	},
+	"home fried potatoes": {
+		"location": "loyola diner",
+		"time": "lunch",
+		"day": "sunday",
+		"ingredients": {
+			"Potato": {
+				"name": "Potato",
+				"percent": 91.0
+			},
+			"Batter": {
+				"name": "Batter",
+				"percent": 4.5
+			},
+			"Flour": {
+				"name": "Flour",
+				"percent": 2.25
+			},
+			"Dextrin": {
+				"name": "Dextrin",
+				"percent": 1.125
+			},
+			"Starch": {
+				"name": "Starch",
+				"percent": 0.5625
+			},
+			"Vegetable Oil": {
+				"name": "Vegetable Oil",
+				"percent": 0.28125
+			},
+			"Vegetable Fibre": {
+				"name": "Vegetable Fibre",
+				"percent": 0.140625
+			},
+			"Turmeric Extract": {
+				"name": "Turmeric Extract",
+				"percent": 0.0703125
+			},
+			"Colour": {
+				"name": "Colour",
+				"percent": 0.03515625
+			},
+			"Sunflower Oil": {
+				"name": "Sunflower Oil",
+				"percent": 0.03515625
+			},
+			"Salt": {
+				"name": "Salt",
+				"percent": 0.0
+			},
+			"_Wheat_": {
+				"name": "_Wheat_",
+				"percent": 0.28125
+			},
+			"Rice": {
+				"name": "Rice",
+				"percent": 0.5625
+			},
+			"Broad Bean": {
+				"name": "Broad Bean",
+				"percent": 0.5625
+			},
+			"Potato Maize": {
+				"name": "Potato Maize",
+				"percent": 0.28125
+			},
+			"Shea": {
+				"name": "Shea",
+				"percent": 0.140625
+			},
+			"Coconut": {
+				"name": "Coconut",
+				"percent": 0.140625
+			},
+			"Paprika Extract": {
+				"name": "Paprika Extract",
+				"percent": 0.03515625
+			},
+			"with Calcium": {
+				"name": "with Calcium",
+				"percent": 0.5625
+			},
+			"Iron": {
+				"name": "Iron",
+				"percent": 0.28125
+			},
+			"Niacin": {
+				"name": "Niacin",
+				"percent": 0.140625
+			},
+			"Thiamin": {
+				"name": "Thiamin",
+				"percent": 0.140625
+			}
+		},
+		"calories": 208.0,
+		"protein": 3.3,
+		"fat": 7.2,
+		"carb": 31.0,
+		"total_g": 1000.0
+	},
+	"corn": {
+		"location": "loyola diner",
+		"time": "lunch",
+		"day": "wednesday",
+		"ingredients": {
+			"corn starch": {
+				"name": "corn starch",
+				"percent": 100.0
+			}
+		},
+		"calories": 355.0,
+		"protein": 0.5,
+		"fat": 0.5,
+		"carb": 86.0,
+		"total_g": 400.0
+	},
+	"macaroni and cheese": {
+		"location": "loyola diner",
+		"time": "lunch",
+		"day": "friday",
+		"ingredients": {
+			"macaroni": {
+				"name": "macaroni",
+				"percent": 75.0
+			},
+			"cheese sauce mix": {
+				"name": "cheese sauce mix",
+				"percent": 25.0
+			},
+			"wheat flour": {
+				"name": "wheat flour",
+				"percent": 41.6666666666667
+			},
+			"durum flour": {
+				"name": "durum flour",
+				"percent": 16.6666666666667
+			},
+			"niacin": {
+				"name": "niacin",
+				"percent": 8.33333333333334
+			},
+			"ferrous sulfate": {
+				"name": "ferrous sulfate",
+				"percent": 4.16666666666667
+			},
+			"thiamin mononitrate": {
+				"name": "thiamin mononitrate",
+				"percent": 2.08333333333334
+			},
+			"folic acid": {
+				"name": "folic acid",
+				"percent": 2.08333333333334
+			},
+			"whey": {
+				"name": "whey",
+				"percent": 12.5
+			},
+			"milkfat": {
+				"name": "milkfat",
+				"percent": 6.25
+			},
+			"milk protein concentrate": {
+				"name": "milk protein concentrate",
+				"percent": 3.125
+			},
+			"salt": {
+				"name": "salt",
+				"percent": 0.99
+			},
+			"sodium triphosphate": {
+				"name": "sodium triphosphate",
+				"percent": 0.99
+			},
+			"contains less than 2% of citric acid": {
+				"name": "contains less than 2% of citric acid",
+				"percent": 0.572500000000002
+			},
+			"lactic acid": {
+				"name": "lactic acid",
+				"percent": 0.286250000000001
+			},
+			"sodium phosphate": {
+				"name": "sodium phosphate",
+				"percent": 0.143125000000001
+			},
+			"calcium phosphate": {
+				"name": "calcium phosphate",
+				"percent": 0.0715625000000006
+			},
+			"with paprika": {
+				"name": "with paprika",
+				"percent": 0.0357812499999994
+			},
+			"turmeric": {
+				"name": "turmeric",
+				"percent": 0.0178906249999997
+			},
+			"and annatto added for color": {
+				"name": "and annatto added for color",
+				"percent": 0.00894531249999986
+			},
+			"enzymes": {
+				"name": "enzymes",
+				"percent": 0.00447265624999993
+			},
+			"cheese culture": {
+				"name": "cheese culture",
+				"percent": 0.00447265625000171
+			},
+			"iron": {
+				"name": "iron",
+				"percent": 4.16666666666667
+			},
+			"vitamins": {
+				"name": "vitamins",
+				"percent": 1.04166666666667
+			},
+			"vitamin b11": {
+				"name": "vitamin b11",
+				"percent": 0.520833333333334
+			},
+			"riboflavin": {
+				"name": "riboflavin",
+				"percent": 0.260416666666667
+			},
+			"vitamin b2": {
+				"name": "vitamin b2",
+				"percent": 0.260416666666667
+			}
+		},
+		"calories": 250.0,
+		"protein": 9.0,
+		"fat": 2.0,
+		"carb": 49.0,
+		"total_g": 205.53404265625
+	},
+	"macaroni and  cheese": {
+		"location": "loyola diner",
+		"time": "lunch",
+		"day": "wednesday",
+		"ingredients": {
+			"macaroni": {
+				"name": "macaroni",
+				"percent": 75.0
+			},
+			"cheese sauce mix": {
+				"name": "cheese sauce mix",
+				"percent": 25.0
+			},
+			"wheat flour": {
+				"name": "wheat flour",
+				"percent": 41.6666666666667
+			},
+			"durum flour": {
+				"name": "durum flour",
+				"percent": 16.6666666666667
+			},
+			"niacin": {
+				"name": "niacin",
+				"percent": 8.33333333333334
+			},
+			"ferrous sulfate": {
+				"name": "ferrous sulfate",
+				"percent": 4.16666666666667
+			},
+			"thiamin mononitrate": {
+				"name": "thiamin mononitrate",
+				"percent": 2.08333333333334
+			},
+			"folic acid": {
+				"name": "folic acid",
+				"percent": 2.08333333333334
+			},
+			"whey": {
+				"name": "whey",
+				"percent": 12.5
+			},
+			"milkfat": {
+				"name": "milkfat",
+				"percent": 6.25
+			},
+			"milk protein concentrate": {
+				"name": "milk protein concentrate",
+				"percent": 3.125
+			},
+			"salt": {
+				"name": "salt",
+				"percent": 0.99
+			},
+			"sodium triphosphate": {
+				"name": "sodium triphosphate",
+				"percent": 0.99
+			},
+			"contains less than 2% of citric acid": {
+				"name": "contains less than 2% of citric acid",
+				"percent": 0.572500000000002
+			},
+			"lactic acid": {
+				"name": "lactic acid",
+				"percent": 0.286250000000001
+			},
+			"sodium phosphate": {
+				"name": "sodium phosphate",
+				"percent": 0.143125000000001
+			},
+			"calcium phosphate": {
+				"name": "calcium phosphate",
+				"percent": 0.0715625000000006
+			},
+			"with paprika": {
+				"name": "with paprika",
+				"percent": 0.0357812499999994
+			},
+			"turmeric": {
+				"name": "turmeric",
+				"percent": 0.0178906249999997
+			},
+			"and annatto added for color": {
+				"name": "and annatto added for color",
+				"percent": 0.00894531249999986
+			},
+			"enzymes": {
+				"name": "enzymes",
+				"percent": 0.00447265624999993
+			},
+			"cheese culture": {
+				"name": "cheese culture",
+				"percent": 0.00447265625000171
+			},
+			"iron": {
+				"name": "iron",
+				"percent": 4.16666666666667
+			},
+			"vitamins": {
+				"name": "vitamins",
+				"percent": 1.04166666666667
+			},
+			"vitamin b11": {
+				"name": "vitamin b11",
+				"percent": 0.520833333333334
+			},
+			"riboflavin": {
+				"name": "riboflavin",
+				"percent": 0.260416666666667
+			},
+			"vitamin b2": {
+				"name": "vitamin b2",
+				"percent": 0.260416666666667
+			}
+		},
+		"calories": 250.0,
+		"protein": 9.0,
+		"fat": 2.0,
+		"carb": 49.0,
+		"total_g": 205.53404265625
+	},
+	"roasted potatoes": {
+		"location": "inspired eats",
+		"time": "lunch",
+		"day": "tuesday",
+		"ingredients": {
+			"wholegrain wheat": {
+				"name": "wholegrain wheat",
+				"percent": 42.0
+			},
+			"wholegrain rolled oats": {
+				"name": "wholegrain rolled oats",
+				"percent": 36.0
+			},
+			"raisins": {
+				"name": "raisins",
+				"percent": 15.0
+			},
+			"skimmed milk powder": {
+				"name": "skimmed milk powder",
+				"percent": 3.5
+			},
+			"milk whey powder": {
+				"name": "milk whey powder",
+				"percent": 1.75
+			},
+			"nuts": {
+				"name": "nuts",
+				"percent": 1.75
+			},
+			"malted barley extract": {
+				"name": "malted barley extract",
+				"percent": 0.0
+			},
+			"salt": {
+				"name": "salt",
+				"percent": 0.0
+			},
+			"hazelnuts": {
+				"name": "hazelnuts",
+				"percent": 0.875
+			},
+			"almonds": {
+				"name": "almonds",
+				"percent": 0.875
+			}
+		},
+		"calories": 375.0,
+		"protein": 11.0,
+		"fat": 6.2,
+		"carb": 65.0,
+		"total_g": 560.0
+	},
+	"gluten free penne": {
+		"location": "inspired eats",
+		"time": "lunch",
+		"day": "wednesday",
+		"ingredients": {
+			"white corn flour": {
+				"name": "white corn flour",
+				"percent": 60.0
+			},
+			"of corn": {
+				"name": "of corn",
+				"percent": 20.0
+			},
+			"yellow": {
+				"name": "yellow",
+				"percent": 20.0
+			},
+			"brown rice flour": {
+				"name": "brown rice flour",
+				"percent": 0.0
+			},
+			"water": {
+				"name": "water",
+				"percent": 0.0
+			},
+			"emulsifier": {
+				"name": "emulsifier",
+				"percent": 0.0
+			},
+			"mono- and diglycerides of fatty acids": {
+				"name": "mono- and diglycerides of fatty acids",
+				"percent": 0.0
+			}
+		},
+		"calories": 363.0,
+		"protein": 6.9,
+		"fat": 1.5,
+		"carb": 79.6,
+		"total_g": 400.0
+	},
+	"white rice": {
+		"location": "inspired eats",
+		"time": "dinner",
+		"day": "monday",
+		"ingredients": {
+			"riz long grain": {
+				"name": "riz long grain",
+				"percent": 100.0
+			}
+		},
+		"calories": 359.0,
+		"protein": 7.4,
+		"fat": 0.3,
+		"carb": 81.3,
+		"total_g": 1000.0
+	},
+	"gluten free pasta": {
+		"location": "inspired eats",
+		"time": "lunch",
+		"day": "saturday",
+		"ingredients": {
+			"white corn flour": {
+				"name": "white corn flour",
+				"percent": 60.0
+			},
+			"of corn": {
+				"name": "of corn",
+				"percent": 20.0
+			},
+			"yellow": {
+				"name": "yellow",
+				"percent": 20.0
+			},
+			"brown rice flour": {
+				"name": "brown rice flour",
+				"percent": 0.0
+			},
+			"water": {
+				"name": "water",
+				"percent": 0.0
+			},
+			"emulsifier": {
+				"name": "emulsifier",
+				"percent": 0.0
+			},
+			"mono- and diglycerides of fatty acids": {
+				"name": "mono- and diglycerides of fatty acids",
+				"percent": 0.0
+			}
+		},
+		"calories": 363.0,
+		"protein": 6.9,
+		"fat": 1.5,
+		"carb": 79.6,
+		"total_g": 400.0
+	},
+	"peas and mushrooms": {
+		"location": "inspired eats",
+		"time": "lunch",
+		"day": "saturday",
+		"ingredients": {
+			"noodles": {
+				"name": "noodles",
+				"percent": 18.0
+			},
+			"cooked beef strips": {
+				"name": "cooked beef strips",
+				"percent": 18.0
+			},
+			"water": {
+				"name": "water",
+				"percent": 2.5375
+			},
+			"dark soy sauce": {
+				"name": "dark soy sauce",
+				"percent": 7.0
+			},
+			"spring onion": {
+				"name": "spring onion",
+				"percent": 7.0
+			},
+			"carrot batons": {
+				"name": "carrot batons",
+				"percent": 7.0
+			},
+			"mushrooms": {
+				"name": "mushrooms",
+				"percent": 7.0
+			},
+			"sugar snap peas": {
+				"name": "sugar snap peas",
+				"percent": 4.5
+			},
+			"water chestnuts": {
+				"name": "water chestnuts",
+				"percent": 4.5
+			},
+			"garlic pur\u00e9e": {
+				"name": "garlic pur\u00e9e",
+				"percent": 1.96875
+			},
+			"red pepper": {
+				"name": "red pepper",
+				"percent": 1.65625
+			},
+			"yellow pepper": {
+				"name": "yellow pepper",
+				"percent": 1.39910714285714
+			},
+			"ginger": {
+				"name": "ginger",
+				"percent": 1.17593344155844
+			},
+			"tomato paste": {
+				"name": "tomato paste",
+				"percent": 1.07793898809524
+			},
+			"red chillies": {
+				"name": "red chillies",
+				"percent": 0.995020604395604
+			},
+			"maize starch": {
+				"name": "maize starch",
+				"percent": 0.923947704081632
+			},
+			"vegetable bouillon": {
+				"name": "vegetable bouillon",
+				"percent": 0.86235119047619
+			},
+			"rice vinegar": {
+				"name": "rice vinegar",
+				"percent": 0.808454241071428
+			},
+			"yeast extract": {
+				"name": "yeast extract",
+				"percent": 0.431175595238095
+			},
+			"_barley_ malt extract": {
+				"name": "_barley_ malt extract",
+				"percent": 0.718625992063492
+			},
+			"tomato": {
+				"name": "tomato",
+				"percent": 0.0134742373511905
+			},
+			"flavouring": {
+				"name": "flavouring",
+				"percent": 0.107793898809524
+			},
+			"spices": {
+				"name": "spices",
+				"percent": 0.412577810935709
+			},
+			"garlic": {
+				"name": "garlic",
+				"percent": 0.206288905467858
+			},
+			"sweetener": {
+				"name": "sweetener",
+				"percent": 0.206288905467858
+			},
+			"_wheat_ flour": {
+				"name": "_wheat_ flour",
+				"percent": 3.375
+			},
+			"durum _wheat_ flour": {
+				"name": "durum _wheat_ flour",
+				"percent": 1.6875
+			},
+			"salt": {
+				"name": "salt",
+				"percent": 0.503125
+			},
+			"beef": {
+				"name": "beef",
+				"percent": 17.82
+			},
+			"soy sauce": {
+				"name": "soy sauce",
+				"percent": 4.55
+			},
+			"sugar": {
+				"name": "sugar",
+				"percent": 1.0
+			},
+			"vegetable stock": {
+				"name": "vegetable stock",
+				"percent": 0.107793898809524
+			},
+			"sucralose": {
+				"name": "sucralose",
+				"percent": 0.206288905467858
+			},
+			"_soya_ beans": {
+				"name": "_soya_ beans",
+				"percent": 1.00625
+			},
+			"_wheat_": {
+				"name": "_wheat_",
+				"percent": 0.503125
+			},
+			"onion": {
+				"name": "onion",
+				"percent": 0.0538969494047619
+			},
+			"carrot extract": {
+				"name": "carrot extract",
+				"percent": 0.0269484747023809
+			},
+			"dried lovage": {
+				"name": "dried lovage",
+				"percent": 0.00673711867559523
+			},
+			"thyme": {
+				"name": "thyme",
+				"percent": 0.00336855933779762
+			},
+			"bay leaf": {
+				"name": "bay leaf",
+				"percent": 0.00336855933779762
+			}
+		},
+		"calories": 87.0,
+		"protein": 9.4,
+		"fat": 0.5,
+		"carb": 10.1,
+		"total_g": 550.0
+	},
+	"bbq beef brisket": {
+		"location": "loyola diner",
+		"time": "dinner",
+		"day": "thursday",
+		"ingredients": {
+			"beef brisket": {
+				"name": "beef brisket",
+				"percent": 61.0
+			},
+			"barbecue sauce": {
+				"name": "barbecue sauce",
+				"percent": 25.0
+			},
+			"water": {
+				"name": "water",
+				"percent": 13.125
+			},
+			"sugar": {
+				"name": "sugar",
+				"percent": 1.484375
+			},
+			"cornflour": {
+				"name": "cornflour",
+				"percent": 0.37109375
+			},
+			"garlic": {
+				"name": "garlic",
+				"percent": 0.023193359375
+			},
+			"smoked paprika": {
+				"name": "smoked paprika",
+				"percent": 0.403846153846153
+			},
+			"salt": {
+				"name": "salt",
+				"percent": 0.00579833984375
+			},
+			"black pepper": {
+				"name": "black pepper",
+				"percent": 0.002899169921875
+			},
+			"onion": {
+				"name": "onion",
+				"percent": 0.04638671875
+			},
+			"cayenne pepper": {
+				"name": "cayenne pepper",
+				"percent": 0.000362396240234375
+			},
+			"ginger": {
+				"name": "ginger",
+				"percent": 9.05990600585938e-05
+			},
+			"caramelised sugar": {
+				"name": "caramelised sugar",
+				"percent": 0.000181198120117188
+			},
+			"rapeseed oil": {
+				"name": "rapeseed oil",
+				"percent": 0.0031550480769198
+			},
+			"paprika extract": {
+				"name": "paprika extract",
+				"percent": 0.0031550480769198
+			},
+			"brown sugar": {
+				"name": "brown sugar",
+				"percent": 5.9375
+			},
+			"spirit vinegar": {
+				"name": "spirit vinegar",
+				"percent": 2.96875
+			},
+			"tomato pur\u00e9e": {
+				"name": "tomato pur\u00e9e",
+				"percent": 0.7421875
+			},
+			"whiskey": {
+				"name": "whiskey",
+				"percent": 0.185546875
+			},
+			"molasses": {
+				"name": "molasses",
+				"percent": 0.0927734375
+			},
+			"paprika": {
+				"name": "paprika",
+				"percent": 0.0115966796875
+			},
+			"allspice": {
+				"name": "allspice",
+				"percent": 0.0014495849609375
+			},
+			"tamarind": {
+				"name": "tamarind",
+				"percent": 0.00072479248046875
+			},
+			"concentrated lemon juice": {
+				"name": "concentrated lemon juice",
+				"percent": 4.52995300292969e-05
+			},
+			"clove": {
+				"name": "clove",
+				"percent": 4.52995300292969e-05
+			}
+		},
+		"calories": 175.0,
+		"protein": 27.6,
+		"fat": 1.5,
+		"carb": 12.2,
+		"total_g": 400.0
+	},
+	"honey baked ham": {
+		"location": "loyola diner",
+		"time": "dinner",
+		"day": "tuesday",
+		"ingredients": {},
+		"calories": 413.0,
+		"protein": 6.0,
+		"fat": 5.7,
+		"carb": 83.8,
+		"total_g": 100.0
+	},
+	"eggplant parmesan": {
+		"location": "loyola diner",
+		"time": "dinner",
+		"day": "monday",
+		"ingredients": {},
+		"calories": 176.13636363636,
+		"protein": 6.8181818181818,
+		"fat": 3.9772727272727,
+		"carb": 26.704545454545,
+		"total_g": 1927.7675725
+	},
+	"jasmine rice": {
+		"location": "loyola diner",
+		"time": "dinner",
+		"day": "thursday",
+		"ingredients": {
+			"natural jasmine rice": {
+				"name": "natural jasmine rice",
+				"percent": 75.0
+			},
+			"rice bran oil": {
+				"name": "rice bran oil",
+				"percent": 25.0
+			}
+		},
+		"calories": 175.0,
+		"protein": 3.2,
+		"fat": 2.3,
+		"carb": 35.3,
+		"total_g": 250.0
+	},
+	"mashed sweet potatoes": {
+		"location": "loyola diner",
+		"time": "dinner",
+		"day": "saturday",
+		"ingredients": {
+			"patate douce": {
+				"name": "patate douce",
+				"percent": 43.0
+			},
+			"pommes de terre": {
+				"name": "pommes de terre",
+				"percent": 31.0
+			},
+			"courge butternut": {
+				"name": "courge butternut",
+				"percent": 15.0
+			},
+			"cr\u00e8me": {
+				"name": "cr\u00e8me",
+				"percent": 5.0
+			},
+			"beurre": {
+				"name": "beurre",
+				"percent": 5.0
+			},
+			"sel": {
+				"name": "sel",
+				"percent": 0.75
+			},
+			"poivre": {
+				"name": "poivre",
+				"percent": 0.25
+			}
+		},
+		"calories": 120.0,
+		"protein": 1.6,
+		"fat": 6.0,
+		"carb": 14.0,
+		"total_g": 400.0
+	},
+	"roasted cauliflower": {
+		"location": "loyola diner",
+		"time": "dinner",
+		"day": "wednesday",
+		"ingredients": {
+			"Fibre Enriched White Bread with Black Onion Seeds": {
+				"name": "Fibre Enriched White Bread with Black Onion Seeds",
+				"percent": 45.0
+			},
+			"Onion Bhaji": {
+				"name": "Onion Bhaji",
+				"percent": 20.0
+			},
+			"Carrot": {
+				"name": "Carrot",
+				"percent": 8.0
+			},
+			"Spiced Cauliflower and Sweet Potato Pur\u00e9e": {
+				"name": "Spiced Cauliflower and Sweet Potato Pur\u00e9e",
+				"percent": 8.0
+			},
+			"Mango and Apricot Chutney": {
+				"name": "Mango and Apricot Chutney",
+				"percent": 8.0
+			},
+			"Sugar": {
+				"name": "Sugar",
+				"percent": 0.0
+			},
+			"Mango Pur\u00e9e": {
+				"name": "Mango Pur\u00e9e",
+				"percent": 2.75
+			},
+			"Apricot": {
+				"name": "Apricot",
+				"percent": 0.0859375
+			},
+			"Malt Vinegar": {
+				"name": "Malt Vinegar",
+				"percent": 0.6875
+			},
+			"Apple": {
+				"name": "Apple",
+				"percent": 0.34375
+			},
+			"Dried Apricot": {
+				"name": "Dried Apricot",
+				"percent": 0.171875
+			},
+			"Dried Onion": {
+				"name": "Dried Onion",
+				"percent": 0.0859375
+			},
+			"Mango": {
+				"name": "Mango",
+				"percent": 0.04296875
+			},
+			"Coriander Leaf": {
+				"name": "Coriander Leaf",
+				"percent": 0.625
+			},
+			"Salt": {
+				"name": "Salt",
+				"percent": 0.0
+			},
+			"Ginger": {
+				"name": "Ginger",
+				"percent": 0.0048828125
+			},
+			"Ground Ginger": {
+				"name": "Ground Ginger",
+				"percent": 0.002685546875
+			},
+			"Coriander": {
+				"name": "Coriander",
+				"percent": 0.01953125
+			},
+			"Garlic": {
+				"name": "Garlic",
+				"percent": 0.00067138671875
+			},
+			"Apollo Lettuce": {
+				"name": "Apollo Lettuce",
+				"percent": 0.00067138671875
+			},
+			"Steam Roasted Pickled Beetroot": {
+				"name": "Steam Roasted Pickled Beetroot",
+				"percent": 0.0
+			},
+			"Fried Onions": {
+				"name": "Fried Onions",
+				"percent": 0.0
+			},
+			"Fortified Wheat Flour": {
+				"name": "Fortified Wheat Flour",
+				"percent": 1.25
+			},
+			"Water": {
+				"name": "Water",
+				"percent": 11.25
+			},
+			"_Wheat_ Fibre": {
+				"name": "_Wheat_ Fibre",
+				"percent": 5.625
+			},
+			"Black Onion Seeds": {
+				"name": "Black Onion Seeds",
+				"percent": 2.8125
+			},
+			"Yeast": {
+				"name": "Yeast",
+				"percent": 1.40625
+			},
+			"Emulsifiers": {
+				"name": "Emulsifiers",
+				"percent": 0.3515625
+			},
+			"_Wheat_ Protein": {
+				"name": "_Wheat_ Protein",
+				"percent": 0.17578125
+			},
+			"Rapeseed Oil": {
+				"name": "Rapeseed Oil",
+				"percent": 5.0
+			},
+			"Flour Treatment Agent": {
+				"name": "Flour Treatment Agent",
+				"percent": 0.0439453125
+			},
+			"_Wheat_ Flour": {
+				"name": "_Wheat_ Flour",
+				"percent": 0.625
+			},
+			"_Wheat_ Starch": {
+				"name": "_Wheat_ Starch",
+				"percent": 0.02197265625
+			},
+			"Onion": {
+				"name": "Onion",
+				"percent": 0.0
+			},
+			"Gram Flour": {
+				"name": "Gram Flour",
+				"percent": 2.5
+			},
+			"Fenugreek": {
+				"name": "Fenugreek",
+				"percent": 0.078125
+			},
+			"Garam Masala": {
+				"name": "Garam Masala",
+				"percent": 0.0390625
+			},
+			"Cumin": {
+				"name": "Cumin",
+				"percent": 0.009765625
+			},
+			"Cumin Seeds": {
+				"name": "Cumin Seeds",
+				"percent": 0.009765625
+			},
+			"Chilli": {
+				"name": "Chilli",
+				"percent": 0.0048828125
+			},
+			"Raising Agent": {
+				"name": "Raising Agent",
+				"percent": 0.00244140625
+			},
+			"Turmeric": {
+				"name": "Turmeric",
+				"percent": 0.5
+			},
+			"Cauliflower": {
+				"name": "Cauliflower",
+				"percent": 4.0
+			},
+			"Sweet Potato": {
+				"name": "Sweet Potato",
+				"percent": 2.0
+			},
+			"Coriander Seeds": {
+				"name": "Coriander Seeds",
+				"percent": 0.5
+			},
+			"_Barley_": {
+				"name": "_Barley_",
+				"percent": 0.6875
+			},
+			"Rice Flour": {
+				"name": "Rice Flour",
+				"percent": 0.04296875
+			},
+			"Preservative": {
+				"name": "Preservative",
+				"percent": 0.04296875
+			},
+			"Beetroot": {
+				"name": "Beetroot",
+				"percent": 0.0
+			},
+			"White Wine Vinegar": {
+				"name": "White Wine Vinegar",
+				"percent": 0.0
+			},
+			"Palm Oil": {
+				"name": "Palm Oil",
+				"percent": 0.0
+			},
+			"Calcium carbonate": {
+				"name": "Calcium carbonate",
+				"percent": 0.3125
+			},
+			"Iron": {
+				"name": "Iron",
+				"percent": 0.15625
+			},
+			"Niacin": {
+				"name": "Niacin",
+				"percent": 0.078125
+			},
+			"Thiamin": {
+				"name": "Thiamin",
+				"percent": 0.078125
+			},
+			"mono- and diglycerides of fatty acids": {
+				"name": "mono- and diglycerides of fatty acids",
+				"percent": 0.17578125
+			},
+			"mono- and diacetyl tartaric acid esters of mono- and diglycerides of fatty acids": {
+				"name": "mono- and diacetyl tartaric acid esters of mono- and diglycerides of fatty acids",
+				"percent": 0.17578125
+			},
+			"Ascorbic acid": {
+				"name": "Ascorbic acid",
+				"percent": 0.0439453125
+			},
+			"Maize Flour": {
+				"name": "Maize Flour",
+				"percent": 1.25
+			},
+			"Tyson Peas": {
+				"name": "Tyson Peas",
+				"percent": 0.625
+			},
+			"Yellow Split Peas": {
+				"name": "Yellow Split Peas",
+				"percent": 0.625
+			},
+			"Black Pepper": {
+				"name": "Black Pepper",
+				"percent": 0.00244140625
+			},
+			"Cloves": {
+				"name": "Cloves",
+				"percent": 0.001220703125
+			},
+			"Cardamom": {
+				"name": "Cardamom",
+				"percent": 0.0006103515625
+			},
+			"Nutmeg": {
+				"name": "Nutmeg",
+				"percent": 0.00030517578125
+			},
+			"Star Anise": {
+				"name": "Star Anise",
+				"percent": 0.00030517578125
+			},
+			"Sodium hydrogen carbonate": {
+				"name": "Sodium hydrogen carbonate",
+				"percent": 0.00244140625
+			}
+		},
+		"calories": 185.0,
+		"protein": 5.7,
+		"fat": 3.3,
+		"carb": 31.0,
+		"total_g": 200.0
+	},
+	"mexican corn": {
+		"location": "loyola diner",
+		"time": "dinner",
+		"day": "friday",
+		"ingredients": {
+			"Yellow corn masa flour": {
+				"name": "Yellow corn masa flour",
+				"percent": 56.25
+			},
+			"water": {
+				"name": "water",
+				"percent": 21.875
+			},
+			"contains 2% and less of": {
+				"name": "contains 2% and less of",
+				"percent": 10.9375
+			},
+			"guar gum": {
+				"name": "guar gum",
+				"percent": 5.46875
+			},
+			"amylase": {
+				"name": "amylase",
+				"percent": 2.734375
+			},
+			"and propionic acid": {
+				"name": "and propionic acid",
+				"percent": 1.3671875
+			},
+			"benzoic acid": {
+				"name": "benzoic acid",
+				"percent": 0.68359375
+			},
+			"phosphoric acid": {
+				"name": "phosphoric acid",
+				"percent": 0.68359375
+			},
+			"cellulose gum": {
+				"name": "cellulose gum",
+				"percent": 10.9375
+			},
+			"to maintain freshness": {
+				"name": "to maintain freshness",
+				"percent": 0.68359375
+			}
+		},
+		"calories": 214.0,
+		"protein": 5.36,
+		"fat": 2.68,
+		"carb": 42.86,
+		"total_g": 453.59237
+	},
+	"green beans": {
+		"location": "loyola diner",
+		"time": "dinner",
+		"day": "sunday",
+		"ingredients": {
+			"Haricots verts extra-fins": {
+				"name": "Haricots verts extra-fins",
+				"percent": 54.0
+			},
+			"eau": {
+				"name": "eau",
+				"percent": 45.21
+			},
+			"sel": {
+				"name": "sel",
+				"percent": 0.394999999999996
+			},
+			"oignon grelot": {
+				"name": "oignon grelot",
+				"percent": 0.394999999999996
+			}
+		},
+		"calories": 20.0,
+		"protein": 1.4,
+		"fat": 0.1,
+		"carb": 2.3,
+		"total_g": 200.0
+	},
+	"peas": {
+		"location": "loyola diner",
+		"time": "dinner",
+		"day": "wednesday",
+		"ingredients": {
+			"Lentil Flour": {
+				"name": "Lentil Flour",
+				"percent": 76.0
+			},
+			"Rapeseed Oil": {
+				"name": "Rapeseed Oil",
+				"percent": 11.1
+			},
+			"Beetroot Balsamic Seasoning": {
+				"name": "Beetroot Balsamic Seasoning",
+				"percent": 7.2
+			},
+			"Green Peas": {
+				"name": "Green Peas",
+				"percent": 5.7
+			},
+			"Sugar": {
+				"name": "Sugar",
+				"percent": 2.86079991655345
+			},
+			"Salt": {
+				"name": "Salt",
+				"percent": 0.83800001192095
+			},
+			"Onion": {
+				"name": "Onion",
+				"percent": 0.83800001192095
+			},
+			"Natural Flavour": {
+				"name": "Natural Flavour",
+				"percent": 0.83800001192095
+			},
+			"Beetroot Red": {
+				"name": "Beetroot Red",
+				"percent": 0.576
+			},
+			"Garlic": {
+				"name": "Garlic",
+				"percent": 0.3132
+			},
+			"Black Pepper": {
+				"name": "Black Pepper",
+				"percent": 0.3132
+			},
+			"Balsamic Vinegar": {
+				"name": "Balsamic Vinegar",
+				"percent": 0.622800047683699
+			}
+		},
+		"calories": 424.0,
+		"protein": 25.0,
+		"fat": 12.0,
+		"carb": 51.0,
+		"total_g": 122.0
+	},
+	"kale": {
+		"location": "loyola diner",
+		"time": "dinner",
+		"day": "friday",
+		"ingredients": {
+			"Potato Starch": {
+				"name": "Potato Starch",
+				"percent": 53.1454545454545
+			},
+			"Rapeseed Vegetable Oil": {
+				"name": "Rapeseed Vegetable Oil",
+				"percent": 23.6272727272727
+			},
+			"Sunflower Vegetable Oil": {
+				"name": "Sunflower Vegetable Oil",
+				"percent": 11.8136363636364
+			},
+			"Potato": {
+				"name": "Potato",
+				"percent": 5.90681818181818
+			},
+			"Salt": {
+				"name": "Salt",
+				"percent": 0.9
+			},
+			"Tomato": {
+				"name": "Tomato",
+				"percent": 0.4
+			},
+			"Kale": {
+				"name": "Kale",
+				"percent": 0.4
+			},
+			"Stabiliser": {
+				"name": "Stabiliser",
+				"percent": 0.3
+			},
+			"Spinach Powder": {
+				"name": "Spinach Powder",
+				"percent": 0.2
+			},
+			"Beetroot": {
+				"name": "Beetroot",
+				"percent": 0.1
+			},
+			"Turmeric": {
+				"name": "Turmeric",
+				"percent": 3.20681818181816
+			},
+			"Calcium Chloride": {
+				"name": "Calcium Chloride",
+				"percent": 0.3
+			}
+		},
+		"calories": 540.0,
+		"protein": 2.9,
+		"fat": 31.3,
+		"carb": 60.5,
+		"total_g": 113.0
+	},
+	"beef stew": {
+		"location": "inspired eats",
+		"time": "dinner",
+		"day": "saturday",
+		"ingredients": {
+			"precooked potatoes": {
+				"name": "precooked potatoes",
+				"percent": 28.0
+			},
+			"beef prepared in pre-cooked cured meat": {
+				"name": "beef prepared in pre-cooked cured meat",
+				"percent": 25.0
+			},
+			"carrots": {
+				"name": "carrots",
+				"percent": 16.0
+			},
+			"water": {
+				"name": "water",
+				"percent": 11.12
+			},
+			"red wine": {
+				"name": "red wine",
+				"percent": 5.0
+			},
+			"double tomato concentrate": {
+				"name": "double tomato concentrate",
+				"percent": 3.25
+			},
+			"onions": {
+				"name": "onions",
+				"percent": 1.5
+			},
+			"modified corn starch": {
+				"name": "modified corn starch",
+				"percent": 0.884615384615385
+			},
+			"pig blood": {
+				"name": "pig blood",
+				"percent": 0.833333333333333
+			},
+			"flavors": {
+				"name": "flavors",
+				"percent": 0.75
+			},
+			"smoke aroma": {
+				"name": "smoke aroma",
+				"percent": 0.75
+			},
+			"sugar": {
+				"name": "sugar",
+				"percent": 0.45
+			},
+			"shallots": {
+				"name": "shallots",
+				"percent": 0.45
+			},
+			"salt": {
+				"name": "salt",
+				"percent": 0.39
+			},
+			"rapeseed oil": {
+				"name": "rapeseed oil",
+				"percent": 0.39
+			},
+			"thyme": {
+				"name": "thyme",
+				"percent": 0.39
+			},
+			"garlic": {
+				"name": "garlic",
+				"percent": 0.39
+			},
+			"pepper": {
+				"name": "pepper",
+				"percent": 0.39
+			},
+			"beef of european union": {
+				"name": "beef of european union",
+				"percent": 0.39
+			},
+			"packaged under a protective atmosphere": {
+				"name": "packaged under a protective atmosphere",
+				"percent": 3.67205128205127
+			},
+			"beef": {
+				"name": "beef",
+				"percent": 23.83
+			},
+			"stabilizers": {
+				"name": "stabilizers",
+				"percent": 0.39
+			},
+			"polyphosphates": {
+				"name": "polyphosphates",
+				"percent": 0.390000000000001
+			},
+			"including milk": {
+				"name": "including milk",
+				"percent": 0.75
+			},
+			"triphosphates": {
+				"name": "triphosphates",
+				"percent": 0.39
+			}
+		},
+		"calories": 72.0,
+		"protein": 6.7,
+		"fat": 1.2,
+		"carb": 7.9,
+		"total_g": 300.0
+	},
+	"carved turkey breast": {
+		"location": "inspired eats",
+		"time": "dinner",
+		"day": "sunday",
+		"ingredients": {
+			"Turkey Breast": {
+				"name": "Turkey Breast",
+				"percent": 72.81
+			},
+			"Maize Starch": {
+				"name": "Maize Starch",
+				"percent": 13.595
+			},
+			"Salt": {
+				"name": "Salt",
+				"percent": 0.365
+			},
+			"Pea Protein": {
+				"name": "Pea Protein",
+				"percent": 0.365
+			},
+			"Spirit Vinegar": {
+				"name": "Spirit Vinegar",
+				"percent": 0.365
+			},
+			"Rice Starch": {
+				"name": "Rice Starch",
+				"percent": 0.365
+			},
+			"Yeast Extract": {
+				"name": "Yeast Extract",
+				"percent": 0.365
+			},
+			"Dextrose": {
+				"name": "Dextrose",
+				"percent": 11.77
+			}
+		},
+		"calories": 125.0,
+		"protein": 28.0,
+		"fat": 1.4,
+		"carb": 0.5,
+		"total_g": 100.0
+	},
+	"sweet potatoe": {
+		"location": "inspired eats",
+		"time": "dinner",
+		"day": "tuesday",
+		"ingredients": {
+			"wholegrain wheat": {
+				"name": "wholegrain wheat",
+				"percent": 94.0
+			},
+			"barley malt extract": {
+				"name": "barley malt extract",
+				"percent": 3.81
+			},
+			"sugar": {
+				"name": "sugar",
+				"percent": 1.095
+			},
+			"salt": {
+				"name": "salt",
+				"percent": 0.115
+			},
+			"niacin": {
+				"name": "niacin",
+				"percent": 0.115
+			},
+			"iron": {
+				"name": "iron",
+				"percent": 0.115
+			},
+			"riboflavin": {
+				"name": "riboflavin",
+				"percent": 0.115
+			},
+			"thiamin": {
+				"name": "thiamin",
+				"percent": 0.115
+			},
+			"folic acid": {
+				"name": "folic acid",
+				"percent": 0.520000000000024
+			}
+		},
+		"calories": 362.0,
+		"protein": 12.7,
+		"fat": 2.3,
+		"carb": 67.8,
+		"total_g": 720.0
+	},
+	"wild rice": {
+		"location": "inspired eats",
+		"time": "dinner",
+		"day": "wednesday",
+		"ingredients": {
+			"Natural Wholegrain Basmati Rice Steamed": {
+				"name": "Natural Wholegrain Basmati Rice Steamed",
+				"percent": 89.0
+			},
+			"Natural Wild Rice Steamed": {
+				"name": "Natural Wild Rice Steamed",
+				"percent": 10.0
+			},
+			"Rice Bran Oil": {
+				"name": "Rice Bran Oil",
+				"percent": 0.75
+			},
+			"Acacia Fibre": {
+				"name": "Acacia Fibre",
+				"percent": 0.25
+			}
+		},
+		"calories": 127.0,
+		"protein": 3.4,
+		"fat": 1.9,
+		"carb": 22.8,
+		"total_g": 250.0
+	},
+	"spicy potatoes": {
+		"location": "inspired eats",
+		"time": "dinner",
+		"day": "thursday",
+		"ingredients": {
+			"NOODLES": {
+				"name": "NOODLES",
+				"percent": 89.0
+			},
+			"Kartoffelst\u00e4rke": {
+				"name": "Kartoffelst\u00e4rke",
+				"percent": 5.5
+			},
+			"Palm\u00f6l": {
+				"name": "Palm\u00f6l",
+				"percent": 2.75
+			},
+			"Salz": {
+				"name": "Salz",
+				"percent": 8.392333984375e-05
+			},
+			"S\u00e4ureregulatoren": {
+				"name": "S\u00e4ureregulatoren",
+				"percent": 0.6875
+			},
+			"e500": {
+				"name": "e500",
+				"percent": 0.34375
+			},
+			"e339": {
+				"name": "e339",
+				"percent": 0.171875
+			},
+			"Antioxidationsmittel": {
+				"name": "Antioxidationsmittel",
+				"percent": 0.0859375
+			},
+			"Emulgator": {
+				"name": "Emulgator",
+				"percent": 0.04296875
+			},
+			"e322": {
+				"name": "e322",
+				"percent": 0.021484375
+			},
+			"W\u00fcrzmittel": {
+				"name": "W\u00fcrzmittel",
+				"percent": 0.000335693359375
+			},
+			"Gr\u00fcner Tee-Extrakt": {
+				"name": "Gr\u00fcner Tee-Extrakt",
+				"percent": 0.00537109375
+			},
+			"Farbstoff": {
+				"name": "Farbstoff",
+				"percent": 0.002685546875
+			},
+			"Geschmacksverst\u00e4rker": {
+				"name": "Geschmacksverst\u00e4rker",
+				"percent": 0.0001678466796875
+			},
+			"e627": {
+				"name": "e627",
+				"percent": 8.392333984375e-05
+			},
+			"e631": {
+				"name": "e631",
+				"percent": 4.1961669921875e-05
+			},
+			"Zucker": {
+				"name": "Zucker",
+				"percent": 2.09808349609375e-05
+			},
+			"Glukose": {
+				"name": "Glukose",
+				"percent": 1.04904174804688e-05
+			},
+			"Shiitake": {
+				"name": "Shiitake",
+				"percent": 0.0
+			},
+			"GEM\u00dcSE-PILZ-FLOCKEN": {
+				"name": "GEM\u00dcSE-PILZ-FLOCKEN",
+				"percent": 5.24520874023438e-06
+			},
+			"texturiertes pflanzliches Eiwei\u00df": {
+				"name": "texturiertes pflanzliches Eiwei\u00df",
+				"percent": 0.0
+			},
+			"Karotten": {
+				"name": "Karotten",
+				"percent": 0.0
+			},
+			"rote Chilischoten": {
+				"name": "rote Chilischoten",
+				"percent": 4.1961669921875e-05
+			},
+			"Zwiebeln": {
+				"name": "Zwiebeln",
+				"percent": 0.0
+			},
+			"Weizenmehl": {
+				"name": "Weizenmehl",
+				"percent": 8.392333984375e-05
+			},
+			"e501": {
+				"name": "e501",
+				"percent": 0.6875
+			},
+			"e306": {
+				"name": "e306",
+				"percent": 0.0859375
+			},
+			"Hefeextrakt": {
+				"name": "Hefeextrakt",
+				"percent": 0.0001678466796875
+			},
+			"Sojabohnen": {
+				"name": "Sojabohnen",
+				"percent": 0.002685546875
+			},
+			"Knoblauch": {
+				"name": "Knoblauch",
+				"percent": 2.09808349609375e-05
+			},
+			"Weizenst\u00e4rke": {
+				"name": "Weizenst\u00e4rke",
+				"percent": 0.0013427734375
+			},
+			"e101": {
+				"name": "e101",
+				"percent": 0.0013427734375
+			},
+			"W\u00dcRZPULVER": {
+				"name": "W\u00dcRZPULVER",
+				"percent": 0.0013427734375
+			},
+			"hydrolysiertes Sojaprotein": {
+				"name": "hydrolysiertes Sojaprotein",
+				"percent": 0.00067138671875
+			},
+			"Maltodextrin": {
+				"name": "Maltodextrin",
+				"percent": 0.0001678466796875
+			},
+			"schwarzer Pfeffer": {
+				"name": "schwarzer Pfeffer",
+				"percent": 8.392333984375e-05
+			},
+			"Maismehl": {
+				"name": "Maismehl",
+				"percent": 2.09808349609375e-05
+			},
+			"e621": {
+				"name": "e621",
+				"percent": 0.0001678466796875
+			},
+			"Pak-Choi": {
+				"name": "Pak-Choi",
+				"percent": 5.24520874023438e-06
+			},
+			"Soja": {
+				"name": "Soja",
+				"percent": 0.0
+			},
+			"Weizengluten": {
+				"name": "Weizengluten",
+				"percent": 0.0
+			}
+		},
+		"calories": 422.0,
+		"protein": 8.2,
+		"fat": 13.0,
+		"carb": 68.0,
+		"total_g": 120.0
+	},
+	"spaghetti squash": {
+		"location": "inspired eats",
+		"time": "dinner",
+		"day": "tuesday",
+		"ingredients": {
+			"Sweet Chilli Sauce": {
+				"name": "Sweet Chilli Sauce",
+				"percent": 33.0
+			},
+			"Vegetable Mix": {
+				"name": "Vegetable Mix",
+				"percent": 33.0
+			},
+			"Butternut Squash Spaghetti": {
+				"name": "Butternut Squash Spaghetti",
+				"percent": 18.0
+			},
+			"Chicken Breast": {
+				"name": "Chicken Breast",
+				"percent": 15.695
+			},
+			"Water": {
+				"name": "Water",
+				"percent": 0.242647058823529
+			},
+			"Pineapple": {
+				"name": "Pineapple",
+				"percent": 7.76470588235294
+			},
+			"Red Pepper": {
+				"name": "Red Pepper",
+				"percent": 3.88235294117647
+			},
+			"Yellow Pepper": {
+				"name": "Yellow Pepper",
+				"percent": 1.94117647058824
+			},
+			"Cornflour": {
+				"name": "Cornflour",
+				"percent": 0.970588235294118
+			},
+			"Light Soy Sauce": {
+				"name": "Light Soy Sauce",
+				"percent": 0.485294117647058
+			},
+			"Garlic": {
+				"name": "Garlic",
+				"percent": 0.242647058823529
+			},
+			"Ginger": {
+				"name": "Ginger",
+				"percent": 0.121323529411764
+			},
+			"Red Chillies": {
+				"name": "Red Chillies",
+				"percent": 0.00047392003676805
+			},
+			"Tomato Paste": {
+				"name": "Tomato Paste",
+				"percent": 0.030330882352942
+			},
+			"Sweetener": {
+				"name": "Sweetener",
+				"percent": 0.015165441176471
+			},
+			"Lemon Juice form Concentrate": {
+				"name": "Lemon Juice form Concentrate",
+				"percent": 0.0075827205882355
+			},
+			"White Wine Vinegar": {
+				"name": "White Wine Vinegar",
+				"percent": 0.00379136029411598
+			},
+			"Molasses": {
+				"name": "Molasses",
+				"percent": 0.00189568014705799
+			},
+			"Salt": {
+				"name": "Salt",
+				"percent": 0.0606617647058822
+			},
+			"Paprika Extract": {
+				"name": "Paprika Extract",
+				"percent": 0.000473920036764497
+			},
+			"Edamame Beans": {
+				"name": "Edamame Beans",
+				"percent": 11.0
+			},
+			"Carrot": {
+				"name": "Carrot",
+				"percent": 11.0
+			},
+			"Green Cabbage": {
+				"name": "Green Cabbage",
+				"percent": 11.0
+			},
+			"_Soya_ Bean": {
+				"name": "_Soya_ Bean",
+				"percent": 0.121323529411764
+			},
+			"_Wheat_ Flour": {
+				"name": "_Wheat_ Flour",
+				"percent": 0.0606617647058822
+			},
+			"Steviol Glycosides": {
+				"name": "Steviol Glycosides",
+				"percent": 0.015165441176471
+			}
+		},
+		"calories": 75.0,
+		"protein": 7.9,
+		"fat": 1.4,
+		"carb": 6.4,
+		"total_g": 550.0
+	},
+	"asparagus": {
+		"location": "inspired eats",
+		"time": "dinner",
+		"day": "wednesday",
+		"ingredients": {
+			"Asperges": {
+				"name": "Asperges",
+				"percent": 75.0
+			},
+			"difiant acide citrique": {
+				"name": "difiant acide citrique",
+				"percent": 25.0
+			}
+		},
+		"calories": 18.0,
+		"protein": 1.7,
+		"fat": 0.2,
+		"carb": 1.6,
+		"total_g": 180.0
+	},
+	"lima beans": {
+		"location": "inspired eats",
+		"time": "dinner",
+		"day": "thursday",
+		"ingredients": {},
+		"calories": 383.0,
+		"protein": 23.6,
+		"fat": 0.9,
+		"carb": 62.8,
+		"total_g": 900.0
+	},
+	"saut\u00e9ed spinach": {
+		"location": "inspired eats",
+		"time": "dinner",
+		"day": "friday",
+		"ingredients": {
+			"Spinach": {
+				"name": "Spinach",
+				"percent": 53.8461538461538
+			},
+			"tomatoes": {
+				"name": "tomatoes",
+				"percent": 23.0769230769231
+			},
+			"onions": {
+				"name": "onions",
+				"percent": 11.5384615384615
+			},
+			"paneer cheese": {
+				"name": "paneer cheese",
+				"percent": 5.76923076923077
+			},
+			"water": {
+				"name": "water",
+				"percent": 2.88461538461539
+			},
+			"sunflower oil": {
+				"name": "sunflower oil",
+				"percent": 1.44230769230769
+			},
+			"salt": {
+				"name": "salt",
+				"percent": 0.4125
+			},
+			"garlic": {
+				"name": "garlic",
+				"percent": 0.4125
+			},
+			"cornstarch": {
+				"name": "cornstarch",
+				"percent": 0.308653846153852
+			},
+			"yeast extract": {
+				"name": "yeast extract",
+				"percent": 0.154326923076923
+			},
+			"ginger": {
+				"name": "ginger",
+				"percent": 0.0771634615384613
+			},
+			"chili peppers": {
+				"name": "chili peppers",
+				"percent": 0.0385817307692307
+			},
+			"cumin": {
+				"name": "cumin",
+				"percent": 0.0385817307692378
+			}
+		},
+		"calories": 79.0,
+		"protein": 4.29,
+		"fat": 5.0,
+		"carb": 4.29,
+		"total_g": 285.0
+	}
+}

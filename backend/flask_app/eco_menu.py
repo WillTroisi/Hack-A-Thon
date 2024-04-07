@@ -76,7 +76,7 @@ def sunday_page():
 	day = "sunday"
 	third, second, first = get_top_three(week, day)
 	return render_template(html_page, 
-						day=day.upper(),
+						day=day.uppercase(),
 						item1_name=first.meal,
 						item1_carbon_emissions=first.score,
 						item1_calories=first.calories,
@@ -104,7 +104,7 @@ def monday_page():
 	day = "monday"
 	third, second, first = get_top_three(week, day)
 	return render_template(html_page, 
-						day=day.upper(),
+						day=day.uppercase(),
 						item1_name=first.meal,
 						item1_carbon_emissions=first.score,
 						item1_calories=first.calories,
@@ -133,7 +133,7 @@ def tuesday_page():
 	day = "tuesday"
 	third, second, first = get_top_three(week, day)
 	return render_template(html_page, 
-						day=day.upper(),
+						day=day.uppercase(),
 						item1_name=first.meal,
 						item1_carbon_emissions=first.score,
 						item1_calories=first.calories,
@@ -162,7 +162,7 @@ def wednesday_page():
 	day = "wednesday"
 	third, second, first = get_top_three(week, day)
 	return render_template(html_page, 
-						day=day.upper(),
+						day=day.uppercase(),
 						item1_name=first.meal,
 						item1_carbon_emissions=first.score,
 						item1_calories=first.calories,
@@ -191,7 +191,7 @@ def thursday_page():
 	day = "thursday"
 	third, second, first = get_top_three(week, day)
 	return render_template(html_page, 
-						day=day.upper(),
+						day=day.uppercase(),
 						item1_name=first.meal,
 						item1_carbon_emissions=first.score,
 						item1_calories=first.calories,
@@ -220,7 +220,7 @@ def friday_page():
 	day = "friday"
 	third, second, first = get_top_three(week, day)
 	return render_template(html_page, 
-						day=day.upper(),
+						day=day.uppercase(),
 						item1_name=first.meal,
 						item1_carbon_emissions=first.score,
 						item1_calories=first.calories,
@@ -249,7 +249,7 @@ def saturday_page():
 	day = "saturday"
 	third, second, first = get_top_three(week, day)
 	return render_template(html_page, 
-						day=day.upper(),
+						day=day.uppercase(),
 						item1_name=first.meal,
 						item1_carbon_emissions=first.score,
 						item1_calories=first.calories,

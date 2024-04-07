@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Food Menu</title>
+  
 </head>
 <body>
   <header id="original-header">
@@ -12,62 +13,64 @@
         <li><button type="button" id="iggy-market">Iggy's Market</button></li>
         <li><button type="button" id="boulder">Boulder</button></li>
         <li><button type="button" id="boulder-2">Boulder 2.0</button></li>
-        <li><button type="button" id="fresh-west">Fresh West</button></li>
-        <li><button type="button" id="choolah">Choolah</button></li>
-        <li><button type="button" id="green-peel">Green Peel</button></li>
-        <li><button type="button" id="iggy-night">Iggy's Night Hound</button></li>
-        <li><button type="button" id="iggy-bravisimo">Iggy's Bravisimo</button></li>
       </ul>
     </nav>
   </header>
   <style>
-/* Global CSS */
+  <style>
+    html {
+      height: 90%;
+      width: 100%;
+    }
+
     body {
-      font-family: "Times New Romans", "Times" sans-serif;
+      font-family: "Times New Roman", "Times", sans-serif;
       margin: 0;
       padding: 0;
-      background-color: #f0f0e0;
+      background-image:
+          linear-gradient(to left, rgba(0, 128, 0, 0), green 100%),
+          linear-gradient(to left, rgba(128, 128, 128, 0.5), gray 85%),
+          linear-gradient(to left, rgba(128, 128, 128, 0), rgba(0, 128, 0, 0));
+      height: 100%;
     }
 
     header {
       background-color: #05472a;
-      display: flex; /* Make header a flexbox container */
-      align-items: center; /* Align navigation items vertically */
+      display: flex;
+      align-items: center;
       padding: 10px;
     }
 
     nav {
-      flex: 1; /* Allow navigation to fill available space */
-    }
-    
-    button {
-      background-color: #e0e0e0; /* Set background color */
-      color: black; /* Set text color */
-      border: none; /* Remove border */
-      padding: 10px 10px; /* Adjust padding for better appearance */ 
-      border-radius: 5px; /* Add border radius for rounded corners */
-      
+      flex: 1;
     }
 
-    /* CSS for button hover effect */
+    button {
+      background-color: #e0e0e0;
+      color: black;
+      border: none;
+      padding: 10px 10px;
+      border-radius: 5px;
+    }
+
     button:hover {
-      background-color: #c0c0c0; /* Change background color on hover */
-      color: white; /* Change text color on hover */
+      background-color: grey;
+      color: white;
     }
 
     nav ul {
-      display: flex; /* Make list items horizontal */
-      justify-content: space-around; /* Distribute evenly */
+      display: flex;
+      justify-content: space-around;
     }
 
     nav li {
       list-style: none;
-      margin: 0 5px; /* Reduce margin between bubbles */
-      display: inline-block; /* Allow individual styling */
-      padding: 3px 8px; /* Reduce padding for smaller text */
-      border-radius: 15px; /* Smaller bubble curvature */
-      background-color: #e0e0e0; /* Light gray background for bubble */
-      font-size: 0.7em; /* Smaller font size for dining halls */
+      margin: 0 5px;
+      display: inline-block;
+      padding: 3px 8px;
+      border-radius: 15px;
+      background-color: #e0e0e0;
+      font-size: 0.7em;
     }
 
     a {
@@ -78,8 +81,7 @@
     main {
       text-align: center;
       padding: 50px;
-      border: 2px solid #7FBC00;
-      padding-top: 30px; /* Add padding to move content down */
+      padding-top: 30px;
     }
 
     h1 {
@@ -88,93 +90,144 @@
     }
 
     p {
+      text-align: center;
       font-size: 2em;
+      width: 100%;
+      text-align: center;
+      margin: auto;
     }
-    
-    
+
     .p1 {
       font-weight: bold;
       font-size: 2em;
+      text-align: center;
     }
 
     .p2 {
-      font-size: 1.25em;
+      font-size: 1.75em;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      gap: 10px;
+      max-width: 60%;
     }
 
     .p3 {
       font-weight: bold;
       font-size: 2em;
+      text-align: center;
     }
 
     .p4 {
-      font-size: 1.25em;
+      font-size: 1.75em;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      gap: 10px;
+      max-width: 60%;
+    }
+
+    .p15 {
+      font-size: 2.5em;
+    }
+
+    .p16 {
+      font-size: 1.75em;
     }
 
     /* Custom CSS */
     #hello-screen {
       position: relative;
     }
-    
 
     #hello-content {
-      margin-top: 50px; /* Add margin to move content down */
+      margin-top: 50px;
     }
 
     .back-button {
-      position: fixed; /* Change to fixed position */
-      top: 35px; /* Adjust position */
+      position: fixed;
+      top: 15px;
       left: 5px;
-      z-index: 999; /* Ensure it's on top of other elements */
+      z-index: 999;
     }
 
     #third-screen {
       display: none;
       text-align: center;
-      padding-top: 50px; /* Add padding to move content down */
+      padding-top: 50px;
     }
-
 
     #third-screen .back-button {
-      position: fixed; /* Change to fixed position */
-      top: 35px; /* Adjust position */
+      position: fixed;
+      top: 15px;
       left: 5px;
-      z-index: 999; /* Ensure it's on top of other elements */
+      z-index: 999;
     }
+
     h2 {
       text-align: center;
       font-size: 3em;
     }
+
     #dynamicContent {
       text-align: center;
     }
-    .select-food-button {
-      position: absolute; /* Change to fixed position */
-      top: 160px; /* Adjust position */
-      left: 500px;
-      right: 500px;
-      z-index: 999; /* Ensure it's on top of other elements */
-    }
+
     h3 {
       text-align: center;
       font-size: 1.4em;
     }
-</style>
+
+    #hello-screen {
+      height: 90%;
+    }
+
+    #hello-content {
+      height: 100%;
+    }
+
+    #buttons {
+      width: 100%;
+      height: 70%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .select-food-button {
+      height: 30%;
+      z-index: 999;
+      width: 50%;
+    }
+  </style>
   <main>
     <h1>Healthy Hounds</h1>
-    <p>Welcome to a Healthy Alternative!</p>
-    <p>Your recommendation for today is "" from ""!</p>
+    <p class ="p16">Welcome to a Healthy Alternative!</p>
+    <br> <br>
+    <p class="p15">Your recommendation for today is "" from ""!</p><br>
+    <br><br>
     <p class="p1">Purpose</p>
+    <br>
     <p class="p2">This program lists the menus at Loyola Maryland University and lists the total macros and carbon emission for each food. Based off all the menus, the program caluclates which option is the healthiest and more environmental friendly!</p>
+    <br><br>
     <p class="p3">How it works</p>
+    <br>
     <p class="p4">This program takes data from its database and updates according to the menus on each day. This data is gathered with a weekly schedule update mechanic which gathers data on the menus throguh an API.</p>
   </main>
 
   <div id="hello-screen" style="display: none;">
-    <div id="hello-content" style="margin-top: 50px;"> <!-- Add inline style -->
+    <div id="hello-content" style="margin-top: 50px;">
       <h2 id="dynamicContent">dynamicContent</h2>
       <h3 id="restaurantStats">restaurantStats</h3>
-      
-      <button id="selectFoodItem" class="select-food-button" onclick="selectFoodItem()">Select Food Item</button>
+      <div id="buttons">
+        <button id="foodItem1" class="select-food-button" onclick="selectFoodItem('Select Food Item 1')">Select Food Item 1</button>
+        <button id="foodItem2" class="select-food-button" onclick="selectFoodItem('Select Food Item 2')">Select Food Item 2</button>
+        <button id="foodItem3" class="select-food-button" onclick="selectFoodItem('Select Food Item 3')">Select Food Item 3</button>
+      </div>
     </div>
     <button class="back-button" onclick="goBack()">Back</button>
   </div>
@@ -186,130 +239,82 @@
     <p class="p12">Total Fat: </p>
     <p class="p13">Added Sugar: </p>
     <p class="p14">Sodium: </p>
-    <p class="p15">Protein: </p>
+    <p class="p15">Carbs: </p>
     <button class="back-button" onclick="goBackToSecondScreen()">Back</button>
   </div>
-  <script>
-// Variable to store dynamic content
-    let dynamicContent = ""; // Default content
-    
+ <script>
+ let dynamicContent = "";
     let restaurantStats = "";
 
-    // Store original button styles
     const originalButtonStyles = {};
     const buttons = document.querySelectorAll('#nav-buttons button');
     buttons.forEach(button => {
-      originalButtonStyles[button.id] = {
-        backgroundColor: button.style.backgroundColor,
-        color: button.style.color,
-        border: button.style.border
-      };
+        originalButtonStyles[button.id] = {
+            backgroundColor: button.style.backgroundColor,
+            color: button.style.color,
+            border: button.style.border
+        };
     });
 
-    // Function to update the screen with dynamic content
     function updateScreen(content) {
-      // Set the dynamic content
-      dynamicContent = content;
-      
-      if (content == "Iggy's Market" || content == "Boulder") {
-      	restaurantStats = "Dine in, Low Wait Time";
-    	 } else {
-      	restaurantStats = "Dine in, Medium Wait Time";
-      }
+        dynamicContent = content;
 
-      // Hide the original page
-      document.getElementById('original-page').style.display = 'none';
-      
-      // Hide the main section
-      document.querySelector('main').style.display = 'none';
-      
-      // Show the blank screen
-      document.getElementById('hello-screen').style.display = 'block';
-      
-      // Update the content of the paragraph
-      document.getElementById('dynamicContent').innerText = dynamicContent;
-      
-      document.getElementById('restaurantStats').innerText = restaurantStats;
+        if (content == "Iggy's Market" || content == "Boulder") {
+            restaurantStats = "Dine in, Low Wait Time";
+        } else {
+            restaurantStats = "Dine in, Medium Wait Time";
+        }
 
-      // Reset button styles
-      resetButtonStyles();
+        document.querySelector('main').style.display = 'none';
+        document.getElementById('hello-screen').style.display = 'block';
+        document.getElementById('dynamicContent').innerText = dynamicContent;
+        document.getElementById('restaurantStats').innerText = restaurantStats;
+
+        resetButtonStyles();
+
+        localStorage.setItem('currentScreen', 'hello-screen');
     }
 
-    // Function to select food item
-    function selectFoodItem() {
-      // Hide the hello-screen
-      document.getElementById('hello-screen').style.display = 'none';
-      
-      // Show the third screen
-      document.getElementById('third-screen').style.display = 'block';
+    function selectFoodItem(item) {
+        document.getElementById('hello-screen').style.display = 'none';
+        document.getElementById('third-screen').style.display = 'block';
+        document.getElementById('dynamicContentThird').innerText = item;
+        localStorage.setItem('currentScreen', 'third-screen');
     }
 
-// Function to go back to the original page
-function goBack() {
-  // Show the original page
-  document.getElementById('original-page').style.display = 'block';
-  
-  // Show the main section
-  document.querySelector('main').style.display = 'block';
-  
-  // Hide the hello-screen
-  document.getElementById('hello-screen').style.display = 'none';
+    function goBack() {
+        document.querySelector('main').style.display = 'block';
+        document.getElementById('hello-screen').style.display = 'none';
+        document.getElementById('third-screen').style.display = 'none';
+        resetButtonStyles();
+        localStorage.setItem('currentScreen', 'original-page');
+    }
 
-  // Reset button styles
-  resetButtonStyles();
-
-  // Restore original header structure
-  const originalHeader = document.getElementById('original-header');
-  const navButtons = document.createElement('nav');
-  navButtons.id = 'nav-buttons';
-  const originalPage = document.createElement('ul');
-  originalPage.id = 'original-page';
-  const buttonNames = ['Iggy\'s Market', 'Boulder', 'Boulder 2.0', 'Fresh West', 'Choolah', 'Green Peel', 'Iggy\'s Night Hound', 'Iggy\'s Bravisimo'];
-  buttonNames.forEach(buttonName => {
-    const button = document.createElement('button');
-    button.type = 'button';
-    button.textContent = buttonName;
-    button.id = buttonName.replace(/'/g, '').replace(/\s+/g, '-').toLowerCase();
-    button.addEventListener('click', () => updateScreen(button.textContent));
-    const li = document.createElement('li');
-    li.appendChild(button);
-    originalPage.appendChild(li);
-  });
-  navButtons.appendChild(originalPage);
-  originalHeader.innerHTML = ''; // Clear existing content
-  originalHeader.appendChild(navButtons);
-}
-
-
-    // Function to go back to the second screen from third screen
     function goBackToSecondScreen() {
-      // Show the hello-screen
-      document.getElementById('hello-screen').style.display = 'block';
-      
-      // Hide the third screen
-      document.getElementById('third-screen').style.display = 'none';
+        document.getElementById('hello-screen').style.display = 'block';
+        document.getElementById('third-screen').style.display = 'none';
+        localStorage.setItem('currentScreen', 'hello-screen');
     }
 
-    // Function to reset button styles
     function resetButtonStyles() {
-      const buttons = document.querySelectorAll('#nav-buttons button');
-      buttons.forEach(button => {
-        button.style.backgroundColor = originalButtonStyles[button.id].backgroundColor;
-        button.style.color = originalButtonStyles[button.id].color;
-        button.style.border = originalButtonStyles[button.id].border;
-        // Add more styles as needed
-      });
+        const buttons = document.querySelectorAll('#nav-buttons button');
+        buttons.forEach(button => {
+            const originalStyles = originalButtonStyles[button.id];
+            button.style.backgroundColor = originalStyles.backgroundColor;
+            button.style.color = originalStyles.color;
+            button.style.border = originalStyles.border;
+        });
     }
 
-    // Attach event listeners to the buttons
     document.getElementById('iggy-market').addEventListener('click', () => updateScreen("Iggy's Market"));
     document.getElementById('boulder').addEventListener('click', () => updateScreen("Boulder"));
     document.getElementById('boulder-2').addEventListener('click', () => updateScreen("Boulder 2.0"));
-    document.getElementById('fresh-west').addEventListener('click', () => updateScreen("Fresh West"));
-    document.getElementById('choolah').addEventListener('click', () => updateScreen("Choolah"));
-    document.getElementById('green-peel').addEventListener('click', () => updateScreen("Green Peel"));
-    document.getElementById('iggy-night').addEventListener('click', () => updateScreen("Iggy's Night Hound"));
-    document.getElementById('iggy-bravisimo').addEventListener('click', () => updateScreen("Iggy's Bravisimo"));
-  </script>
+
+    function showScreenFromLocalStorage() {
+        goBack(); // Always default to the home screen
+    }
+
+    window.onload = showScreenFromLocalStorage;
+    </script>
 </body>
 </html>

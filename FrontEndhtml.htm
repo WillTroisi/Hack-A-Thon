@@ -77,6 +77,7 @@
     #hello-screen {
       position: relative;
     }
+    
 
     #hello-content {
       margin-top: 50px; /* Add margin to move content down */
@@ -104,10 +105,16 @@
     }
     h2 {
       text-align: center;
+      font-size: 3em;
     }
-    select-food-button {
-      text-align: center;
+    .select-food-button {
+      position: absolute; /* Change to fixed position */
+      top: 75px; /* Adjust position */
+      left: 500px;
+      right: 500px;
+      z-index: 999; /* Ensure it's on top of other elements */
     }
+
   </style>
 </head>
 <body>
@@ -137,6 +144,7 @@
   <div id="hello-screen" style="display: none;">
     <div id="hello-content" style="margin-top: 50px;"> <!-- Add inline style -->
       <h2 id="dynamicContent">dynamicContent</h2>
+      
       <button id="selectFoodItem" class="select-food-button" onclick="selectFoodItem()">Select Food Item</button>
     </div>
     <button class="back-button" onclick="goBack()">Back</button>
@@ -219,7 +227,7 @@ function goBack() {
     button.type = 'button';
     button.textContent = buttonName;
     button.id = buttonName.replace(/'/g, '').replace(/\s+/g, '-').toLowerCase();
-    button.addEventListener('click', () => updateScreen(button.textContent + ' Selected'));
+    button.addEventListener('click', () => updateScreen(button.textContent));
     const li = document.createElement('li');
     li.appendChild(button);
     originalPage.appendChild(li);
@@ -251,14 +259,14 @@ function goBack() {
     }
 
     // Attach event listeners to the buttons
-    document.getElementById('iggy-market').addEventListener('click', () => updateScreen("Iggy's Market Selected"));
-    document.getElementById('boulder').addEventListener('click', () => updateScreen("Boulder Selected"));
-    document.getElementById('boulder-2').addEventListener('click', () => updateScreen("Boulder 2.0 Selected"));
-    document.getElementById('fresh-west').addEventListener('click', () => updateScreen("Fresh West Selected"));
-    document.getElementById('choolah').addEventListener('click', () => updateScreen("Choolah Selected"));
-    document.getElementById('green-peel').addEventListener('click', () => updateScreen("Green Peel Selected"));
-    document.getElementById('iggy-night').addEventListener('click', () => updateScreen("Iggy's Night Hound Selected"));
-    document.getElementById('iggy-bravisimo').addEventListener('click', () => updateScreen("Iggy's Bravisimo Selected"));
+    document.getElementById('iggy-market').addEventListener('click', () => updateScreen("Iggy's Market"));
+    document.getElementById('boulder').addEventListener('click', () => updateScreen("Boulder"));
+    document.getElementById('boulder-2').addEventListener('click', () => updateScreen("Boulder 2.0"));
+    document.getElementById('fresh-west').addEventListener('click', () => updateScreen("Fresh West"));
+    document.getElementById('choolah').addEventListener('click', () => updateScreen("Choolah"));
+    document.getElementById('green-peel').addEventListener('click', () => updateScreen("Green Peel"));
+    document.getElementById('iggy-night').addEventListener('click', () => updateScreen("Iggy's Night Hound"));
+    document.getElementById('iggy-bravisimo').addEventListener('click', () => updateScreen("Iggy's Bravisimo"));
   </script>
 </body>
 </html>

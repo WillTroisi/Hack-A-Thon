@@ -98,6 +98,7 @@ def finalFormat(DataFrame):
 
 def main():
     rawData = dataFormatter('menu_info_info(2).json')
+    rawData['meal'] = rawData.index
     rawData.to_csv('backup.csv',index=False)
     stillRawData = pd.read_csv('backup.csv')
 
@@ -108,8 +109,6 @@ def main():
 
 
 main()
-    
-
 
 
 

@@ -5,21 +5,21 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Food Menu</title>
   <style>
-    html {
+        html {
       height: 90%;
       width: 100%;
     }
 
-    body {
-        font-family: "Times New Roman", "Times", sans-serif;
-        margin: 0;
-        padding: 0;
-        background-image:
-            linear-gradient(to left, rgba(0, 128, 0, 0), green 100%),
-            linear-gradient(to left, rgba(128, 128, 128, 0.5), gray 85%),
-            linear-gradient(to left, rgba(128, 128, 128, 0), rgba(0, 128, 0, 0));
-        height: 100%;
-    }
+body {
+    font-family: "Times New Roman", "Times", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image:
+        linear-gradient(to left, rgba(0, 128, 0, 0), green 100%),
+        linear-gradient(to left, rgba(128, 128, 128, 0.5), gray 85%),
+        linear-gradient(to left, rgba(128, 128, 128, 0), rgba(0, 128, 0, 0));
+    height: 100%;
+}
 
     header {
       background-color: #05472a;
@@ -42,7 +42,7 @@
 
     /* CSS for button hover effect */
     button:hover {
-      background-color: #c0c0c0; /* Change background color on hover */
+      background-color: grey; /* Change background color on hover */
       color: white; /* Change text color on hover */
     }
 
@@ -116,6 +116,14 @@
       gap: 10px;
       max-width: 60%;
     }
+    
+    .p15 {
+      font-size: 2.5em;
+    }
+    
+    .p16 {
+       font-size: 1.75em;
+     }
 
     /* Custom CSS */
     #hello-screen {
@@ -197,8 +205,9 @@
   </header>
   <main>
     <h1>Healthy Hounds</h1>
-    <p>Welcome to a Healthy Alternative!</p>
-    <p>Your recommendation for today is "" from ""!</p>
+    <p class ="p16">Welcome to a Healthy Alternative!</p>
+    <br> <br>
+    <p class="p15">Your recommendation for today is "" from ""!</p><br>
     <br><br>
     <p class="p1">Purpose</p>
     <br>
@@ -233,7 +242,7 @@
     <button class="back-button" onclick="goBackToSecondScreen()">Back</button>
   </div>
   <script>
-    // Variable to store dynamic content
+      // Variable to store dynamic content
     let dynamicContent = ""; // Default content
     let restaurantStats = "";
 

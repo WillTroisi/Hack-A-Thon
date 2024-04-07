@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Food Menu</title>
+</head>
+<body>
+<style>
+ /* Global CSS */
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #f0f0e0;
+      padding: 10px;
+      text-align: center; /* Center the buttons */
+    }
+/* CSS for button styling */
+    button {
+      background-color: #e0e0e0; /* Set background color */
+      color: black; /* Set text color */
+      border: none; /* Remove border */
+      padding: 5px 10px; /* Adjust padding for better appearance */
+      border-radius: 5px; /* Add border radius for rounded corners */
+    }
+
+    /* CSS for button hover effect */
+    button:hover {
+      background-color: #c0c0c0; /* Change background color on hover */
+      color: white; /* Change text color on hover */
+    }
+
+    nav ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    nav li {
+      display: inline-block;
+      margin: 0 10px;
+    }
+
+    nav button {
+      padding: 5px 10px;
+      border: none;
+      border-radius: 5px;
+      background-color: #e0e0e0;
+      font-size: 14px;
+      cursor: pointer;
+    }
+
+    main {
+      text-align: center;
+      padding: 50px;
+      border: 2px solid #7FBC00;
+    }
+
+    h1 {
+      font-size: 3em;
+      margin-bottom: 20px;
+    }
+
+    p {
+      font-size: 1.2em;
+    }
+
+    .p1 {
+      font-size: 23px;
+      font-weight: bold;
+    }
+
+    .p2 {
+      font-size: 1em;
+    }
+
+    .p3 {
+      font-size: 23px;
+      font-weight: bold;
+    }
+
+    .p4 {
+      font-size: 1em;
+    }
+</style>
+  <header>
+    <nav id="nav-buttons">
+      <ul id="original-page">
+        <li><button type="button" id="iggy-market">Iggy's Market</button></li>
+        <li><button type="button" id="boulder">Boulder</button></li>
+        <li><button type="button" id="boulder-2">Boulder 2.0</button></li>
+        <li><button type="button" id="fresh-west">Fresh West</button></li>
+        <li><button type="button" id="choolah">Choolah</button></li>
+        <li><button type="button" id="green-peel">Green Peel</button></li>
+        <li><button type="button" id="iggy-night">Iggy's Night Hound</button></li>
+        <li><button type="button" id="iggy-bravisimo">Iggy's Bravisimo</button></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h1>Welcome to the Food Menu!</h1>
+    <p>Your number one recommendation for today is "" from ""!</p>
+    <p class="p1">Purpose</p>
+    <p class="p2">This program gives you the best recommendation for Dining options</p>
+    <p class="p3">How it works</p>
+    <p class="p4">This program takes data from its database and updates according to the menus on each day. This data is gathered with a weekly schedule update mechanic with gathers data from the menus throguh an API.</p>
+  </main>
+
+  <div id="hello-screen" style="display: none;">
+    <div id="hello-content">
+      <h2 id="dynamicContent">dynamicContent</h2>
+      <p id="editableContent">This is a paragraph. You can edit it freely.</p>
+    </div>
+    <button class="back-button" onclick="goBack()">Back</button>
+  </div>
+  <script>
+    // Variable to store dynamic content
+    let dynamicContent = ""; // Default content
+
+    // Store original button styles
+    const originalButtonStyles = {};
+    const buttons = document.querySelectorAll('#nav-buttons button');
+    buttons.forEach(button => {
+      originalButtonStyles[button.id] = {
+        backgroundColor: button.style.backgroundColor,
+        color: button.style.color,
+        border: button.style.border
+      };
+    });
+
+    // Function to update the screen with dynamic content
+    function updateScreen(content) {
+      // Set the dynamic content
+      dynamicContent = content;
+
+      // Hide the original page
+      document.getElementById('original-page').style.display = 'none';
+      
+      // Hide the main section
+      document.querySelector('main').style.display = 'none';
+      
+      // Show the blank screen
+      document.getElementById('hello-screen').style.display = 'block';
+      
+      // Update the content of the paragraph
+      document.getElementById('dynamicContent').innerText = dynamicContent;
+
+      // Reset button styles
+      resetButtonStyles();
+    }
+
+    // Function to go back to the original page
+    function goBack() {
+      // Show the original page
+      document.getElementById('original-page').style.display = 'block';
+      
+      // Show the main section
+      document.querySelector('main').style.display = 'block';
+      
+      // Hide the blank screen
+      document.getElementById('hello-screen').style.display = 'none';
+
+      // Reset button styles
+      resetButtonStyles();
+
+      // Restore header styles
+      document.querySelector('header').style.backgroundColor = '#f0f0e0';
+      document.querySelector('header nav').style.alignItems = 'center';
+      document.querySelector('header').style.padding = '10px';
+    }
+
+    // Function to reset button styles
+    function resetButtonStyles() {
+      const buttons = document.querySelectorAll('#nav-buttons button');
+      buttons.forEach(button => {
+        button.style.backgroundColor = originalButtonStyles[button.id].backgroundColor;
+        button.style.color = originalButtonStyles[button.id].color;
+        button.style.border = originalButtonStyles[button.id].border;
+        // Add more styles as needed
+      });
+    }
+
+    // Attach event listeners to the buttons
+    document.getElementById('iggy-market').addEventListener('click', () => updateScreen("Iggy's Market Selected"));
+    document.getElementById('boulder').addEventListener('click', () => updateScreen("Boulder Selected"));
+    document.getElementById('boulder-2').addEventListener('click', () => updateScreen("Boulder 2.0 Selected"));
+    document.getElementById('fresh-west').addEventListener('click', () => updateScreen("Fresh West Selected"));
+    document.getElementById('choolah').addEventListener('click', () => updateScreen("Choolah Selected"));
+    document.getElementById('green-peel').addEventListener('click', () => updateScreen("Green Peel Selected"));
+    document.getElementById('iggy-night').addEventListener('click', () => updateScreen("Iggy's Night Hound Selected"));
+    document.getElementById('iggy-bravisimo').addEventListener('click', () => updateScreen("Iggy's Bravisimo Selected"));
+</script>
+</body>
+</html>

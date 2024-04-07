@@ -1,24 +1,27 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Food Menu</title>
-  <style>
-        html {
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Food Menu</title>
+</head>
+<body>
+<style>
+<style>
+    html {
       height: 90%;
       width: 100%;
     }
-body {
-    font-family: "Times New Roman", "Times", sans-serif;
-    margin: 0;
-    padding: 0;
-    background-image:
-        linear-gradient(to left, rgba(0, 128, 0, 0), green 100%),
-        linear-gradient(to left, rgba(128, 128, 128, 0.5), gray 85%),
-        linear-gradient(to left, rgba(128, 128, 128, 0), rgba(0, 128, 0, 0));
-    height: 100%;
-}
+
+    body {
+        font-family: "Times New Roman", "Times", sans-serif;
+        margin: 0;
+        padding: 0;
+        background-image:
+            linear-gradient(to left, rgba(0, 128, 0, 0), green 100%),
+            linear-gradient(to left, rgba(128, 128, 128, 0.5), gray 85%),
+            linear-gradient(to left, rgba(128, 128, 128, 0), rgba(0, 128, 0, 0));
+        height: 100%;
+    }
 
     header {
       background-color: #05472a;
@@ -41,7 +44,7 @@ body {
 
     /* CSS for button hover effect */
     button:hover {
-      background-color: grey; /* Change background color on hover */
+      background-color: #c0c0c0; /* Change background color on hover */
       color: white; /* Change text color on hover */
     }
 
@@ -115,14 +118,6 @@ body {
       gap: 10px;
       max-width: 60%;
     }
-    
-    .p15 {
-      font-size: 2.5em;
-    }
-    
-    .p16 {
-       font-size: 1.75em;
-     }
 
     /* Custom CSS */
     #hello-screen {
@@ -191,22 +186,19 @@ body {
       width: 50%;
     }
   </style>
-</head>
-<body>
-  <header id="original-header">
-    <nav id="nav-buttons">
-      <ul id="original-page">
-        <li><button type="button" id="iggy-market">Iggy's Market</button></li>
-        <li><button type="button" id="boulder">Boulder</button></li>
-        <li><button type="button" id="boulder-2">Boulder 2.0</button></li>
-      </ul>
-    </nav>
-  </header>
-  <main>
+ <header id="original-header">
+   <nav id="nav-buttons">
+     <ul id="original-page">
+       <li><button type="button" id="iggy-market">Iggy's Market</button></li>
+       <li><button type="button" id="boulder">Boulder</button></li>
+       <li><button type="button" id="boulder-2">Boulder 2.0</button></li>
+     </ul>
+   </nav>
+ </header>
+ <main>
     <h1>Healthy Hounds</h1>
-    <p class ="p16">Welcome to a Healthy Alternative!</p>
-    <br> <br>
-    <p class="p15">Your recommendation for today is "" from ""!</p><br>
+    <p>Welcome to a Healthy Alternative!</p>
+    <p>Your recommendation for today is "" from ""!</p>
     <br><br>
     <p class="p1">Purpose</p>
     <br>
@@ -216,9 +208,8 @@ body {
     <br>
     <p class="p4">This program takes data from its database and updates according to the menus on each day. This data is gathered with a weekly schedule update mechanic which gathers data on the menus throguh an API.</p>
   </main>
-
-  <div id="hello-screen" style="display: none;">
-    <div id="hello-content" style="margin-top: 50px;"> <!-- Add inline style -->
+ <div id="hello-screen" style="display: none;">
+   <div id="hello-content" style="margin-top: 50px;"> <!-- Add inline style -->
       <h2 id="dynamicContent">dynamicContent</h2>
       <h3 id="restaurantStats">restaurantStats</h3>
       <div id="buttons">
@@ -230,8 +221,8 @@ body {
     <button class="back-button" onclick="goBack()">Back</button>
   </div>
 
-  <div id="third-screen">
-    <h2>Carbon Emission and Macros</h2>
+ <div id="third-screen" style="display: none;">
+   <h2>Carbon Emission and Macros</h2>
     <p class="p10">Calories: </p>
     <p class="p11">Protein: </p>
     <p class="p12">Total Fat: </p>
@@ -241,7 +232,8 @@ body {
     <button class="back-button" onclick="goBackToSecondScreen()">Back</button>
   </div>
   <script>
-      // Variable to store dynamic content
+  
+    // Variable to store dynamic content
     let dynamicContent = ""; // Default content
     let restaurantStats = "";
 
@@ -267,9 +259,6 @@ body {
             restaurantStats = "Dine in, Medium Wait Time";
         }
 
-        // Hide the original page
-        document.getElementById('original-page').style.display = 'none';
-
         // Hide the main section
         document.querySelector('main').style.display = 'none';
 
@@ -282,6 +271,9 @@ body {
 
         // Reset button styles
         resetButtonStyles();
+
+        // Update localStorage
+        localStorage.setItem('currentScreen', 'hello-screen');
     }
 
     // Function to select food item
@@ -294,13 +286,13 @@ body {
 
         // Update content
         document.getElementById('dynamicContentThird').innerText = item;
+
+        // Update localStorage
+        localStorage.setItem('currentScreen', 'third-screen');
     }
 
     // Function to go back to the original page
     function goBack() {
-        // Show the original page
-        document.getElementById('original-page').style.display = 'block';
-
         // Show the main section
         document.querySelector('main').style.display = 'block';
 
@@ -312,6 +304,9 @@ body {
 
         // Reset button styles
         resetButtonStyles();
+
+        // Update localStorage
+        localStorage.setItem('currentScreen', 'original-page');
     }
 
     // Function to go back to the second screen from third screen
@@ -321,6 +316,9 @@ body {
 
         // Hide the third screen
         document.getElementById('third-screen').style.display = 'none';
+
+        // Update localStorage
+        localStorage.setItem('currentScreen', 'hello-screen');
     }
 
     // Function to reset button styles
@@ -339,6 +337,28 @@ body {
     document.getElementById('iggy-market').addEventListener('click', () => updateScreen("Iggy's Market"));
     document.getElementById('boulder').addEventListener('click', () => updateScreen("Boulder"));
     document.getElementById('boulder-2').addEventListener('click', () => updateScreen("Boulder 2.0"));
+
+    // Function to show the appropriate screen based on localStorage
+    function showScreenFromLocalStorage() {
+        const screen = localStorage.getItem('currentScreen');
+        if (screen) {
+            switch (screen) {
+                case 'hello-screen':
+                    updateScreen(dynamicContent);
+                    break;
+                case 'third-screen':
+                    selectFoodItem(document.getElementById('dynamicContentThird').innerText);
+                    break;
+                default:
+                    goBack();
+            }
+        }
+    }
+
+    // Call this function when the page loads to show the correct screen
+    window.onload = showScreenFromLocalStorage;
+
+
   </script>
 </body>
 </html>

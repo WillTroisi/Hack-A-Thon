@@ -4,19 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Food Menu</title>
-  
-</head>
-<body>
-  <header id="original-header">
-    <nav id="nav-buttons">
-      <ul id="original-page">
-        <li><button type="button" id="iggy-market">Iggy's Market</button></li>
-        <li><button type="button" id="boulder">Boulder</button></li>
-        <li><button type="button" id="boulder-2">Boulder 2.0</button></li>
-      </ul>
-    </nav>
-  </header>
-  <style>
   <style>
     html {
       height: 90%;
@@ -204,6 +191,17 @@
       width: 50%;
     }
   </style>
+</head>
+<body>
+  <header id="original-header">
+    <nav id="nav-buttons">
+      <ul id="original-page">
+        <li><button type="button" id="iggy-market">Iggy's Market</button></li>
+        <li><button type="button" id="boulder">Boulder</button></li>
+        <li><button type="button" id="boulder-2">Boulder 2.0</button></li>
+      </ul>
+    </nav>
+  </header>
   <main>
     <h1>Healthy Hounds</h1>
     <p class ="p16">Welcome to a Healthy Alternative!</p>
@@ -272,6 +270,8 @@
 
         resetButtonStyles();
 
+        hideThirdScreen(); // Hide the third screen when updating to the hello screen
+
         localStorage.setItem('currentScreen', 'hello-screen');
     }
 
@@ -306,9 +306,26 @@
         });
     }
 
-    document.getElementById('iggy-market').addEventListener('click', () => updateScreen("Iggy's Market"));
-    document.getElementById('boulder').addEventListener('click', () => updateScreen("Boulder"));
-    document.getElementById('boulder-2').addEventListener('click', () => updateScreen("Boulder 2.0"));
+    function hideThirdScreen() {
+        document.getElementById('third-screen').style.display = 'none';
+    }
+
+    function hideThirdScreenOnMenuClick() {
+        document.getElementById('third-screen').style.display = 'none';
+    }
+
+    document.getElementById('iggy-market').addEventListener('click', () => {
+        updateScreen("Iggy's Market");
+        hideThirdScreenOnMenuClick();
+    });
+    document.getElementById('boulder').addEventListener('click', () => {
+        updateScreen("Boulder");
+        hideThirdScreenOnMenuClick();
+    });
+    document.getElementById('boulder-2').addEventListener('click', () => {
+        updateScreen("Boulder 2.0");
+        hideThirdScreenOnMenuClick();
+    });
 
     function showScreenFromLocalStorage() {
         goBack(); // Always default to the home screen

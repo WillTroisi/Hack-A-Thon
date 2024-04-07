@@ -4,10 +4,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Food Menu</title>
-</head>
-<body>
-<style>
- /* Global CSS */
+  <style>
+    /* Global CSS */
     body {
       font-family: sans-serif;
       margin: 0;
@@ -16,10 +14,15 @@
 
     header {
       background-color: #f0f0e0;
+      display: flex; /* Make header a flexbox container */
+      align-items: center; /* Align navigation items vertically */
       padding: 10px;
-      text-align: center; /* Center the buttons */
     }
-/* CSS for button styling */
+
+    nav {
+      flex: 1; /* Allow navigation to fill available space */
+    }
+    
     button {
       background-color: #e0e0e0; /* Set background color */
       color: black; /* Set text color */
@@ -35,28 +38,30 @@
     }
 
     nav ul {
-      list-style: none;
-      padding: 0;
+      display: flex; /* Make list items horizontal */
+      justify-content: space-around; /* Distribute evenly */
     }
 
     nav li {
-      display: inline-block;
-      margin: 0 10px;
+      list-style: none;
+      margin: 0 5px; /* Reduce margin between bubbles */
+      display: inline-block; /* Allow individual styling */
+      padding: 3px 8px; /* Reduce padding for smaller text */
+      border-radius: 15px; /* Smaller bubble curvature */
+      background-color: #e0e0e0; /* Light gray background for bubble */
+      font-size: 0.7em; /* Smaller font size for dining halls */
     }
 
-    nav button {
-      padding: 5px 10px;
-      border: none;
-      border-radius: 5px;
-      background-color: #e0e0e0;
-      font-size: 14px;
-      cursor: pointer;
+    a {
+      text-decoration: none;
+      color: black;
     }
 
     main {
       text-align: center;
       padding: 50px;
       border: 2px solid #7FBC00;
+      padding-top: 30px; /* Add padding to move content down */
     }
 
     h1 {
@@ -68,25 +73,45 @@
       font-size: 1.2em;
     }
 
-    .p1 {
-      font-size: 23px;
-      font-weight: bold;
+    /* Custom CSS */
+    #hello-screen {
+      position: relative;
     }
 
-    .p2 {
-      font-size: 1em;
+    #hello-content {
+      margin-top: 50px; /* Add margin to move content down */
     }
 
-    .p3 {
-      font-size: 23px;
-      font-weight: bold;
+    .back-button {
+      position: fixed; /* Change to fixed position */
+      top: 35px; /* Adjust position */
+      left: 5px;
+      z-index: 999; /* Ensure it's on top of other elements */
     }
 
-    .p4 {
-      font-size: 1em;
+    #third-screen {
+      display: none;
+      text-align: center;
+      padding-top: 50px; /* Add padding to move content down */
     }
-</style>
-  <header>
+
+
+    #third-screen .back-button {
+      position: fixed; /* Change to fixed position */
+      top: 35px; /* Adjust position */
+      left: 5px;
+      z-index: 999; /* Ensure it's on top of other elements */
+    }
+    h2 {
+      text-align: center;
+    }
+    select-food-button {
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header id="original-header">
     <nav id="nav-buttons">
       <ul id="original-page">
         <li><button type="button" id="iggy-market">Iggy's Market</button></li>
@@ -110,12 +135,19 @@
   </main>
 
   <div id="hello-screen" style="display: none;">
-    <div id="hello-content">
+    <div id="hello-content" style="margin-top: 50px;"> <!-- Add inline style -->
       <h2 id="dynamicContent">dynamicContent</h2>
-      <p id="editableContent">This is a paragraph. You can edit it freely.</p>
+      <button id="selectFoodItem" class="select-food-button" onclick="selectFoodItem()">Select Food Item</button>
     </div>
     <button class="back-button" onclick="goBack()">Back</button>
   </div>
+
+  <div id="third-screen">
+    <h2>Third Screen</h2>
+    <p>This is the third screen content.</p>
+    <button class="back-button" onclick="goBackToSecondScreen()">Back</button>
+  </div>
+
   <script>
     // Variable to store dynamic content
     let dynamicContent = ""; // Default content
@@ -152,6 +184,15 @@
       resetButtonStyles();
     }
 
+    // Function to select food item
+    function selectFoodItem() {
+      // Hide the hello-screen
+      document.getElementById('hello-screen').style.display = 'none';
+      
+      // Show the third screen
+      document.getElementById('third-screen').style.display = 'block';
+    }
+
     // Function to go back to the original page
     function goBack() {
       // Show the original page
@@ -160,16 +201,41 @@
       // Show the main section
       document.querySelector('main').style.display = 'block';
       
-      // Hide the blank screen
+      // Hide the hello-screen
       document.getElementById('hello-screen').style.display = 'none';
 
       // Reset button styles
       resetButtonStyles();
 
-      // Restore header styles
-      document.querySelector('header').style.backgroundColor = '#f0f0e0';
-      document.querySelector('header nav').style.alignItems = 'center';
-      document.querySelector('header').style.padding = '10px';
+      // Restore original header structure
+      const originalHeader = document.getElementById('original-header');
+      const navButtons = document.createElement('nav');
+      navButtons.id = 'nav-buttons';
+      const originalPage = document.createElement('ul');
+      originalPage.id = 'original-page';
+      const buttons = ['iggy-market', 'boulder', 'boulder-2', 'fresh-west', 'choolah', 'green-peel', 'iggy-night', 'iggy-bravisimo'];
+      buttons.forEach(buttonId => {
+        const button = document.createElement('button');
+        button.type = 'button';
+        button.id = buttonId;
+        button.textContent = buttonId.replace(/-/g, ' '); // Convert button ID to readable text
+        button.addEventListener('click', () => updateScreen(button.textContent + ' Selected'));
+        const li = document.createElement('li');
+        li.appendChild(button);
+        originalPage.appendChild(li);
+      });
+      navButtons.appendChild(originalPage);
+      originalHeader.innerHTML = ''; // Clear existing content
+      originalHeader.appendChild(navButtons);
+    }
+
+    // Function to go back to the second screen from third screen
+    function goBackToSecondScreen() {
+      // Show the hello-screen
+      document.getElementById('hello-screen').style.display = 'block';
+      
+      // Hide the third screen
+      document.getElementById('third-screen').style.display = 'none';
     }
 
     // Function to reset button styles
@@ -192,6 +258,6 @@
     document.getElementById('green-peel').addEventListener('click', () => updateScreen("Green Peel Selected"));
     document.getElementById('iggy-night').addEventListener('click', () => updateScreen("Iggy's Night Hound Selected"));
     document.getElementById('iggy-bravisimo').addEventListener('click', () => updateScreen("Iggy's Bravisimo Selected"));
-</script>
+  </script>
 </body>
 </html>

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Food Menu</title>
+	<link rel="stylesheet" , href="styles.css">
+	<script src="main.js" defer></script>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link
+		href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+		rel="stylesheet">
+</head>
+
+<body>
+	<header id="original-header">
+		<nav id="nav-buttons">
+			<ul id="original-page">
+				<li><button type="button" id="iggy-market">Iggy's Market</button></li>
+				<li><button type="button" id="boulder">Boulder</button></li>
+				<li><button type="button" id="boulder-2">Boulder 2.0</button></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<h1>Healthy Hounds</h1>
+		<p class="p16">Welcome to a Healthy Alternative!</p>
+		<br> <br>
+		<p class="p15">Your recommendation for today is "" from ""!</p><br>
+		<br><br>
+		<p class="p1">Purpose</p>
+		<br>
+		<p class="p2">This program lists the menus at Loyola Maryland University and lists the total macros and carbon
+			emission for each food. Based off all the menus, the program caluclates which option is the healthiest and
+			more environmental friendly!</p>
+		<br><br>
+		<p class="p3">How it works</p>
+		<br>
+		<p class="p4">This program takes data from its database and updates according to the menus on each day. This
+			data is gathered with a weekly schedule update mechanic which gathers data on the menus throguh an API.</p>
+	</main>
+
+	<div id="hello-screen" style="display: none;">
+		<div id="hello-content" style="margin-top: 50px;">
+			<h2 id="dynamicContent">dynamicContent</h2>
+			<h3 id="restaurantStats">restaurantStats</h3>
+			<div id="buttons">
+				<button id="foodItem1" class="select-food-button" onclick="selectFoodItem('Select Food Item 1')">Select
+					Food Item 1</button>
+				<button id="foodItem2" class="select-food-button" onclick="selectFoodItem('Select Food Item 2')">Select
+					Food Item 2</button>
+				<button id="foodItem3" class="select-food-button" onclick="selectFoodItem('Select Food Item 3')">Select
+					Food Item 3</button>
+			</div>
+		</div>
+		<button class="back-button" onclick="goBack()">Back</button>
+	</div>
+
+	<div id="third-screen">
+		<h2>Carbon Emission and Macros</h2>
+		<p class="p10">Calories: </p>
+		<p class="p11">Protein: </p>
+		<p class="p12">Total Fat: </p>
+		<p class="p13">Added Sugar: </p>
+		<p class="p14">Sodium: </p>
+		<p class="p15">Carbs: </p>
+		<button class="back-button" onclick="goBackToSecondScreen()">Back</button>
+	</div>
+
+</body>
+
+</html>

@@ -1,0 +1,257 @@
+.roboto-thin {
+	font-family: "Roboto", sans-serif;
+	font-weight: 100;
+	font-style: normal;
+}
+
+.roboto-light {
+	font-family: "Roboto", sans-serif;
+	font-weight: 300;
+	font-style: normal;
+}
+
+.roboto-regular {
+	font-family: "Roboto", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+.roboto-medium {
+	font-family: "Roboto", sans-serif;
+	font-weight: 500;
+	font-style: normal;
+}
+
+.roboto-bold {
+	font-family: "Roboto", sans-serif;
+	font-weight: 700;
+	font-style: normal;
+}
+
+.roboto-black {
+	font-family: "Roboto", sans-serif;
+	font-weight: 900;
+	font-style: normal;
+}
+
+.roboto-thin-italic {
+	font-family: "Roboto", sans-serif;
+	font-weight: 100;
+	font-style: italic;
+}
+
+.roboto-light-italic {
+	font-family: "Roboto", sans-serif;
+	font-weight: 300;
+	font-style: italic;
+}
+
+.roboto-regular-italic {
+	font-family: "Roboto", sans-serif;
+	font-weight: 400;
+	font-style: italic;
+}
+
+.roboto-medium-italic {
+	font-family: "Roboto", sans-serif;
+	font-weight: 500;
+	font-style: italic;
+}
+
+.roboto-bold-italic {
+	font-family: "Roboto", sans-serif;
+	font-weight: 700;
+	font-style: italic;
+}
+
+.roboto-black-italic {
+	font-family: "Roboto", sans-serif;
+	font-weight: 900;
+	font-style: italic;
+}
+
+
+html {
+	height: 100%;
+	width: 100%;
+	font-family: "Roboto", sans-serif;
+	font-weight: 400;
+	color: white
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	background-image: linear-gradient(to right, #1d976c, #93f9b9);
+	height: 100%;
+}
+
+header {
+	background-image: linear-gradient(to right, #1d976c, #93f9b9);
+	display: flex;
+	align-items: center;
+	padding: 10px;
+}
+
+nav {
+	flex: 1;
+}
+
+button {
+	background-color: #e0e0e0;
+	color: black;
+	border: none;
+	padding: 10px 10px;
+	border-radius: 5px;
+}
+
+button:hover {
+	background-color: grey;
+	color: white;
+}
+
+nav ul {
+	display: flex;
+	justify-content: space-around;
+}
+
+nav li {
+	list-style: none;
+	margin: 0 5px;
+	display: inline-block;
+	padding: 3px 8px;
+	border-radius: 15px;
+	background-color: #e0e0e0;
+	font-size: 0.7em;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+main {
+	text-align: center;
+	padding: 50px;
+	padding-top: 30px;
+}
+
+h1 {
+	font-size: 4em;
+	margin-bottom: 20px;
+}
+
+p {
+	text-align: center;
+	font-size: 2em;
+	width: 100%;
+	text-align: center;
+	margin: auto;
+}
+
+.p1 {
+	font-weight: bold;
+	font-size: 2em;
+	text-align: center;
+}
+
+.p2 {
+	font-size: 1.75em;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	gap: 10px;
+	max-width: 60%;
+}
+
+.p3 {
+	font-weight: bold;
+	font-size: 2em;
+	text-align: center;
+}
+
+.p4 {
+	font-size: 1.75em;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	gap: 10px;
+	max-width: 60%;
+}
+
+.p15 {
+	font-size: 2.5em;
+}
+
+.p16 {
+	font-size: 1.75em;
+}
+
+/* Custom CSS */
+#hello-screen {
+	position: relative;
+}
+
+#hello-content {
+	margin-top: 50px;
+}
+
+.back-button {
+	position: fixed;
+	top: 15px;
+	left: 5px;
+	z-index: 999;
+}
+
+#third-screen {
+	display: none;
+	text-align: center;
+	padding-top: 50px;
+}
+
+#third-screen .back-button {
+	position: fixed;
+	top: 15px;
+	left: 5px;
+	z-index: 999;
+}
+
+h2 {
+	text-align: center;
+	font-size: 3em;
+}
+
+#dynamicContent {
+	text-align: center;
+}
+
+h3 {
+	text-align: center;
+	font-size: 1.4em;
+}
+
+#hello-screen {
+	height: 90%;
+}
+
+#hello-content {
+	height: 100%;
+}
+
+#buttons {
+	width: 100%;
+	height: 70%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	gap: 10px;
+}
+
+.select-food-button {
+	height: 30%;
+	z-index: 999;
+	width: 50%;
+}

@@ -177,7 +177,8 @@ def cleanup_menu_items(items: list[FoodItem]):
 		name = name.replace('\n', ' ')
 		name = name.replace('/', '')
 		pos = name.find('(')
-		name = name[:pos]
+		if pos > 1:
+			name = name[:pos]
 		name = name.strip()
 		name = name.replace("&", 'and')
 		if "oatmea" in name:
@@ -207,9 +208,7 @@ def cleanup_menu_items(items: list[FoodItem]):
 		if "corned" in name:
 			item.name = "beef brisket"
 			continue
-		if "pizz" in name:
-			item.name = name.replace("pizz", "pizza")
-			continue
+
 		if "pulled" in name:
 			item.name = "pulled pork"
 			continue
@@ -330,7 +329,6 @@ def is_valid_food_item(item: FoodItem) -> bool:
 	except Exception as e:
 		return False
 
-
 def cleanup_finished_food_items(items: list[FoodItem]) -> list[FoodItem]:
 	valid_items = []
 	for item in items:
@@ -338,7 +336,15 @@ def cleanup_finished_food_items(items: list[FoodItem]) -> list[FoodItem]:
 			valid_items.append(item)
 	return valid_items
 
+def check_food_items(items: list[FoodItem]) -> list[FoodItem]:
+	good_set = []
 
+	for item in items:
+		print(f"Food name: {item.name}")
+		i = input("Valid? y or n: ")
+		if i[0] == 'y':
+			good_set.append(item)
+	return good_set
 
 def main():
 	boulder2_link = "https://www.loyola.edu/-/media/department/dining/documents/menus/boulder2/boulder2_4,-d-,01,-d-,24.ashx?la=en"
@@ -346,10 +352,15 @@ def main():
 	menus = [boulder_link]
 	
 	filenames = download_menus(menus)
-	print(filenames)
+
 	dfs = open_dfs_from_xlsx_filenames(filenames)
+
 	food_items = get_all_menu_items(dfs[0])
+
 	cleanup_menu_items(food_items)
+
+	# food_items = check_food_items(food_items)
+
 	get_menu_items_nutrition_info(food_items)
 	finished = cleanup_finished_food_items(food_items)
 	write_to_json(finished)

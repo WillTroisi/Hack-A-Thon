@@ -14,13 +14,23 @@
 </head>
 
 <body>
-	<h1>{{ day }} Recommendations</h1>
-	<p1>{{ item1_name }}: {{ item1_carbon_emissions }}, {{ item1_calories }}, {{ item1_protein }}, {{ item1_fat }}, {{
-		item1_carbs }}</p1>
-	<p1>{{ item2_name }}: {{ item2_carbon_emissions }}, {{ item2_calories }}, {{ item2_protein }}, {{ item2_fat }}, {{
-		item2_carbs }}</p1>
-	<p1>{{ item3_name }}: {{ item3_carbon_emissions }}, {{ item3_calories }}, {{ item3_protein }}, {{ item3_fat }}, {{
-		item3_carbs }}</p1>
+	<ul>
+		<li>
+			<h1>{{ day }} Recommendations</h1>
+		</li>
+		<li>
+			<p1>1. {{ item1_name }} | {{ item1_carbon_emissions }}, {{ item1_calories }}, {{ item1_protein }}, {{
+				item1_fat }}, {{ item1_carbs }}</p1>
+		</li>
+		<li>
+			<p1>2. {{ item2_name }} | {{ item2_carbon_emissions }}, {{ item2_calories }}, {{ item2_protein }}, {{
+				item2_fat }}, {{ item2_carbs }}</p1>
+		</li>
+		<li>
+			<p1>3. {{ item3_name }} | {{ item3_carbon_emissions }}, {{ item3_calories }}, {{ item3_protein }}, {{
+				item3_fat }}, {{ item3_carbs }}</p1>
+		</li>
+	</ul>
 </body>
 
 </html>

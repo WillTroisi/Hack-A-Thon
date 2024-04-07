@@ -25,7 +25,7 @@ with open("output.json", "r") as f:
 	info = json.loads(''.join(f.readlines()))
 
 def make_food_item_from_json(item_json: dict) -> FoodItem:
-	day = item_json['day']
+	day = item_json['day'].upper()
 	meal = item_json['meal']
 	calories = item_json['calories']
 	fat = item_json['fat']

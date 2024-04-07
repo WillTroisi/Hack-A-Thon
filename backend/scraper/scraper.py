@@ -212,6 +212,10 @@ def cleanup_menu_items(items: list[FoodItem]):
 			continue
 		if "pulled" in name:
 			item.name = "pulled pork"
+			continue
+		if "pasta ba" in name:
+			item.name = "pasta bake"
+			continue
 
 
 
@@ -232,6 +236,7 @@ def get_menu_items_nutrition_info(items: list[FoodItem]):
 			item.calories = info['nutriments']['energy-kcal']
 			item.fats = info['nutriments']['fat']
 			item.protein = info['nutriments']['proteins']
+			item.carbs = info['nutriments']['carbohydrates']
 			item.ingredients = []
 			for ingredient_info in info['ingredients']:
 
@@ -303,7 +308,8 @@ def write_to_json(items: list[FoodItem]):
 			"calories": item.calories,
 			"protein": item.protein,
 			"fat": item.fats,
-			"carb": item.carbs
+			"carb": item.carbs,
+			"total_g": item.total_grams
 		}
 	with open("menu_info.json", "w") as f:
 		f.write(json.dumps(json_data))

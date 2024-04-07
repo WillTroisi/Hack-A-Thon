@@ -315,6 +315,30 @@ def write_to_json(items: list[FoodItem]):
 		f.write(json.dumps(json_data))
 
 
+def is_valid_food_item(item: FoodItem) -> bool:
+	try:
+		for i, ingredient in enumerate(item.ingredients):
+			item.ingredients[i].percent = float(ingredient.percent)
+
+		item.calories = float(item.calories)
+		item.protein = float(item.protein)
+		item.carbs = float(item.carbs)
+		item.total_grams = float(item.total_grams)
+		item.fats = float(item.fats)
+
+		return True
+	except Exception as e:
+		return False
+
+
+def cleanup_finished_food_items(items: list[FoodItem]) -> list[FoodItem]:
+	valid_items = []
+	for item in items:
+		if is_valid_food_item(item):
+			valid_items.append(item)
+	return valid_items
+
+
 
 def main():
 	boulder2_link = "https://www.loyola.edu/-/media/department/dining/documents/menus/boulder2/boulder2_4,-d-,01,-d-,24.ashx?la=en"
@@ -327,7 +351,8 @@ def main():
 	food_items = get_all_menu_items(dfs[0])
 	cleanup_menu_items(food_items)
 	get_menu_items_nutrition_info(food_items)
-	write_to_json(food_items)
+	finished = cleanup_finished_food_items(food_items)
+	write_to_json(finished)
 
 
 

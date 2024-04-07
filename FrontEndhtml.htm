@@ -7,7 +7,7 @@
 </head>
 <body>
   <style>
-html {
+      html {
       height: 90%;
       width: 100%;
     }
@@ -77,25 +77,43 @@ html {
     }
 
     p {
+      text-align: center;
       font-size: 2em;
+      width: 100%;
+      text-align: center;
+      margin: auto;
     }
 
     .p1 {
       font-weight: bold;
       font-size: 2em;
+      text-align: center;
     }
 
     .p2 {
-      font-size: 1.5em;
+      font-size: 1.75em;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      gap: 10px;
+      max-width: 60%;
     }
 
     .p3 {
       font-weight: bold;
       font-size: 2em;
+      text-align: center;
     }
 
     .p4 {
-      font-size: 1.5em;
+      font-size: 1.75em;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      gap: 10px;
+      max-width: 60%;
     }
 
     /* Custom CSS */
@@ -164,7 +182,7 @@ html {
       z-index: 999; /* Ensure it's on top of other elements */
       width: 50%;
     }
-    </style>
+  </style>
   <header id="original-header">
     <nav id="nav-buttons">
       <ul id="original-page">
@@ -183,9 +201,13 @@ html {
     <h1>Healthy Hounds</h1>
     <p>Welcome to a Healthy Alternative!</p>
     <p>Your recommendation for today is "" from ""!</p>
+    <br><br>
     <p class="p1">Purpose</p>
+    <br>
     <p class="p2">This program lists the menus at Loyola Maryland University and lists the total macros and carbon emission for each food. Based off all the menus, the program caluclates which option is the healthiest and more environmental friendly!</p>
+    <br><br>
     <p class="p3">How it works</p>
+    <br>
     <p class="p4">This program takes data from its database and updates according to the menus on each day. This data is gathered with a weekly schedule update mechanic which gathers data on the menus throguh an API.</p>
   </main>
 
@@ -212,129 +234,133 @@ html {
     <p class="p15">Carbs: </p>
     <button class="back-button" onclick="goBackToSecondScreen()">Back</button>
   </div>
-  <script>
-   // Variable to store dynamic content
-    let dynamicContent = ""; // Default content
+<script>
+  // Variable to store dynamic content
+  let dynamicContent = ""; // Default content
+  let restaurantStats = "";
 
-    let restaurantStats = "";
+  // Store original button styles
+  const originalButtonStyles = {};
+  const buttons = document.querySelectorAll('#nav-buttons button');
+  buttons.forEach(button => {
+    originalButtonStyles[button.id] = {
+      backgroundColor: button.style.backgroundColor,
+      color: button.style.color,
+      border: button.style.border
+    };
+  });
 
-    // Store original button styles
-    const originalButtonStyles = {};
+  // Function to update the screen with dynamic content
+  function updateScreen(content) {
+    // Set the dynamic content
+    dynamicContent = content;
+
+    if (content == "Iggy's Market" || content == "Boulder") {
+      restaurantStats = "Dine in, Low Wait Time";
+    } else {
+      restaurantStats = "Dine in, Medium Wait Time";
+    }
+
+    // Hide the original page
+    document.getElementById('original-page').style.display = 'none';
+
+    // Hide the main section
+    document.querySelector('main').style.display = 'none';
+
+    // Show the hello-screen
+    document.getElementById('hello-screen').style.display = 'block';
+
+    // Update the content of the paragraph
+    document.getElementById('dynamicContent').innerText = dynamicContent;
+    document.getElementById('restaurantStats').innerText = restaurantStats;
+
+    // Reset button styles
+    resetButtonStyles();
+  }
+
+  // Function to select food item
+  function selectFoodItem(item) {
+    // Hide the hello-screen
+    document.getElementById('hello-screen').style.display = 'none';
+
+    // Show the third screen
+    document.getElementById('third-screen').style.display = 'block';
+
+    // Update content
+    document.getElementById('dynamicContentThird').innerText = item;
+  }
+
+  // Function to go back to the original page
+  function goBack() {
+    // Show the original page
+    document.getElementById('original-page').style.display = 'block';
+
+    // Show the main section
+    document.querySelector('main').style.display = 'block';
+
+    // Hide the hello-screen
+    document.getElementById('hello-screen').style.display = 'none';
+
+    // Reset button styles
+    resetButtonStyles();
+
+    // Restore original header structure
+    const originalHeader = document.getElementById('original-header');
+    const navButtons = document.createElement('nav');
+    navButtons.id = 'nav-buttons';
+    const originalPage = document.createElement('ul');
+    originalPage.id = 'original-page';
+    const buttonNames = ['Iggy\'s Market', 'Boulder', 'Boulder 2.0', 'Fresh West', 'Choolah', 'Green Peel', 'Iggy\'s Night Hound', 'Iggy\'s Bravisimo'];
+    buttonNames.forEach(buttonName => {
+      const button = document.createElement('button');
+      button.type = 'button';
+      button.textContent = buttonName;
+      button.id = buttonName.replace(/'/g, '').replace(/\s+/g, '-').toLowerCase();
+      button.addEventListener('click', () => updateScreen(button.textContent));
+      const li = document.createElement('li');
+      li.appendChild(button);
+      originalPage.appendChild(li);
+    });
+    navButtons.appendChild(originalPage);
+    originalHeader.innerHTML = ''; // Clear existing content
+    originalHeader.appendChild(navButtons);
+
+    // Restore the original dynamicContent
+    document.getElementById('dynamicContent').innerText = dynamicContent;
+    document.getElementById('restaurantStats').innerText = restaurantStats;
+  }
+
+  // Function to go back to the second screen from third screen
+  function goBackToSecondScreen() {
+    // Show the hello-screen
+    document.getElementById('hello-screen').style.display = 'block';
+
+    // Hide the third screen
+    document.getElementById('third-screen').style.display = 'none';
+  }
+
+  // Function to reset button styles
+  function resetButtonStyles() {
     const buttons = document.querySelectorAll('#nav-buttons button');
     buttons.forEach(button => {
-      originalButtonStyles[button.id] = {
-        backgroundColor: button.style.backgroundColor,
-        color: button.style.color,
-        border: button.style.border
-      };
+      button.style.backgroundColor = originalButtonStyles[button.id].backgroundColor;
+      button.style.color = originalButtonStyles[button.id].color;
+      button.style.border = originalButtonStyles[button.id].border;
+      // Add more styles as needed
     });
+  }
 
-    // Function to update the screen with dynamic content
-    function updateScreen(content) {
-      // Set the dynamic content
-      dynamicContent = content;
+  // Attach event listeners to the buttons
+  document.getElementById('iggy-market').addEventListener('click', () => updateScreen("Iggy's Market"));
+  document.getElementById('boulder').addEventListener('click', () => updateScreen("Boulder"));
+  document.getElementById('boulder-2').addEventListener('click', () => updateScreen("Boulder 2.0"));
+  document.getElementById('fresh-west').addEventListener('click', () => updateScreen("Fresh West"));
+  document.getElementById('choolah').addEventListener('click', () => updateScreen("Choolah"));
+  document.getElementById('green-peel').addEventListener('click', () => updateScreen("Green Peel"));
+  document.getElementById('iggy-night').addEventListener('click', () => updateScreen("Iggy's Night Hound"));
+  document.getElementById('iggy-bravisimo').addEventListener('click', () => updateScreen("Iggy's Bravisimo"));
 
-      if (content == "Iggy's Market" || content == "Boulder") {
-        restaurantStats = "Dine in, Low Wait Time";
-      } else {
-        restaurantStats = "Dine in, Medium Wait Time";
-      }
+</script>
 
-      // Hide the original page
-      document.getElementById('original-page').style.display = 'none';
-
-      // Hide the main section
-      document.querySelector('main').style.display = 'none';
-
-      // Show the blank screen
-      document.getElementById('hello-screen').style.display = 'block';
-
-      // Update the content of the paragraph
-      document.getElementById('dynamicContent').innerText = dynamicContent;
-
-      document.getElementById('restaurantStats').innerText = restaurantStats;
-
-      // Reset button styles
-      resetButtonStyles();
-    }
-
-    // Function to select food item
-    function selectFoodItem(item) {
-      // Hide the hello-screen
-      document.getElementById('hello-screen').style.display = 'none';
-
-      // Show the third screen
-      document.getElementById('third-screen').style.display = 'block';
-
-      // Update content
-      document.getElementById('dynamicContent').innerText = item;
-    }
-
-    // Function to go back to the original page
-    function goBack() {
-      // Show the original page
-      document.getElementById('original-page').style.display = 'block';
-
-      // Show the main section
-      document.querySelector('main').style.display = 'block';
-
-      // Hide the hello-screen
-      document.getElementById('hello-screen').style.display = 'none';
-
-      // Reset button styles
-      resetButtonStyles();
-
-      // Restore original header structure
-      const originalHeader = document.getElementById('original-header');
-      const navButtons = document.createElement('nav');
-      navButtons.id = 'nav-buttons';
-      const originalPage = document.createElement('ul');
-      originalPage.id = 'original-page';
-      const buttonNames = ['Iggy\'s Market', 'Boulder', 'Boulder 2.0', 'Fresh West', 'Choolah', 'Green Peel', 'Iggy\'s Night Hound', 'Iggy\'s Bravisimo'];
-      buttonNames.forEach(buttonName => {
-        const button = document.createElement('button');
-        button.type = 'button';
-        button.textContent = buttonName;
-        button.id = buttonName.replace(/'/g, '').replace(/\s+/g, '-').toLowerCase();
-        button.addEventListener('click', () => updateScreen(button.textContent));
-        const li = document.createElement('li');
-        li.appendChild(button);
-        originalPage.appendChild(li);
-      });
-      navButtons.appendChild(originalPage);
-      originalHeader.innerHTML = ''; // Clear existing content
-      originalHeader.appendChild(navButtons);
-    }
-
-    // Function to go back to the second screen from third screen
-    function goBackToSecondScreen() {
-      // Show the hello-screen
-      document.getElementById('hello-screen').style.display = 'block';
-
-      // Hide the third screen
-      document.getElementById('third-screen').style.display = 'none';
-    }
-
-    // Function to reset button styles
-    function resetButtonStyles() {
-      const buttons = document.querySelectorAll('#nav-buttons button');
-      buttons.forEach(button => {
-        button.style.backgroundColor = originalButtonStyles[button.id].backgroundColor;
-        button.style.color = originalButtonStyles[button.id].color;
-        button.style.border = originalButtonStyles[button.id].border;
-        // Add more styles as needed
-      });
-    }
-
-    // Attach event listeners to the buttons
-    document.getElementById('iggy-market').addEventListener('click', () => updateScreen("Iggy's Market"));
-    document.getElementById('boulder').addEventListener('click', () => updateScreen("Boulder"));
-    document.getElementById('boulder-2').addEventListener('click', () => updateScreen("Boulder 2.0"));
-    document.getElementById('fresh-west').addEventListener('click', () => updateScreen("Fresh West"));
-    document.getElementById('choolah').addEventListener('click', () => updateScreen("Choolah"));
-    document.getElementById('green-peel').addEventListener('click', () => updateScreen("Green Peel"));
-    document.getElementById('iggy-night').addEventListener('click', () => updateScreen("Iggy's Night Hound"));
-    document.getElementById('iggy-bravisimo').addEventListener('click', () => updateScreen("Iggy's Bravisimo"));
-  </script>
 </body>
 </html>
